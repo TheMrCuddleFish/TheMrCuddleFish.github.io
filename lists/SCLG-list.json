@@ -1,0 +1,2962 @@
+﻿[
+    {
+        "card_name": "Dreams of Peace and Respite",
+        "number": 11,
+        "shape": "normal",
+        "set": "SCLG",
+        "position": "100"
+    },
+    {
+        "card_name": "Attack from the Skies",
+        "number": 56,
+        "shape": "normal",
+        "set": "SCLG",
+        "position": "141"
+    },
+    {
+        "card_name": "Draagus, Lord of Silverhand",
+        "number": 129,
+        "shape": "normal",
+        "set": "SCLG",
+        "position": "23"
+    },
+    {
+        "card_name": "Ancestral Animus",
+        "number": 160,
+        "shape": "normal",
+        "set": "SCLG",
+        "position": "175"
+    },
+    {
+        "card_name": "Dreams of Wonder and Prosperity",
+        "number": 229,
+        "shape": "normal",
+        "set": "SCLG",
+        "position": "231"
+    },
+    {
+        "card_name": "The Great Golden Spirits",
+        "number": 20,
+        "shape": "normal",
+        "set": "SCLG",
+        "position": "109"
+    },
+    {
+        "card_name": "Dreams of Power and Control",
+        "number": 69,
+        "shape": "normal",
+        "set": "SCLG",
+        "position": "150"
+    },
+    {
+        "card_name": "Dreams of Death and Decay",
+        "number": 130,
+        "shape": "normal",
+        "set": "SCLG",
+        "position": "25"
+    },
+    {
+        "card_name": "Avenger Warcaptain",
+        "number": 161,
+        "shape": "normal",
+        "set": "SCLG",
+        "position": "352"
+    },
+    {
+        "card_name": "Ginasha, the Seedcursed",
+        "number": 239,
+        "shape": "normal",
+        "set": "SCLG",
+        "position": "238"
+    },
+    {
+        "card_name": "Kingmaker Harbinger",
+        "number": 30,
+        "shape": "normal",
+        "set": "SCLG",
+        "position": "119"
+    },
+    {
+        "card_name": "Elder-God's Rebuke",
+        "number": 71,
+        "shape": "normal",
+        "set": "SCLG",
+        "position": "353"
+    },
+    {
+        "card_name": "Twisted Tutor",
+        "number": 152,
+        "shape": "normal",
+        "set": "SCLG",
+        "position": "24"
+    },
+    {
+        "card_name": "Ozymandias, Reckless Tyrant",
+        "number": 190,
+        "shape": "normal",
+        "set": "SCLG",
+        "position": "195"
+    },
+    {
+        "card_name": "Omega Stratasaurus",
+        "number": 249,
+        "shape": "normal",
+        "set": "SCLG",
+        "position": "248"
+    },
+    {
+        "card_name": "Strigidus, Griffin Warlord",
+        "number": 46,
+        "shape": "normal",
+        "set": "SCLG",
+        "position": "134"
+    },
+    {
+        "card_name": "Muldra, The Warped Mind",
+        "number": 88,
+        "shape": "normal",
+        "set": "SCLG",
+        "position": "354"
+    },
+    {
+        "card_name": "Ascended of House Verharren",
+        "number": 110,
+        "shape": "normal",
+        "set": "SCLG",
+        "position": "57"
+    },
+    {
+        "card_name": "Rampant Manufacturing",
+        "number": 192,
+        "shape": "normal",
+        "set": "SCLG",
+        "position": "197"
+    },
+    {
+        "card_name": "Beastmaster Adept",
+        "number": 215,
+        "shape": "normal",
+        "set": "SCLG",
+        "position": "217"
+    },
+    {
+        "card_name": "Caelira, Dauntless Knight",
+        "number": 7,
+        "shape": "normal",
+        "set": "SCLG",
+        "position": "97"
+    },
+    {
+        "card_name": "Adonis, the Serpent Seraph",
+        "number": 54,
+        "shape": "normal",
+        "set": "SCLG",
+        "position": "349"
+    },
+    {
+        "card_name": "Big Top Necromancer",
+        "number": 111,
+        "shape": "normal",
+        "set": "SCLG",
+        "position": "54"
+    },
+    {
+        "card_name": "Uudal, Aspect of Chaos",
+        "number": 209,
+        "shape": "planeswalker",
+        "set": "SCLG",
+        "position": "212"
+    },
+    {
+        "card_name": "Beastmaster Elite",
+        "number": 216,
+        "shape": "normal",
+        "set": "SCLG",
+        "position": "218"
+    },
+    {
+        "card_name": "Camille, Union Premir",
+        "number": 8,
+        "shape": "normal",
+        "set": "SCLG",
+        "position": "318"
+    },
+    {
+        "card_name": "Deeprealm Summoning",
+        "number": 64,
+        "shape": "normal",
+        "set": "SCLG",
+        "position": "146"
+    },
+    {
+        "card_name": "Bloodbirch Mindreaver",
+        "number": 112,
+        "shape": "normal",
+        "set": "SCLG",
+        "position": "55"
+    },
+    {
+        "card_name": "Furnace-Cursed Djinn",
+        "number": 176,
+        "shape": "normal",
+        "set": "SCLG",
+        "position": "381"
+    },
+    {
+        "card_name": "Drop the Hammer",
+        "number": 230,
+        "shape": "normal",
+        "set": "SCLG",
+        "position": "232"
+    },
+    {
+        "card_name": "Fifth Season's Blossom",
+        "number": 17,
+        "shape": "normal",
+        "set": "SCLG",
+        "position": "106"
+    },
+    {
+        "card_name": "Dreamborn Escalation",
+        "number": 68,
+        "shape": "normal",
+        "set": "SCLG",
+        "position": "149"
+    },
+    {
+        "card_name": "Bloodtithe Battlemage",
+        "number": 113,
+        "shape": "normal",
+        "set": "SCLG",
+        "position": "58"
+    },
+    {
+        "card_name": "Hightower Besieged",
+        "number": 180,
+        "shape": "normal",
+        "set": "SCLG",
+        "position": "187"
+    },
+    {
+        "card_name": "Groda, the Living Wood",
+        "number": 241,
+        "shape": "normal",
+        "set": "SCLG",
+        "position": "240"
+    },
+    {
+        "card_name": "Guiding Hero's Light",
+        "number": 22,
+        "shape": "normal",
+        "set": "SCLG",
+        "position": "320"
+    },
+    {
+        "card_name": "Eclipse's Hearld",
+        "number": 70,
+        "shape": "normal",
+        "set": "SCLG",
+        "position": "151"
+    },
+    {
+        "card_name": "Death of the Arch-Nemesis",
+        "number": 125,
+        "shape": "normal",
+        "set": "SCLG",
+        "position": "53"
+    },
+    {
+        "card_name": "Magister's Appraiser",
+        "number": 186,
+        "shape": "normal",
+        "set": "SCLG",
+        "position": "192"
+    },
+    {
+        "card_name": "Lord of the Mistbogs",
+        "number": 243,
+        "shape": "normal",
+        "set": "SCLG",
+        "position": "242"
+    },
+    {
+        "card_name": "Magisters Koi Pond",
+        "number": 32,
+        "shape": "normal",
+        "set": "SCLG",
+        "position": "121"
+    },
+    {
+        "card_name": "Exalted Engineer",
+        "number": 74,
+        "shape": "normal",
+        "set": "SCLG",
+        "position": "153"
+    },
+    {
+        "card_name": "Elder-God's Command",
+        "number": 131,
+        "shape": "normal",
+        "set": "SCLG",
+        "position": "329"
+    },
+    {
+        "card_name": "Raucous Ransoming",
+        "number": 193,
+        "shape": "normal",
+        "set": "SCLG",
+        "position": "198"
+    },
+    {
+        "card_name": "Morbid Cultivator",
+        "number": 247,
+        "shape": "normal",
+        "set": "SCLG",
+        "position": "246"
+    },
+    {
+        "card_name": "Summon the Sun God",
+        "number": 48,
+        "shape": "normal",
+        "set": "SCLG",
+        "position": "136"
+    },
+    {
+        "card_name": "Genesis Voyager",
+        "number": 77,
+        "shape": "normal",
+        "set": "SCLG",
+        "position": "382"
+    },
+    {
+        "card_name": "Lord Verharren, Bloodlord Baron",
+        "number": 136,
+        "shape": "normal",
+        "set": "SCLG",
+        "position": "56"
+    },
+    {
+        "card_name": "Rending Heart's Desire",
+        "number": 197,
+        "shape": "normal",
+        "set": "SCLG",
+        "position": "202"
+    },
+    {
+        "card_name": "Primal Flutist",
+        "number": 253,
+        "shape": "adventure",
+        "set": "SCLG",
+        "position": "252"
+    },
+    {
+        "card_name": "Swaggering Sovereign",
+        "number": 49,
+        "shape": "normal",
+        "set": "SCLG",
+        "position": "137"
+    },
+    {
+        "card_name": "Lorekeeper Djinn",
+        "number": 85,
+        "shape": "normal",
+        "set": "SCLG",
+        "position": "386"
+    },
+    {
+        "card_name": "Soul Harvest Acolyte",
+        "number": 147,
+        "shape": "normal",
+        "set": "SCLG",
+        "position": "52"
+    },
+    {
+        "card_name": "Riot Captain",
+        "number": 198,
+        "shape": "normal",
+        "set": "SCLG",
+        "position": "203"
+    },
+    {
+        "card_name": "Sweet Lullaby",
+        "number": 260,
+        "shape": "normal",
+        "set": "SCLG",
+        "position": "389"
+    },
+    {
+        "card_name": "Ultimate Decree",
+        "number": 50,
+        "shape": "normal",
+        "set": "SCLG",
+        "position": "321"
+    },
+    {
+        "card_name": "Open the Vortex",
+        "number": 90,
+        "shape": "normal",
+        "set": "SCLG",
+        "position": "387"
+    },
+    {
+        "card_name": "Tyrant's Suspicions",
+        "number": 154,
+        "shape": "normal",
+        "set": "SCLG",
+        "position": "59"
+    },
+    {
+        "card_name": "Thundermaw Challenger",
+        "number": 204,
+        "shape": "normal",
+        "set": "SCLG",
+        "position": "208"
+    },
+    {
+        "card_name": "Undergrowth Behemoth",
+        "number": 264,
+        "shape": "normal",
+        "set": "SCLG",
+        "position": "260"
+    },
+    {
+        "card_name": "Vacant Existence",
+        "number": 51,
+        "shape": "normal",
+        "set": "SCLG",
+        "position": "138"
+    },
+    {
+        "card_name": "Path of Fleeting Wisdom",
+        "number": 92,
+        "shape": "normal",
+        "set": "SCLG",
+        "position": "334"
+    },
+    {
+        "card_name": "Abyssal Plague",
+        "number": 108,
+        "shape": "normal",
+        "set": "SCLG",
+        "position": "85"
+    },
+    {
+        "card_name": "Toggin, Goblin Blacksmith",
+        "number": 206,
+        "shape": "normal",
+        "set": "SCLG",
+        "position": "210"
+    },
+    {
+        "card_name": "Cherria, Leader of the Pride",
+        "number": 221,
+        "shape": "adventure",
+        "set": "SCLG",
+        "position": "223"
+    },
+    {
+        "card_name": "Alliance Spider Tank",
+        "number": 1,
+        "shape": "normal",
+        "set": "SCLG",
+        "position": "92"
+    },
+    {
+        "card_name": "Atellis, Hero Myrmidon",
+        "number": 55,
+        "shape": "normal",
+        "set": "SCLG",
+        "position": "326"
+    },
+    {
+        "card_name": "Bonestrider",
+        "number": 114,
+        "shape": "normal",
+        "set": "SCLG",
+        "position": "78"
+    },
+    {
+        "card_name": "Wild Ride",
+        "number": 213,
+        "shape": "normal",
+        "set": "SCLG",
+        "position": "215"
+    },
+    {
+        "card_name": "Coasting Dreamkite",
+        "number": 223,
+        "shape": "normal",
+        "set": "SCLG",
+        "position": "225"
+    },
+    {
+        "card_name": "Alyssa, the Sharpshooter",
+        "number": 2,
+        "shape": "adventure",
+        "set": "SCLG",
+        "position": "93"
+    },
+    {
+        "card_name": "Borthor, The Geyser King",
+        "number": 57,
+        "shape": "normal",
+        "set": "SCLG",
+        "position": "142"
+    },
+    {
+        "card_name": "Bound by Hellflame",
+        "number": 115,
+        "shape": "normal",
+        "set": "SCLG",
+        "position": "365"
+    },
+    {
+        "card_name": "Blazing Mutation",
+        "number": 163,
+        "shape": "normal",
+        "set": "SCLG",
+        "position": "364"
+    },
+    {
+        "card_name": "Dreamhost's Embrace",
+        "number": 227,
+        "shape": "normal",
+        "set": "SCLG",
+        "position": "229"
+    },
+    {
+        "card_name": "Bonding Chorus",
+        "number": 5,
+        "shape": "normal",
+        "set": "SCLG",
+        "position": "95"
+    },
+    {
+        "card_name": "Corvid Storm Shaman",
+        "number": 63,
+        "shape": "adventure",
+        "set": "SCLG",
+        "position": "145"
+    },
+    {
+        "card_name": "Calix, the Dreadknight",
+        "number": 116,
+        "shape": "normal",
+        "set": "SCLG",
+        "position": "81"
+    },
+    {
+        "card_name": "Bloodthirsty Throne",
+        "number": 164,
+        "shape": "normal",
+        "set": "SCLG",
+        "position": "177"
+    },
+    {
+        "card_name": "Eternal Witness",
+        "number": 232,
+        "shape": "normal",
+        "set": "SCLG",
+        "position": "367"
+    },
+    {
+        "card_name": "Chained Enforcer",
+        "number": 9,
+        "shape": "normal",
+        "set": "SCLG",
+        "position": "98"
+    },
+    {
+        "card_name": "Depths of Knowledge",
+        "number": 67,
+        "shape": "normal",
+        "set": "SCLG",
+        "position": "325"
+    },
+    {
+        "card_name": "Crippling Paranoia",
+        "number": 119,
+        "shape": "normal",
+        "set": "SCLG",
+        "position": "340"
+    },
+    {
+        "card_name": "Burn the Archives",
+        "number": 168,
+        "shape": "normal",
+        "set": "SCLG",
+        "position": "366"
+    },
+    {
+        "card_name": "Gaea's Pardon",
+        "number": 235,
+        "shape": "normal",
+        "set": "SCLG",
+        "position": "368"
+    },
+    {
+        "card_name": "The Drifter",
+        "number": 13,
+        "shape": "adventure",
+        "set": "SCLG",
+        "position": "102"
+    },
+    {
+        "card_name": "Eska, Mystic Archmage",
+        "number": 72,
+        "shape": "normal",
+        "set": "SCLG",
+        "position": "343"
+    },
+    {
+        "card_name": "Cursed Vanquisher",
+        "number": 121,
+        "shape": "normal",
+        "set": "SCLG",
+        "position": "80"
+    },
+    {
+        "card_name": "Coalition Flameblade",
+        "number": 169,
+        "shape": "normal",
+        "set": "SCLG",
+        "position": "181"
+    },
+    {
+        "card_name": "Glen, Wise Sentry",
+        "number": 240,
+        "shape": "adventure",
+        "set": "SCLG",
+        "position": "239"
+    },
+    {
+        "card_name": "Elgis, Dawnstrider",
+        "number": 15,
+        "shape": "normal",
+        "set": "SCLG",
+        "position": "104"
+    },
+    {
+        "card_name": "Evidence of the Apex",
+        "number": 73,
+        "shape": "normal",
+        "set": "SCLG",
+        "position": "152"
+    },
+    {
+        "card_name": "Damning Boon",
+        "number": 122,
+        "shape": "normal",
+        "set": "SCLG",
+        "position": "328"
+    },
+    {
+        "card_name": "Death-Herald Trumpeter",
+        "number": 170,
+        "shape": "normal",
+        "set": "SCLG",
+        "position": "341"
+    },
+    {
+        "card_name": "Halden, Druid of Hope",
+        "number": 242,
+        "shape": "adventure",
+        "set": "SCLG",
+        "position": "241"
+    },
+    {
+        "card_name": "Gafan's Iron Colossus",
+        "number": 19,
+        "shape": "normal",
+        "set": "SCLG",
+        "position": "108"
+    },
+    {
+        "card_name": "Giant Mecha-Crab",
+        "number": 78,
+        "shape": "normal",
+        "set": "SCLG",
+        "position": "155"
+    },
+    {
+        "card_name": "Deepwell Vanguard",
+        "number": 127,
+        "shape": "normal",
+        "set": "SCLG",
+        "position": "342"
+    },
+    {
+        "card_name": "Devastating Fury",
+        "number": 171,
+        "shape": "normal",
+        "set": "SCLG",
+        "position": "182"
+    },
+    {
+        "card_name": "Mandapoid Hivewarden",
+        "number": 244,
+        "shape": "normal",
+        "set": "SCLG",
+        "position": "243"
+    },
+    {
+        "card_name": "Hokrana of Solar Weaves",
+        "number": 26,
+        "shape": "adventure",
+        "set": "SCLG",
+        "position": "115"
+    },
+    {
+        "card_name": "Hightower Escort",
+        "number": 80,
+        "shape": "normal",
+        "set": "SCLG",
+        "position": "157"
+    },
+    {
+        "card_name": "The Discordant Flesh",
+        "number": 128,
+        "shape": "normal",
+        "set": "SCLG",
+        "position": "346"
+    },
+    {
+        "card_name": "Effenfield, Wild Whim Sorcerer",
+        "number": 172,
+        "shape": "normal",
+        "set": "SCLG",
+        "position": "183"
+    },
+    {
+        "card_name": "Melethon, Undergrowth Warden",
+        "number": 245,
+        "shape": "adventure",
+        "set": "SCLG",
+        "position": "244"
+    },
+    {
+        "card_name": "Kessel, Monster Hunter",
+        "number": 29,
+        "shape": "normal",
+        "set": "SCLG",
+        "position": "118"
+    },
+    {
+        "card_name": "In the Kracken's Clutches",
+        "number": 83,
+        "shape": "normal",
+        "set": "SCLG",
+        "position": "159"
+    },
+    {
+        "card_name": "Mordred, Sightless Guide",
+        "number": 139,
+        "shape": "normal",
+        "set": "SCLG",
+        "position": "373"
+    },
+    {
+        "card_name": "The Headless Samurai",
+        "number": 178,
+        "shape": "normal",
+        "set": "SCLG",
+        "position": "347"
+    },
+    {
+        "card_name": "Molo, the Devourer",
+        "number": 246,
+        "shape": "normal",
+        "set": "SCLG",
+        "position": "245"
+    },
+    {
+        "card_name": "Mark of the White Wolf",
+        "number": 33,
+        "shape": "normal",
+        "set": "SCLG",
+        "position": "319"
+    },
+    {
+        "card_name": "Lira, Tides's Magesty",
+        "number": 84,
+        "shape": "adventure",
+        "set": "SCLG",
+        "position": "160"
+    },
+    {
+        "card_name": "Noxious Dragon",
+        "number": 140,
+        "shape": "normal",
+        "set": "SCLG",
+        "position": "83"
+    },
+    {
+        "card_name": "Ignition Beam",
+        "number": 181,
+        "shape": "normal",
+        "set": "SCLG",
+        "position": "323"
+    },
+    {
+        "card_name": "Morgan, the Dreamsage",
+        "number": 248,
+        "shape": "normal",
+        "set": "SCLG",
+        "position": "247"
+    },
+    {
+        "card_name": "Migratory Flight",
+        "number": 34,
+        "shape": "normal",
+        "set": "SCLG",
+        "position": "122"
+    },
+    {
+        "card_name": "Mistbubble Jellyfish",
+        "number": 87,
+        "shape": "normal",
+        "set": "SCLG",
+        "position": "162"
+    },
+    {
+        "card_name": "Rusted Return",
+        "number": 145,
+        "shape": "normal",
+        "set": "SCLG",
+        "position": "84"
+    },
+    {
+        "card_name": "Ignition Helldrake",
+        "number": 182,
+        "shape": "normal",
+        "set": "SCLG",
+        "position": "189"
+    },
+    {
+        "card_name": "Pillars of Strength",
+        "number": 251,
+        "shape": "normal",
+        "set": "SCLG",
+        "position": "250"
+    },
+    {
+        "card_name": "Return to Peace",
+        "number": 37,
+        "shape": "normal",
+        "set": "SCLG",
+        "position": "125"
+    },
+    {
+        "card_name": "Phantasma, Hellsquad Spy",
+        "number": 93,
+        "shape": "normal",
+        "set": "SCLG",
+        "position": "165"
+    },
+    {
+        "card_name": "Spade-Legion Witch",
+        "number": 148,
+        "shape": "adventure",
+        "set": "SCLG",
+        "position": "82"
+    },
+    {
+        "card_name": "Kalaveraz, Hellsquad Grenadier",
+        "number": 183,
+        "shape": "normal",
+        "set": "SCLG",
+        "position": "190"
+    },
+    {
+        "card_name": "Prodigious Produce",
+        "number": 254,
+        "shape": "normal",
+        "set": "SCLG",
+        "position": "374"
+    },
+    {
+        "card_name": "Rise from the Ashes",
+        "number": 38,
+        "shape": "normal",
+        "set": "SCLG",
+        "position": "126"
+    },
+    {
+        "card_name": "Scuttling Scavenger",
+        "number": 96,
+        "shape": "normal",
+        "set": "SCLG",
+        "position": "167"
+    },
+    {
+        "card_name": "Trellix, The Last Song",
+        "number": 151,
+        "shape": "normal",
+        "set": "SCLG",
+        "position": "331"
+    },
+    {
+        "card_name": "Kali, Royal Playwright",
+        "number": 184,
+        "shape": "normal",
+        "set": "SCLG",
+        "position": "344"
+    },
+    {
+        "card_name": "Rotwood Gloomfang",
+        "number": 255,
+        "shape": "normal",
+        "set": "SCLG",
+        "position": "253"
+    },
+    {
+        "card_name": "Silverskin Commando",
+        "number": 39,
+        "shape": "normal",
+        "set": "SCLG",
+        "position": "127"
+    },
+    {
+        "card_name": "Seafarer Mystic",
+        "number": 97,
+        "shape": "normal",
+        "set": "SCLG",
+        "position": "345"
+    },
+    {
+        "card_name": "Tyra, Deepwoods Hunter",
+        "number": 153,
+        "shape": "normal",
+        "set": "SCLG",
+        "position": "379"
+    },
+    {
+        "card_name": "Patrolling Junkwagon",
+        "number": 191,
+        "shape": "normal",
+        "set": "SCLG",
+        "position": "196"
+    },
+    {
+        "card_name": "Skyreacher Warcaller",
+        "number": 258,
+        "shape": "normal",
+        "set": "SCLG",
+        "position": "256"
+    },
+    {
+        "card_name": "Sleeping Soundly",
+        "number": 41,
+        "shape": "normal",
+        "set": "SCLG",
+        "position": "130"
+    },
+    {
+        "card_name": "Skycloud Frigates",
+        "number": 100,
+        "shape": "normal",
+        "set": "SCLG",
+        "position": "169"
+    },
+    {
+        "card_name": "Underworld Lanterns",
+        "number": 155,
+        "shape": "normal",
+        "set": "SCLG",
+        "position": "333"
+    },
+    {
+        "card_name": "Red Claw Phalanx",
+        "number": 196,
+        "shape": "normal",
+        "set": "SCLG",
+        "position": "201"
+    },
+    {
+        "card_name": "Thrash the City",
+        "number": 261,
+        "shape": "normal",
+        "set": "SCLG",
+        "position": "258"
+    },
+    {
+        "card_name": "Somber Remembrance",
+        "number": 42,
+        "shape": "normal",
+        "set": "SCLG",
+        "position": "131"
+    },
+    {
+        "card_name": "Vow of Wings",
+        "number": 103,
+        "shape": "normal",
+        "set": "SCLG",
+        "position": "172"
+    },
+    {
+        "card_name": "Utter Obliteration",
+        "number": 157,
+        "shape": "normal",
+        "set": "SCLG",
+        "position": "348"
+    },
+    {
+        "card_name": "Riot Pit Savage",
+        "number": 199,
+        "shape": "normal",
+        "set": "SCLG",
+        "position": "204"
+    },
+    {
+        "card_name": "Trail of Missing Keys",
+        "number": 263,
+        "shape": "normal",
+        "set": "SCLG",
+        "position": "378"
+    },
+    {
+        "card_name": "Spirit-Seeker Witch",
+        "number": 44,
+        "shape": "normal",
+        "set": "SCLG",
+        "position": "133"
+    },
+    {
+        "card_name": "Wang Ling, Grand Commandant",
+        "number": 104,
+        "shape": "normal",
+        "set": "SCLG",
+        "position": "173"
+    },
+    {
+        "card_name": "Venefica, Hellsquad Commando",
+        "number": 158,
+        "shape": "normal",
+        "set": "SCLG",
+        "position": "79"
+    },
+    {
+        "card_name": "Theyyam, Royal Executioner",
+        "number": 203,
+        "shape": "normal",
+        "set": "SCLG",
+        "position": "377"
+    },
+    {
+        "card_name": "Alliance Skybreaker",
+        "number": 214,
+        "shape": "normal",
+        "set": "SCLG",
+        "position": "216"
+    },
+    {
+        "card_name": "Valiant Defense",
+        "number": 52,
+        "shape": "normal",
+        "set": "SCLG",
+        "position": "139"
+    },
+    {
+        "card_name": "Withstand the Storm",
+        "number": 106,
+        "shape": "normal",
+        "set": "SCLG",
+        "position": "174"
+    },
+    {
+        "card_name": "Veska, Bounty Hunter",
+        "number": 159,
+        "shape": "normal",
+        "set": "SCLG",
+        "position": "380"
+    },
+    {
+        "card_name": "Tobey, the Rage Brewmaster",
+        "number": 205,
+        "shape": "normal",
+        "set": "SCLG",
+        "position": "209"
+    },
+    {
+        "card_name": "Bed of Roses",
+        "number": 217,
+        "shape": "normal",
+        "set": "SCLG",
+        "position": "219"
+    },
+    {
+        "card_name": "Angel of Feathered Felines",
+        "number": 3,
+        "shape": "normal",
+        "set": "SCLG",
+        "position": "114"
+    },
+    {
+        "card_name": "Breach the Waves",
+        "number": 58,
+        "shape": "normal",
+        "set": "SCLG",
+        "position": "395"
+    },
+    {
+        "card_name": "Abyssal Pathkeeper",
+        "number": 107,
+        "shape": "normal",
+        "set": "SCLG",
+        "position": "335"
+    },
+    {
+        "card_name": "Vow of Fury",
+        "number": 211,
+        "shape": "normal",
+        "set": "SCLG",
+        "position": "213"
+    },
+    {
+        "card_name": "Bloom Wanderers",
+        "number": 218,
+        "shape": "normal",
+        "set": "SCLG",
+        "position": "220"
+    },
+    {
+        "card_name": "Balustrade Companion",
+        "number": 4,
+        "shape": "normal",
+        "set": "SCLG",
+        "position": "94"
+    },
+    {
+        "card_name": "Coastal Chorus",
+        "number": 59,
+        "shape": "normal",
+        "set": "SCLG",
+        "position": "143"
+    },
+    {
+        "card_name": "Armoured Ghoul",
+        "number": 109,
+        "shape": "normal",
+        "set": "SCLG",
+        "position": "3"
+    },
+    {
+        "card_name": "Wallsmasher Champion",
+        "number": 212,
+        "shape": "normal",
+        "set": "SCLG",
+        "position": "214"
+    },
+    {
+        "card_name": "Brightgarden Dryad",
+        "number": 219,
+        "shape": "adventure",
+        "set": "SCLG",
+        "position": "221"
+    },
+    {
+        "card_name": "Brightwing Blessing",
+        "number": 6,
+        "shape": "normal",
+        "set": "SCLG",
+        "position": "96"
+    },
+    {
+        "card_name": "Coastal Pinnipoids",
+        "number": 60,
+        "shape": "normal",
+        "set": "SCLG",
+        "position": "144"
+    },
+    {
+        "card_name": "Carress of Oblivion",
+        "number": 117,
+        "shape": "normal",
+        "set": "SCLG",
+        "position": "355"
+    },
+    {
+        "card_name": "Bar Breaker",
+        "number": 162,
+        "shape": "normal",
+        "set": "SCLG",
+        "position": "176"
+    },
+    {
+        "card_name": "Charging Misfits",
+        "number": 220,
+        "shape": "normal",
+        "set": "SCLG",
+        "position": "222"
+    },
+    {
+        "card_name": "Demolishing Blow",
+        "number": 10,
+        "shape": "normal",
+        "set": "SCLG",
+        "position": "99"
+    },
+    {
+        "card_name": "Cobalt-Memory Mage",
+        "number": 61,
+        "shape": "normal",
+        "set": "SCLG",
+        "position": "357"
+    },
+    {
+        "card_name": "Commune with Darkness",
+        "number": 118,
+        "shape": "normal",
+        "set": "SCLG",
+        "position": "14"
+    },
+    {
+        "card_name": "Bombard Elephants",
+        "number": 165,
+        "shape": "normal",
+        "set": "SCLG",
+        "position": "178"
+    },
+    {
+        "card_name": "Close Combat",
+        "number": 222,
+        "shape": "normal",
+        "set": "SCLG",
+        "position": "224"
+    },
+    {
+        "card_name": "Dreamsteppe Whale",
+        "number": 12,
+        "shape": "normal",
+        "set": "SCLG",
+        "position": "101"
+    },
+    {
+        "card_name": "Commune with Ancestors",
+        "number": 62,
+        "shape": "normal",
+        "set": "SCLG",
+        "position": "327"
+    },
+    {
+        "card_name": "Crownstealer Vampire",
+        "number": 120,
+        "shape": "normal",
+        "set": "SCLG",
+        "position": "9"
+    },
+    {
+        "card_name": "Brazen Assault",
+        "number": 166,
+        "shape": "normal",
+        "set": "SCLG",
+        "position": "179"
+    },
+    {
+        "card_name": "Cobble Crusher",
+        "number": 224,
+        "shape": "normal",
+        "set": "SCLG",
+        "position": "226"
+    },
+    {
+        "card_name": "Duty Calls",
+        "number": 14,
+        "shape": "normal",
+        "set": "SCLG",
+        "position": "103"
+    },
+    {
+        "card_name": "Deepwater Goliath",
+        "number": 65,
+        "shape": "normal",
+        "set": "SCLG",
+        "position": "358"
+    },
+    {
+        "card_name": "Dark Discovery",
+        "number": 123,
+        "shape": "normal",
+        "set": "SCLG",
+        "position": "16"
+    },
+    {
+        "card_name": "Brazen Forgeling",
+        "number": 167,
+        "shape": "normal",
+        "set": "SCLG",
+        "position": "180"
+    },
+    {
+        "card_name": "Crash the Competition",
+        "number": 225,
+        "shape": "normal",
+        "set": "SCLG",
+        "position": "227"
+    },
+    {
+        "card_name": "Fated Coronation",
+        "number": 16,
+        "shape": "normal",
+        "set": "SCLG",
+        "position": "105"
+    },
+    {
+        "card_name": "Deepwell Courier",
+        "number": 66,
+        "shape": "normal",
+        "set": "SCLG",
+        "position": "148"
+    },
+    {
+        "card_name": "Deadly Offering",
+        "number": 124,
+        "shape": "normal",
+        "set": "SCLG",
+        "position": "13"
+    },
+    {
+        "card_name": "Elder-God's Glare",
+        "number": 173,
+        "shape": "normal",
+        "set": "SCLG",
+        "position": "184"
+    },
+    {
+        "card_name": "Deadeye Sniper",
+        "number": 226,
+        "shape": "normal",
+        "set": "SCLG",
+        "position": "228"
+    },
+    {
+        "card_name": "Frosted Barbarian",
+        "number": 18,
+        "shape": "normal",
+        "set": "SCLG",
+        "position": "107"
+    },
+    {
+        "card_name": "Face the Impossible",
+        "number": 75,
+        "shape": "normal",
+        "set": "SCLG",
+        "position": "336"
+    },
+    {
+        "card_name": "Death's Familiar",
+        "number": 126,
+        "shape": "normal",
+        "set": "SCLG",
+        "position": "1"
+    },
+    {
+        "card_name": "Exploring the Unknown",
+        "number": 174,
+        "shape": "saga",
+        "set": "SCLG",
+        "position": "359"
+    },
+    {
+        "card_name": "Dreamloft Steamplow",
+        "number": 228,
+        "shape": "normal",
+        "set": "SCLG",
+        "position": "230"
+    },
+    {
+        "card_name": "Greater Binding",
+        "number": 21,
+        "shape": "normal",
+        "set": "SCLG",
+        "position": "110"
+    },
+    {
+        "card_name": "Follow the Rabbit",
+        "number": 76,
+        "shape": "normal",
+        "set": "SCLG",
+        "position": "154"
+    },
+    {
+        "card_name": "Grimacing Courtesan",
+        "number": 132,
+        "shape": "normal",
+        "set": "SCLG",
+        "position": "360"
+    },
+    {
+        "card_name": "Flesh-Wheel Lasher",
+        "number": 175,
+        "shape": "normal",
+        "set": "SCLG",
+        "position": "330"
+    },
+    {
+        "card_name": "Earthen Undermine",
+        "number": 231,
+        "shape": "normal",
+        "set": "SCLG",
+        "position": "233"
+    },
+    {
+        "card_name": "Guildguard Feline",
+        "number": 23,
+        "shape": "adventure",
+        "set": "SCLG",
+        "position": "112"
+    },
+    {
+        "card_name": "Greatdeep Behemoth",
+        "number": 79,
+        "shape": "adventure",
+        "set": "SCLG",
+        "position": "156"
+    },
+    {
+        "card_name": "Hunger-Twisted Mauler",
+        "number": 133,
+        "shape": "normal",
+        "set": "SCLG",
+        "position": "8"
+    },
+    {
+        "card_name": "Gold-Lion Champion",
+        "number": 177,
+        "shape": "normal",
+        "set": "SCLG",
+        "position": "185"
+    },
+    {
+        "card_name": "Finding Yourself",
+        "number": 233,
+        "shape": "normal",
+        "set": "SCLG",
+        "position": "322"
+    },
+    {
+        "card_name": "Hightower Mechanic",
+        "number": 24,
+        "shape": "normal",
+        "set": "SCLG",
+        "position": "129"
+    },
+    {
+        "card_name": "Idyllic Air Lift",
+        "number": 81,
+        "shape": "normal",
+        "set": "SCLG",
+        "position": "362"
+    },
+    {
+        "card_name": "Legion Deathtroopers",
+        "number": 134,
+        "shape": "normal",
+        "set": "SCLG",
+        "position": "0"
+    },
+    {
+        "card_name": "Hellbreaker Warrior",
+        "number": 179,
+        "shape": "normal",
+        "set": "SCLG",
+        "position": "186"
+    },
+    {
+        "card_name": "Fortification Team",
+        "number": 234,
+        "shape": "normal",
+        "set": "SCLG",
+        "position": "234"
+    },
+    {
+        "card_name": "Hightower Overseers",
+        "number": 25,
+        "shape": "normal",
+        "set": "SCLG",
+        "position": "113"
+    },
+    {
+        "card_name": "Idyllic Skyfisher",
+        "number": 82,
+        "shape": "adventure",
+        "set": "SCLG",
+        "position": "158"
+    },
+    {
+        "card_name": "Legion Heavy Strider",
+        "number": 135,
+        "shape": "normal",
+        "set": "SCLG",
+        "position": "10"
+    },
+    {
+        "card_name": "Khorne World-Eater",
+        "number": 185,
+        "shape": "normal",
+        "set": "SCLG",
+        "position": "191"
+    },
+    {
+        "card_name": "Garden Goblin",
+        "number": 236,
+        "shape": "normal",
+        "set": "SCLG",
+        "position": "235"
+    },
+    {
+        "card_name": "Horizon of Possibility",
+        "number": 27,
+        "shape": "saga",
+        "set": "SCLG",
+        "position": "116"
+    },
+    {
+        "card_name": "Machine Learning",
+        "number": 86,
+        "shape": "normal",
+        "set": "SCLG",
+        "position": "161"
+    },
+    {
+        "card_name": "Mechanized Cadaver",
+        "number": 137,
+        "shape": "normal",
+        "set": "SCLG",
+        "position": "6"
+    },
+    {
+        "card_name": "Molten-Core Minotaur",
+        "number": 187,
+        "shape": "normal",
+        "set": "SCLG",
+        "position": "188"
+    },
+    {
+        "card_name": "Garden Guardian",
+        "number": 237,
+        "shape": "normal",
+        "set": "SCLG",
+        "position": "236"
+    },
+    {
+        "card_name": "Kalari Shieldmate",
+        "number": 28,
+        "shape": "normal",
+        "set": "SCLG",
+        "position": "117"
+    },
+    {
+        "card_name": "Mystical Recollection",
+        "number": 89,
+        "shape": "normal",
+        "set": "SCLG",
+        "position": "163"
+    },
+    {
+        "card_name": "Moonlight Assassin",
+        "number": 138,
+        "shape": "normal",
+        "set": "SCLG",
+        "position": "2"
+    },
+    {
+        "card_name": "Nails of Aggression",
+        "number": 188,
+        "shape": "normal",
+        "set": "SCLG",
+        "position": "193"
+    },
+    {
+        "card_name": "Gift of Amnesty",
+        "number": 238,
+        "shape": "normal",
+        "set": "SCLG",
+        "position": "237"
+    },
+    {
+        "card_name": "Magesty's Vangaurd",
+        "number": 31,
+        "shape": "normal",
+        "set": "SCLG",
+        "position": "120"
+    },
+    {
+        "card_name": "Palace Skyfins",
+        "number": 91,
+        "shape": "normal",
+        "set": "SCLG",
+        "position": "164"
+    },
+    {
+        "card_name": "Path of Vengeance",
+        "number": 141,
+        "shape": "saga",
+        "set": "SCLG",
+        "position": "11"
+    },
+    {
+        "card_name": "Ornery Pterosaurus",
+        "number": 189,
+        "shape": "normal",
+        "set": "SCLG",
+        "position": "194"
+    },
+    {
+        "card_name": "Outland Packhunter",
+        "number": 250,
+        "shape": "adventure",
+        "set": "SCLG",
+        "position": "249"
+    },
+    {
+        "card_name": "Out to Lunch",
+        "number": 35,
+        "shape": "normal",
+        "set": "SCLG",
+        "position": "123"
+    },
+    {
+        "card_name": "Pond-Augur Adept",
+        "number": 94,
+        "shape": "normal",
+        "set": "SCLG",
+        "position": "338"
+    },
+    {
+        "card_name": "Poisontip Assassin",
+        "number": 142,
+        "shape": "normal",
+        "set": "SCLG",
+        "position": "4"
+    },
+    {
+        "card_name": "Ready For War",
+        "number": 194,
+        "shape": "normal",
+        "set": "SCLG",
+        "position": "199"
+    },
+    {
+        "card_name": "Pridestar Flak-Platform",
+        "number": 252,
+        "shape": "normal",
+        "set": "SCLG",
+        "position": "251"
+    },
+    {
+        "card_name": "Queen's Legionaires",
+        "number": 36,
+        "shape": "normal",
+        "set": "SCLG",
+        "position": "124"
+    },
+    {
+        "card_name": "Return to \u00c6ther",
+        "number": 95,
+        "shape": "normal",
+        "set": "SCLG",
+        "position": "166"
+    },
+    {
+        "card_name": "Rusted Bone-Collector",
+        "number": 143,
+        "shape": "normal",
+        "set": "SCLG",
+        "position": "339"
+    },
+    {
+        "card_name": "Red Claw Longstrider",
+        "number": 195,
+        "shape": "normal",
+        "set": "SCLG",
+        "position": "200"
+    },
+    {
+        "card_name": "Rusted Ironwalker",
+        "number": 256,
+        "shape": "normal",
+        "set": "SCLG",
+        "position": "254"
+    },
+    {
+        "card_name": "Skybreaker Evangel",
+        "number": 40,
+        "shape": "normal",
+        "set": "SCLG",
+        "position": "128"
+    },
+    {
+        "card_name": "Seeking the Old Ones",
+        "number": 98,
+        "shape": "saga",
+        "set": "SCLG",
+        "position": "168"
+    },
+    {
+        "card_name": "Rusted Hexwalker",
+        "number": 144,
+        "shape": "normal",
+        "set": "SCLG",
+        "position": "5"
+    },
+    {
+        "card_name": "Scarlet-Ore Scavenger",
+        "number": 200,
+        "shape": "normal",
+        "set": "SCLG",
+        "position": "205"
+    },
+    {
+        "card_name": "Seeking Shelter",
+        "number": 257,
+        "shape": "normal",
+        "set": "SCLG",
+        "position": "255"
+    },
+    {
+        "card_name": "Spirit Realm Retribution",
+        "number": 43,
+        "shape": "normal",
+        "set": "SCLG",
+        "position": "132"
+    },
+    {
+        "card_name": "Shadowclaw Hunter",
+        "number": 99,
+        "shape": "normal",
+        "set": "SCLG",
+        "position": "147"
+    },
+    {
+        "card_name": "Skyway Cyber-Hunter",
+        "number": 146,
+        "shape": "normal",
+        "set": "SCLG",
+        "position": "7"
+    },
+    {
+        "card_name": "Scrapfield Goons",
+        "number": 201,
+        "shape": "normal",
+        "set": "SCLG",
+        "position": "206"
+    },
+    {
+        "card_name": "Spiritguard Treefolk",
+        "number": 259,
+        "shape": "adventure",
+        "set": "SCLG",
+        "position": "257"
+    },
+    {
+        "card_name": "Spiritual Companion",
+        "number": 45,
+        "shape": "normal",
+        "set": "SCLG",
+        "position": "111"
+    },
+    {
+        "card_name": "Sudden Capsize",
+        "number": 101,
+        "shape": "normal",
+        "set": "SCLG",
+        "position": "170"
+    },
+    {
+        "card_name": "Sudden Death",
+        "number": 149,
+        "shape": "normal",
+        "set": "SCLG",
+        "position": "15"
+    },
+    {
+        "card_name": "Shattering Betrayal",
+        "number": 202,
+        "shape": "normal",
+        "set": "SCLG",
+        "position": "207"
+    },
+    {
+        "card_name": "Topple What Stands",
+        "number": 262,
+        "shape": "normal",
+        "set": "SCLG",
+        "position": "259"
+    },
+    {
+        "card_name": "Strix Scout",
+        "number": 47,
+        "shape": "adventure",
+        "set": "SCLG",
+        "position": "135"
+    },
+    {
+        "card_name": "Tripod Stinging Scout",
+        "number": 102,
+        "shape": "normal",
+        "set": "SCLG",
+        "position": "171"
+    },
+    {
+        "card_name": "Toxic Fumes",
+        "number": 150,
+        "shape": "normal",
+        "set": "SCLG",
+        "position": "17"
+    },
+    {
+        "card_name": "Tumble Down",
+        "number": 207,
+        "shape": "normal",
+        "set": "SCLG",
+        "position": "211"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "Wild Pathfinder",
+        "number": 53,
+        "shape": "normal",
+        "set": "SCLG",
+        "position": "140"
+    },
+    {
+        "card_name": "Wildborn Rebuttle",
+        "number": 105,
+        "shape": "normal",
+        "set": "SCLG",
+        "position": "337"
+    },
+    {
+        "card_name": "Unstoppable Conquest",
+        "number": 156,
+        "shape": "normal",
+        "set": "SCLG",
+        "position": "12"
+    },
+    {
+        "card_name": "Twisted Mangler",
+        "number": 208,
+        "shape": "normal",
+        "set": "SCLG",
+        "position": "332"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "Visceral Punch",
+        "number": 210,
+        "shape": "normal",
+        "set": "SCLG",
+        "position": "324"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    "a->gold",
+    {
+        "card_name": "Eva and Echo, Twin Prodigies",
+        "number": 278,
+        "shape": "normal",
+        "set": "SCLG",
+        "position": "35"
+    },
+    {
+        "card_name": "Lord Swiftraven of House Ardetta",
+        "number": 301,
+        "shape": "normal",
+        "set": "SCLG",
+        "position": "31"
+    },
+    {
+        "card_name": "Domnathus, Willbreaker",
+        "number": 274,
+        "shape": "normal",
+        "set": "SCLG",
+        "position": "39"
+    },
+    {
+        "card_name": "High Priest Mokayuna",
+        "number": 285,
+        "shape": "normal",
+        "set": "SCLG",
+        "position": "33"
+    },
+    {
+        "card_name": "Kela, Queen of the Acorns",
+        "number": 294,
+        "shape": "normal",
+        "set": "SCLG",
+        "position": "48"
+    },
+    {
+        "card_name": "Iffavella, Celestial Guide",
+        "number": 287,
+        "shape": "normal",
+        "set": "SCLG",
+        "position": "42"
+    },
+    {
+        "card_name": "Olgis, the Iron General",
+        "number": 309,
+        "shape": "normal",
+        "set": "SCLG",
+        "position": "30"
+    },
+    {
+        "card_name": "Lady Rose of House Annette",
+        "number": 296,
+        "shape": "normal",
+        "set": "SCLG",
+        "position": "47"
+    },
+    {
+        "card_name": "The Irel Brute",
+        "number": 290,
+        "shape": "normal",
+        "set": "SCLG",
+        "position": "394"
+    },
+    {
+        "card_name": "Zaculeu, the Architect",
+        "number": 319,
+        "shape": "normal",
+        "set": "SCLG",
+        "position": "46"
+    },
+    {
+        "card_name": "Aluna, of Ghostly Lanterns",
+        "number": 270,
+        "shape": "normal",
+        "set": "SCLG",
+        "position": "66"
+    },
+    {
+        "card_name": "Antheia, Master of Fangs",
+        "number": 271,
+        "shape": "normal",
+        "set": "SCLG",
+        "position": "74"
+    },
+    {
+        "card_name": "Qiang Liang, Soul Collector",
+        "number": 310,
+        "shape": "normal",
+        "set": "SCLG",
+        "position": "72"
+    },
+    {
+        "card_name": "Rydex, Timeless Warrior",
+        "number": 311,
+        "shape": "normal",
+        "set": "SCLG",
+        "position": "388"
+    },
+    {
+        "card_name": "Michi, the Wanderer",
+        "number": 305,
+        "shape": "normal",
+        "set": "SCLG",
+        "position": "67"
+    },
+    {
+        "card_name": "Heggstec, the Technologist",
+        "number": 283,
+        "shape": "normal",
+        "set": "SCLG",
+        "position": "90"
+    },
+    {
+        "card_name": "Lyra, Winter Ranger",
+        "number": 302,
+        "shape": "normal",
+        "set": "SCLG",
+        "position": "372"
+    },
+    {
+        "card_name": "Justice, Ruin Walker",
+        "number": 291,
+        "shape": "normal",
+        "set": "SCLG",
+        "position": "86"
+    },
+    {
+        "card_name": "Graffa, Big Game Hunter",
+        "number": 279,
+        "shape": "normal",
+        "set": "SCLG",
+        "position": "87"
+    },
+    {
+        "card_name": "Aleris, Bride of the Arena",
+        "number": 269,
+        "shape": "normal",
+        "set": "SCLG",
+        "position": "91"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "Alderis, Ascendant Machine",
+        "number": 268,
+        "shape": "normal",
+        "set": "SCLG",
+        "position": "32"
+    },
+    {
+        "card_name": "Adon, Essence of Expression",
+        "number": 266,
+        "shape": "normal",
+        "set": "SCLG",
+        "position": "45"
+    },
+    {
+        "card_name": "Cambyses, The Squealing King",
+        "number": 273,
+        "shape": "normal",
+        "set": "SCLG",
+        "position": "51"
+    },
+    {
+        "card_name": "Esmeralda of the Red Thorn",
+        "number": 277,
+        "shape": "normal",
+        "set": "SCLG",
+        "position": "29"
+    },
+    {
+        "card_name": "Tina, the Longriver Angler",
+        "number": 317,
+        "shape": "normal",
+        "set": "SCLG",
+        "position": "26"
+    },
+    {
+        "card_name": "Nito, Necropolis Dreadlord",
+        "number": 308,
+        "shape": "normal",
+        "set": "SCLG",
+        "position": "36"
+    },
+    {
+        "card_name": "Tazeil, Architect of Invasion",
+        "number": 316,
+        "shape": "normal",
+        "set": "SCLG",
+        "position": "43"
+    },
+    {
+        "card_name": "Spondrak, the Blighted Knight",
+        "number": 315,
+        "shape": "normal",
+        "set": "SCLG",
+        "position": "27"
+    },
+    {
+        "card_name": "Grendel, the Flamesmith",
+        "number": 281,
+        "shape": "normal",
+        "set": "SCLG",
+        "position": "71"
+    },
+    {
+        "card_name": "Lena of Many Futures",
+        "number": 299,
+        "shape": "normal",
+        "set": "SCLG",
+        "position": "68"
+    },
+    {
+        "card_name": "Leeta, Raven Spymaster",
+        "number": 298,
+        "shape": "normal",
+        "set": "SCLG",
+        "position": "75"
+    },
+    {
+        "card_name": "Zheltial, Force of Nature",
+        "number": 322,
+        "shape": "normal",
+        "set": "SCLG",
+        "position": "73"
+    },
+    {
+        "card_name": "Kastor, Merciless Dreadknight",
+        "number": 292,
+        "shape": "normal",
+        "set": "SCLG",
+        "position": "383"
+    },
+    {
+        "card_name": "Keanon, Arena Celebrity",
+        "number": 293,
+        "shape": "normal",
+        "set": "SCLG",
+        "position": "262"
+    },
+    {
+        "card_name": "Illugen, the Perfected Form",
+        "number": 289,
+        "shape": "normal",
+        "set": "SCLG",
+        "position": "261"
+    },
+    {
+        "card_name": "Alberic, Thief Guildmaster",
+        "number": 267,
+        "shape": "normal",
+        "set": "SCLG",
+        "position": "88"
+    },
+    {
+        "card_name": "The Great Watcher",
+        "number": 280,
+        "shape": "normal",
+        "set": "SCLG",
+        "position": "376"
+    },
+    {
+        "card_name": "Zellis, the Grave-Broker",
+        "number": 321,
+        "shape": "normal",
+        "set": "SCLG",
+        "position": "89"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "Maya, War-Mind Engineer",
+        "number": 303,
+        "shape": "normal",
+        "set": "SCLG",
+        "position": "392"
+    },
+    {
+        "card_name": "Morgoth, Seeker of Silmarils",
+        "number": 307,
+        "shape": "planeswalker",
+        "set": "SCLG",
+        "position": "393"
+    },
+    {
+        "card_name": "Ikon, Soul of Carnage",
+        "number": 288,
+        "shape": "normal",
+        "set": "SCLG",
+        "position": "37"
+    },
+    {
+        "card_name": "Apedemak, God of War",
+        "number": 272,
+        "shape": "normal",
+        "set": "SCLG",
+        "position": "28"
+    },
+    {
+        "card_name": "Sir Tucker Stark",
+        "number": 313,
+        "shape": "normal",
+        "set": "SCLG",
+        "position": "40"
+    },
+    {
+        "card_name": "Lavessa, Wisdom's Guardian",
+        "number": 297,
+        "shape": "normal",
+        "set": "SCLG",
+        "position": "385"
+    },
+    {
+        "card_name": "Medea, Hellbonder",
+        "number": 304,
+        "shape": "normal",
+        "set": "SCLG",
+        "position": "351"
+    },
+    {
+        "card_name": "Koghul, Champion of the Arena",
+        "number": 295,
+        "shape": "normal",
+        "set": "SCLG",
+        "position": "384"
+    },
+    {
+        "card_name": "Adolsa, the Great Protector",
+        "number": 265,
+        "shape": "normal",
+        "set": "SCLG",
+        "position": "69"
+    },
+    {
+        "card_name": "Littara, Host of Dreams",
+        "number": 300,
+        "shape": "normal",
+        "set": "SCLG",
+        "position": "76"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "Elena, Living Martyr",
+        "number": 275,
+        "shape": "normal",
+        "set": "SCLG",
+        "position": "34"
+    },
+    {
+        "card_name": "Mineko, Wild Avenger",
+        "number": 306,
+        "shape": "normal",
+        "set": "SCLG",
+        "position": "50"
+    },
+    {
+        "card_name": "Skevval, Marching Death",
+        "number": 314,
+        "shape": "normal",
+        "set": "SCLG",
+        "position": "44"
+    },
+    {
+        "card_name": "Emilia, The Penitent Saint",
+        "number": 276,
+        "shape": "normal",
+        "set": "SCLG",
+        "position": "41"
+    },
+    {
+        "card_name": "Grudis, the Catacomb Chief",
+        "number": 282,
+        "shape": "normal",
+        "set": "SCLG",
+        "position": "49"
+    },
+    {
+        "card_name": "Shaizo, of the Deepflame",
+        "number": 312,
+        "shape": "normal",
+        "set": "SCLG",
+        "position": "70"
+    },
+    {
+        "card_name": "Xanathod, Primordial Avenger",
+        "number": 318,
+        "shape": "normal",
+        "set": "SCLG",
+        "position": "390"
+    },
+    {
+        "card_name": "Hylas, the Eternal Guardian",
+        "number": 286,
+        "shape": "normal",
+        "set": "SCLG",
+        "position": "77"
+    },
+    {
+        "card_name": "Hestia, Astral Warrior",
+        "number": 284,
+        "shape": "normal",
+        "set": "SCLG",
+        "position": "350"
+    },
+    {
+        "card_name": "Zara, Necromancer Admiral",
+        "number": 320,
+        "shape": "normal",
+        "set": "SCLG",
+        "position": "391"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "Ellar, Astroatlas",
+        "number": 323,
+        "shape": "normal",
+        "set": "SCLG",
+        "position": "22"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    "a->colorless",
+    {
+        "card_name": "Dragonscale Plate",
+        "number": 336,
+        "shape": "normal",
+        "set": "SCLG",
+        "position": "274"
+    },
+    {
+        "card_name": "Hell Company Commander",
+        "number": 348,
+        "shape": "normal",
+        "set": "SCLG",
+        "position": "285"
+    },
+    {
+        "card_name": "The Light of Eternity",
+        "number": 356,
+        "shape": "normal",
+        "set": "SCLG",
+        "position": "291"
+    },
+    {
+        "card_name": "Magnus Engine",
+        "number": 358,
+        "shape": "normal",
+        "set": "SCLG",
+        "position": "293"
+    },
+    {
+        "card_name": "The Shell Of Orilynn",
+        "number": 373,
+        "shape": "normal",
+        "set": "SCLG",
+        "position": "38"
+    },
+    {
+        "card_name": "Ark of Invasion",
+        "number": 327,
+        "shape": "normal",
+        "set": "SCLG",
+        "position": "266"
+    },
+    {
+        "card_name": "Dreadlord's Sarcophgaus",
+        "number": 337,
+        "shape": "normal",
+        "set": "SCLG",
+        "position": "275"
+    },
+    {
+        "card_name": "Extermination Engine",
+        "number": 339,
+        "shape": "normal",
+        "set": "SCLG",
+        "position": "277"
+    },
+    {
+        "card_name": "Masterwork Censor",
+        "number": 360,
+        "shape": "normal",
+        "set": "SCLG",
+        "position": "295"
+    },
+    {
+        "card_name": "Memoir's of Heroism",
+        "number": 361,
+        "shape": "normal",
+        "set": "SCLG",
+        "position": "296"
+    },
+    {
+        "card_name": "Arcane Signet",
+        "number": 326,
+        "shape": "normal",
+        "set": "SCLG",
+        "position": "265"
+    },
+    {
+        "card_name": "Blessed Grindstone",
+        "number": 331,
+        "shape": "normal",
+        "set": "SCLG",
+        "position": "269"
+    },
+    {
+        "card_name": "Colossus Workshop",
+        "number": 333,
+        "shape": "normal",
+        "set": "SCLG",
+        "position": "271"
+    },
+    {
+        "card_name": "Destroyer Tripod",
+        "number": 335,
+        "shape": "normal",
+        "set": "SCLG",
+        "position": "273"
+    },
+    {
+        "card_name": "Firelord's Mask",
+        "number": 342,
+        "shape": "normal",
+        "set": "SCLG",
+        "position": "280"
+    },
+    {
+        "card_name": "God-Cavern Predator",
+        "number": 345,
+        "shape": "normal",
+        "set": "SCLG",
+        "position": "371"
+    },
+    {
+        "card_name": "Hall of the Great Kings",
+        "number": 346,
+        "shape": "normal",
+        "set": "SCLG",
+        "position": "283"
+    },
+    {
+        "card_name": "Heavy Assault Tank",
+        "number": 347,
+        "shape": "normal",
+        "set": "SCLG",
+        "position": "284"
+    },
+    {
+        "card_name": "Hydra Security Turret",
+        "number": 350,
+        "shape": "normal",
+        "set": "SCLG",
+        "position": "286"
+    },
+    {
+        "card_name": "Imperial Battlecruiser",
+        "number": 351,
+        "shape": "normal",
+        "set": "SCLG",
+        "position": "369"
+    },
+    {
+        "card_name": "Isolation Cube",
+        "number": 352,
+        "shape": "normal",
+        "set": "SCLG",
+        "position": "287"
+    },
+    {
+        "card_name": "Junker's Jetpack",
+        "number": 353,
+        "shape": "normal",
+        "set": "SCLG",
+        "position": "288"
+    },
+    {
+        "card_name": "Quad-Arm Linksuit",
+        "number": 368,
+        "shape": "normal",
+        "set": "SCLG",
+        "position": "303"
+    },
+    {
+        "card_name": "Ready Railcannon",
+        "number": 369,
+        "shape": "normal",
+        "set": "SCLG",
+        "position": "304"
+    },
+    {
+        "card_name": "Rusted Turbine",
+        "number": 370,
+        "shape": "normal",
+        "set": "SCLG",
+        "position": "305"
+    },
+    {
+        "card_name": "Saber-Tooth Relic Guard",
+        "number": 371,
+        "shape": "normal",
+        "set": "SCLG",
+        "position": "370"
+    },
+    {
+        "card_name": "The Singing Stone",
+        "number": 374,
+        "shape": "normal",
+        "set": "SCLG",
+        "position": "307"
+    },
+    {
+        "card_name": "Skystriker Guardian",
+        "number": 376,
+        "shape": "normal",
+        "set": "SCLG",
+        "position": "375"
+    },
+    {
+        "card_name": "Abyssal Orrery",
+        "number": 324,
+        "shape": "normal",
+        "set": "SCLG",
+        "position": "263"
+    },
+    {
+        "card_name": "Academy Nexus",
+        "number": 325,
+        "shape": "normal",
+        "set": "SCLG",
+        "position": "264"
+    },
+    {
+        "card_name": "Armillary Sphere",
+        "number": 328,
+        "shape": "normal",
+        "set": "SCLG",
+        "position": "310"
+    },
+    {
+        "card_name": "Basalt Vault",
+        "number": 329,
+        "shape": "normal",
+        "set": "SCLG",
+        "position": "267"
+    },
+    {
+        "card_name": "Blades of Glory",
+        "number": 330,
+        "shape": "normal",
+        "set": "SCLG",
+        "position": "268"
+    },
+    {
+        "card_name": "Charcoal Monument",
+        "number": 332,
+        "shape": "normal",
+        "set": "SCLG",
+        "position": "270"
+    },
+    {
+        "card_name": "Desolated Tombguard",
+        "number": 334,
+        "shape": "normal",
+        "set": "SCLG",
+        "position": "272"
+    },
+    {
+        "card_name": "Embroided Dagger",
+        "number": 338,
+        "shape": "normal",
+        "set": "SCLG",
+        "position": "276"
+    },
+    {
+        "card_name": "Filigree Fowl",
+        "number": 340,
+        "shape": "normal",
+        "set": "SCLG",
+        "position": "278"
+    },
+    {
+        "card_name": "Fire Monument",
+        "number": 341,
+        "shape": "normal",
+        "set": "SCLG",
+        "position": "279"
+    },
+    {
+        "card_name": "Gladiator's Greatblade",
+        "number": 343,
+        "shape": "normal",
+        "set": "SCLG",
+        "position": "281"
+    },
+    {
+        "card_name": "Glaive Warden",
+        "number": 344,
+        "shape": "normal",
+        "set": "SCLG",
+        "position": "282"
+    },
+    {
+        "card_name": "Hightower Zeppelin",
+        "number": 349,
+        "shape": "normal",
+        "set": "SCLG",
+        "position": "361"
+    },
+    {
+        "card_name": "Junkyard Shambler",
+        "number": 354,
+        "shape": "normal",
+        "set": "SCLG",
+        "position": "289"
+    },
+    {
+        "card_name": "Keldris, the Warlord",
+        "number": 355,
+        "shape": "normal",
+        "set": "SCLG",
+        "position": "290"
+    },
+    {
+        "card_name": "Maelstrom Colossus",
+        "number": 357,
+        "shape": "normal",
+        "set": "SCLG",
+        "position": "292"
+    },
+    {
+        "card_name": "Marble Monument",
+        "number": 359,
+        "shape": "normal",
+        "set": "SCLG",
+        "position": "294"
+    },
+    {
+        "card_name": "Mission Room",
+        "number": 362,
+        "shape": "normal",
+        "set": "SCLG",
+        "position": "297"
+    },
+    {
+        "card_name": "Moss Monument",
+        "number": 363,
+        "shape": "normal",
+        "set": "SCLG",
+        "position": "298"
+    },
+    {
+        "card_name": "Planetary Power Drill",
+        "number": 364,
+        "shape": "normal",
+        "set": "SCLG",
+        "position": "299"
+    },
+    {
+        "card_name": "Porridge Warrior",
+        "number": 365,
+        "shape": "normal",
+        "set": "SCLG",
+        "position": "300"
+    },
+    {
+        "card_name": "Privateer's Corvette",
+        "number": 366,
+        "shape": "normal",
+        "set": "SCLG",
+        "position": "301"
+    },
+    {
+        "card_name": "Prophetic Cube",
+        "number": 367,
+        "shape": "normal",
+        "set": "SCLG",
+        "position": "302"
+    },
+    {
+        "card_name": "Sandstone Relic",
+        "number": 372,
+        "shape": "normal",
+        "set": "SCLG",
+        "position": "306"
+    },
+    {
+        "card_name": "Sky Monument",
+        "number": 375,
+        "shape": "normal",
+        "set": "SCLG",
+        "position": "308"
+    },
+    {
+        "card_name": "Sledge-Hand Exo-Arms",
+        "number": 377,
+        "shape": "normal",
+        "set": "SCLG",
+        "position": "309"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "Argentia, the Skyrise Citadel",
+        "number": 379,
+        "shape": "normal",
+        "set": "SCLG",
+        "position": "65"
+    },
+    {
+        "card_name": "Azzat, the Underforge Citadel",
+        "number": 380,
+        "shape": "normal",
+        "set": "SCLG",
+        "position": "63"
+    },
+    {
+        "card_name": "Gellegoth, Spires of Decay",
+        "number": 384,
+        "shape": "normal",
+        "set": "SCLG",
+        "position": "64"
+    },
+    {
+        "card_name": "Igstantia, the Seat of Truth",
+        "number": 385,
+        "shape": "normal",
+        "set": "SCLG",
+        "position": "62"
+    },
+    {
+        "card_name": "Kindlerock, the Iron Tree",
+        "number": 386,
+        "shape": "normal",
+        "set": "SCLG",
+        "position": "60"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "Commanders Pinnacle",
+        "number": 382,
+        "shape": "normal",
+        "set": "SCLG",
+        "position": "312"
+    },
+    {
+        "card_name": "Pathway Portal",
+        "number": 387,
+        "shape": "normal",
+        "set": "SCLG",
+        "position": "314"
+    },
+    {
+        "card_name": "War Factory",
+        "number": 391,
+        "shape": "normal",
+        "set": "SCLG",
+        "position": "61"
+    },
+    {
+        "card_name": "Rusted Cathedral",
+        "number": 389,
+        "shape": "normal",
+        "set": "SCLG",
+        "position": "316"
+    },
+    {
+        "card_name": "Ancient Library",
+        "number": 378,
+        "shape": "normal",
+        "set": "SCLG",
+        "position": "356"
+    },
+    {
+        "card_name": "Command Tower",
+        "number": 381,
+        "shape": "normal",
+        "set": "SCLG",
+        "position": "311"
+    },
+    {
+        "card_name": "Commander's Wardentree",
+        "number": 383,
+        "shape": "normal",
+        "set": "SCLG",
+        "position": "313"
+    },
+    {
+        "card_name": "Pillar of Gold",
+        "number": 388,
+        "shape": "normal",
+        "set": "SCLG",
+        "position": "315"
+    },
+    {
+        "card_name": "Star of Origins",
+        "number": 390,
+        "shape": "normal",
+        "set": "SCLG",
+        "position": "363"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "Forest",
+        "number": 396,
+        "shape": "normal",
+        "set": "SCLG",
+        "position": "18"
+    },
+    {
+        "card_name": "Island",
+        "number": 393,
+        "shape": "normal",
+        "set": "SCLG",
+        "position": "19"
+    },
+    {
+        "card_name": "Mountain",
+        "number": 395,
+        "shape": "normal",
+        "set": "SCLG",
+        "position": "20"
+    },
+    {
+        "card_name": "Plains",
+        "number": 392,
+        "shape": "normal",
+        "set": "SCLG",
+        "position": "21"
+    },
+    {
+        "card_name": "Swamp",
+        "number": 394,
+        "shape": "normal",
+        "set": "SCLG",
+        "position": "317"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    }
+]

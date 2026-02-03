@@ -1,0 +1,5142 @@
+﻿[CustomCards]
+	[
+		{
+			"name": "Legion Deathtroopers",
+			"rarity": "common",
+			"mana_cost": "{1}{B}",
+			"type": "Creature — Zombie Soldier",
+			"collector_number": "134",
+			"image_uris": {
+				"en": "https://TheMrCuddleFish.github.io/sets/SCLG-files/img/0.jpg"
+			}
+		},
+		{
+			"name": "Death's Familiar",
+			"rarity": "common",
+			"mana_cost": "{B}",
+			"type": "Creature — Zombie Demon",
+			"collector_number": "126",
+			"image_uris": {
+				"en": "https://TheMrCuddleFish.github.io/sets/SCLG-files/img/1.jpg"
+			}
+		},
+		{
+			"name": "Moonlight Assassin",
+			"rarity": "common",
+			"mana_cost": "{B}",
+			"type": "Creature — Human Assassin",
+			"collector_number": "138",
+			"image_uris": {
+				"en": "https://TheMrCuddleFish.github.io/sets/SCLG-files/img/2.jpg"
+			}
+		},
+		{
+			"name": "Armoured Ghoul",
+			"rarity": "common",
+			"mana_cost": "{1}{B}",
+			"type": "Creature — Zombie Soldier",
+			"collector_number": "109",
+			"image_uris": {
+				"en": "https://TheMrCuddleFish.github.io/sets/SCLG-files/img/3.jpg"
+			}
+		},
+		{
+			"name": "Poisontip Assassin",
+			"rarity": "common",
+			"mana_cost": "{2}{B}",
+			"type": "Creature — Human Assassin",
+			"collector_number": "142",
+			"image_uris": {
+				"en": "https://TheMrCuddleFish.github.io/sets/SCLG-files/img/4.jpg"
+			}
+		},
+		{
+			"name": "Rusted Hexwalker",
+			"rarity": "common",
+			"mana_cost": "{2}{B}",
+			"type": "Artifact Creature — Spider",
+			"collector_number": "144",
+			"image_uris": {
+				"en": "https://TheMrCuddleFish.github.io/sets/SCLG-files/img/5.jpg"
+			}
+		},
+		{
+			"name": "Mechanized Cadaver",
+			"rarity": "common",
+			"mana_cost": "{2}{B}",
+			"type": "Creature — Skeleton Pilot",
+			"collector_number": "137",
+			"image_uris": {
+				"en": "https://TheMrCuddleFish.github.io/sets/SCLG-files/img/6.jpg"
+			}
+		},
+		{
+			"name": "Skyway Cyber-Hunter",
+			"rarity": "common",
+			"mana_cost": "{2}{B}",
+			"type": "Artifact Creature — Construct",
+			"collector_number": "146",
+			"image_uris": {
+				"en": "https://TheMrCuddleFish.github.io/sets/SCLG-files/img/7.jpg"
+			}
+		},
+		{
+			"name": "Hunger-Twisted Mauler",
+			"rarity": "common",
+			"mana_cost": "{2}{B}{B}",
+			"type": "Creature — Werewolf Horror",
+			"collector_number": "133",
+			"image_uris": {
+				"en": "https://TheMrCuddleFish.github.io/sets/SCLG-files/img/8.jpg"
+			}
+		},
+		{
+			"name": "Crownstealer Vampire",
+			"rarity": "common",
+			"mana_cost": "{4}{B}",
+			"type": "Creature — Vampire",
+			"collector_number": "120",
+			"image_uris": {
+				"en": "https://TheMrCuddleFish.github.io/sets/SCLG-files/img/9.jpg"
+			}
+		},
+		{
+			"name": "Legion Heavy Strider",
+			"rarity": "common",
+			"mana_cost": "{5}{B}",
+			"type": "Artifact — Vehicle",
+			"collector_number": "135",
+			"image_uris": {
+				"en": "https://TheMrCuddleFish.github.io/sets/SCLG-files/img/10.jpg"
+			}
+		},
+		{
+			"name": "Path of Vengeance",
+			"rarity": "common",
+			"mana_cost": "{1}{B}",
+			"type": "Enchantment — Saga",
+			"collector_number": "141",
+			"image_uris": {
+				"en": "https://TheMrCuddleFish.github.io/sets/SCLG-files/img/11.jpg"
+			}
+		},
+		{
+			"name": "Unstoppable Conquest",
+			"rarity": "common",
+			"mana_cost": "{B}",
+			"type": "Instant",
+			"collector_number": "156",
+			"image_uris": {
+				"en": "https://TheMrCuddleFish.github.io/sets/SCLG-files/img/12.jpg"
+			}
+		},
+		{
+			"name": "Deadly Offering",
+			"rarity": "common",
+			"mana_cost": "{2}{B}",
+			"type": "Instant",
+			"collector_number": "124",
+			"image_uris": {
+				"en": "https://TheMrCuddleFish.github.io/sets/SCLG-files/img/13.jpg"
+			}
+		},
+		{
+			"name": "Commune with Darkness",
+			"rarity": "common",
+			"mana_cost": "{1}{B}",
+			"type": "Sorcery",
+			"collector_number": "118",
+			"image_uris": {
+				"en": "https://TheMrCuddleFish.github.io/sets/SCLG-files/img/14.jpg"
+			}
+		},
+		{
+			"name": "Sudden Death",
+			"rarity": "common",
+			"mana_cost": "{3}{B}",
+			"type": "Instant",
+			"collector_number": "149",
+			"image_uris": {
+				"en": "https://TheMrCuddleFish.github.io/sets/SCLG-files/img/15.jpg"
+			}
+		},
+		{
+			"name": "Dark Discovery",
+			"rarity": "common",
+			"mana_cost": "{B}",
+			"type": "Sorcery",
+			"collector_number": "123",
+			"image_uris": {
+				"en": "https://TheMrCuddleFish.github.io/sets/SCLG-files/img/16.jpg"
+			}
+		},
+		{
+			"name": "Toxic Fumes",
+			"rarity": "common",
+			"mana_cost": "{3}{B}",
+			"type": "Instant",
+			"collector_number": "150",
+			"image_uris": {
+				"en": "https://TheMrCuddleFish.github.io/sets/SCLG-files/img/17.jpg"
+			}
+		},
+		{
+			"name": "Forest",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Basic Land — Forest",
+			"collector_number": "396",
+			"image_uris": {
+				"en": "https://TheMrCuddleFish.github.io/sets/SCLG-files/img/18.jpg"
+			}
+		},
+		{
+			"name": "Island",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Basic Land — Island",
+			"collector_number": "393",
+			"image_uris": {
+				"en": "https://TheMrCuddleFish.github.io/sets/SCLG-files/img/19.jpg"
+			}
+		},
+		{
+			"name": "Mountain",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Basic Land — Mountain",
+			"collector_number": "395",
+			"image_uris": {
+				"en": "https://TheMrCuddleFish.github.io/sets/SCLG-files/img/20.jpg"
+			}
+		},
+		{
+			"name": "Plains",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Basic Land — Plains",
+			"collector_number": "392",
+			"image_uris": {
+				"en": "https://TheMrCuddleFish.github.io/sets/SCLG-files/img/21.jpg"
+			}
+		},
+		{
+			"name": "Ellar, Astroatlas",
+			"rarity": "mythic",
+			"mana_cost": "{2/W}{2/U}{2/B}{2/R}{2/G}",
+			"type": "Legendary Artifact Creature — God",
+			"collector_number": "323",
+			"image_uris": {
+				"en": "https://TheMrCuddleFish.github.io/sets/SCLG-files/img/22.jpg"
+			}
+		},
+		{
+			"name": "Draagus, Lord of Silverhand",
+			"rarity": "mythic",
+			"mana_cost": "{2}{B}{B}",
+			"type": "Legendary Creature — Human Warlock",
+			"collector_number": "129",
+			"image_uris": {
+				"en": "https://TheMrCuddleFish.github.io/sets/SCLG-files/img/23.jpg"
+			}
+		},
+		{
+			"name": "Twisted Tutor",
+			"rarity": "mythic",
+			"mana_cost": "{B}",
+			"type": "Sorcery",
+			"collector_number": "152",
+			"image_uris": {
+				"en": "https://TheMrCuddleFish.github.io/sets/SCLG-files/img/24.jpg"
+			}
+		},
+		{
+			"name": "Dreams of Death and Decay",
+			"rarity": "mythic",
+			"mana_cost": "{6}{B}{B}",
+			"type": "Sorcery",
+			"collector_number": "130",
+			"image_uris": {
+				"en": "https://TheMrCuddleFish.github.io/sets/SCLG-files/img/25.jpg"
+			}
+		},
+		{
+			"name": "Tina, the Longriver Angler",
+			"rarity": "mythic",
+			"mana_cost": "{1}{G}{U}",
+			"type": "Legendary Creature — Human Citizen",
+			"collector_number": "317",
+			"image_uris": {
+				"en": "https://TheMrCuddleFish.github.io/sets/SCLG-files/img/26.jpg"
+			}
+		},
+		{
+			"name": "Spondrak, the Blighted Knight",
+			"rarity": "mythic",
+			"mana_cost": "{1}{B}{G}",
+			"type": "Legendary Creature — Fungus Knight",
+			"collector_number": "315",
+			"image_uris": {
+				"en": "https://TheMrCuddleFish.github.io/sets/SCLG-files/img/27.jpg"
+			}
+		},
+		{
+			"name": "Apedemak, God of War",
+			"rarity": "mythic",
+			"mana_cost": "{2}{R}{G}{W}",
+			"type": "Legendary Enchantment Creature — God",
+			"collector_number": "272",
+			"image_uris": {
+				"en": "https://TheMrCuddleFish.github.io/sets/SCLG-files/img/28.jpg"
+			}
+		},
+		{
+			"name": "Esmeralda of the Red Thorn",
+			"rarity": "mythic",
+			"mana_cost": "{1}{R}{W}",
+			"type": "Legendary Creature — Human Knight",
+			"collector_number": "277",
+			"image_uris": {
+				"en": "https://TheMrCuddleFish.github.io/sets/SCLG-files/img/29.jpg"
+			}
+		},
+		{
+			"name": "Olgis, the Iron General",
+			"rarity": "mythic",
+			"mana_cost": "{2}{U}{B}",
+			"type": "Legendary Artifact Creature — Warrior",
+			"collector_number": "309",
+			"image_uris": {
+				"en": "https://TheMrCuddleFish.github.io/sets/SCLG-files/img/30.jpg"
+			}
+		},
+		{
+			"name": "Lord Swiftraven of House Ardetta",
+			"rarity": "mythic",
+			"mana_cost": "{3}{U}{B}",
+			"type": "Legendary Creature — Demon Noble",
+			"collector_number": "301",
+			"image_uris": {
+				"en": "https://TheMrCuddleFish.github.io/sets/SCLG-files/img/31.jpg"
+			}
+		},
+		{
+			"name": "Alderis, Ascendant Machine",
+			"rarity": "mythic",
+			"mana_cost": "{1}{W}{B}",
+			"type": "Legendary Artifact Creature — God",
+			"collector_number": "268",
+			"image_uris": {
+				"en": "https://TheMrCuddleFish.github.io/sets/SCLG-files/img/32.jpg"
+			}
+		},
+		{
+			"name": "High Priest Mokayuna",
+			"rarity": "mythic",
+			"mana_cost": "{R}{G}",
+			"type": "Legendary Creature — Elf Druid",
+			"collector_number": "285",
+			"image_uris": {
+				"en": "https://TheMrCuddleFish.github.io/sets/SCLG-files/img/33.jpg"
+			}
+		},
+		{
+			"name": "Elena, Living Martyr",
+			"rarity": "mythic",
+			"mana_cost": "{2}{R}{W}{B}",
+			"type": "Legendary Creature — Human Cleric",
+			"collector_number": "275",
+			"image_uris": {
+				"en": "https://TheMrCuddleFish.github.io/sets/SCLG-files/img/34.jpg"
+			}
+		},
+		{
+			"name": "Eva and Echo, Twin Prodigies",
+			"rarity": "mythic",
+			"mana_cost": "{2}{W}{U}",
+			"type": "Legendary Creature — Human Wizard",
+			"collector_number": "278",
+			"image_uris": {
+				"en": "https://TheMrCuddleFish.github.io/sets/SCLG-files/img/35.jpg"
+			}
+		},
+		{
+			"name": "Nito, Necropolis Dreadlord",
+			"rarity": "mythic",
+			"mana_cost": "{5}{W}{B}",
+			"type": "Legendary Creature — Zombie Avatar",
+			"collector_number": "308",
+			"image_uris": {
+				"en": "https://TheMrCuddleFish.github.io/sets/SCLG-files/img/36.jpg"
+			}
+		},
+		{
+			"name": "Ikon, Soul of Carnage",
+			"rarity": "mythic",
+			"mana_cost": "{3}{B}{R}{G}",
+			"type": "Legendary Creature — Avatar",
+			"collector_number": "288",
+			"image_uris": {
+				"en": "https://TheMrCuddleFish.github.io/sets/SCLG-files/img/37.jpg"
+			}
+		},
+		{
+			"name": "The Shell Of Orilynn",
+			"rarity": "mythic",
+			"mana_cost": "{X}",
+			"type": "Legendary Artifact Creature — Insect",
+			"collector_number": "373",
+			"image_uris": {
+				"en": "https://TheMrCuddleFish.github.io/sets/SCLG-files/img/38.jpg"
+			}
+		},
+		{
+			"name": "Domnathus, Willbreaker",
+			"rarity": "mythic",
+			"mana_cost": "{3}{B}{R}",
+			"type": "Legendary Creature — Demon Warrior",
+			"collector_number": "274",
+			"image_uris": {
+				"en": "https://TheMrCuddleFish.github.io/sets/SCLG-files/img/39.jpg"
+			}
+		},
+		{
+			"name": "Sir Tucker Stark",
+			"rarity": "mythic",
+			"mana_cost": "{1}{G}{W}{U}",
+			"type": "Legendary Creature — Cat Noble",
+			"collector_number": "313",
+			"image_uris": {
+				"en": "https://TheMrCuddleFish.github.io/sets/SCLG-files/img/40.jpg"
+			}
+		},
+		{
+			"name": "Emilia, The Penitent Saint",
+			"rarity": "mythic",
+			"mana_cost": "{3}{U}{R}{W}",
+			"type": "Legendary Creature — Human Warrior",
+			"collector_number": "276",
+			"image_uris": {
+				"en": "https://TheMrCuddleFish.github.io/sets/SCLG-files/img/41.jpg"
+			}
+		},
+		{
+			"name": "Iffavella, Celestial Guide",
+			"rarity": "mythic",
+			"mana_cost": "{2}{W}{U}",
+			"type": "Legendary Enchantment Creature — Angel",
+			"collector_number": "287",
+			"image_uris": {
+				"en": "https://TheMrCuddleFish.github.io/sets/SCLG-files/img/42.jpg"
+			}
+		},
+		{
+			"name": "Tazeil, Architect of Invasion",
+			"rarity": "mythic",
+			"mana_cost": "{3}{U}{R}",
+			"type": "Legendary Creature — Alien Wizard",
+			"collector_number": "316",
+			"image_uris": {
+				"en": "https://TheMrCuddleFish.github.io/sets/SCLG-files/img/43.jpg"
+			}
+		},
+		{
+			"name": "Skevval, Marching Death",
+			"rarity": "mythic",
+			"mana_cost": "{3}{W}{B}{G}",
+			"type": "Legendary Creature — God",
+			"collector_number": "314",
+			"image_uris": {
+				"en": "https://TheMrCuddleFish.github.io/sets/SCLG-files/img/44.jpg"
+			}
+		},
+		{
+			"name": "Adon, Essence of Expression",
+			"rarity": "mythic",
+			"mana_cost": "{1}{U}{R}",
+			"type": "Legendary Enchantment Creature — Elemental",
+			"collector_number": "266",
+			"image_uris": {
+				"en": "https://TheMrCuddleFish.github.io/sets/SCLG-files/img/45.jpg"
+			}
+		},
+		{
+			"name": "Zaculeu, the Architect",
+			"rarity": "mythic",
+			"mana_cost": "{2}{G}{W}",
+			"type": "Legendary Creature — Human Shaman",
+			"collector_number": "319",
+			"image_uris": {
+				"en": "https://TheMrCuddleFish.github.io/sets/SCLG-files/img/46.jpg"
+			}
+		},
+		{
+			"name": "Lady Rose of House Annette",
+			"rarity": "mythic",
+			"mana_cost": "{1}{B}{R}",
+			"type": "Legendary Creature — Devil Noble",
+			"collector_number": "296",
+			"image_uris": {
+				"en": "https://TheMrCuddleFish.github.io/sets/SCLG-files/img/47.jpg"
+			}
+		},
+		{
+			"name": "Kela, Queen of the Acorns",
+			"rarity": "mythic",
+			"mana_cost": "{3}{G}{W}",
+			"type": "Legendary Creature — Squirrel Noble",
+			"collector_number": "294",
+			"image_uris": {
+				"en": "https://TheMrCuddleFish.github.io/sets/SCLG-files/img/48.jpg"
+			}
+		},
+		{
+			"name": "Grudis, the Catacomb Chief",
+			"rarity": "mythic",
+			"mana_cost": "{3}{B}{G}{U}",
+			"type": "Legendary Creature — Zombie Ogre",
+			"collector_number": "282",
+			"image_uris": {
+				"en": "https://TheMrCuddleFish.github.io/sets/SCLG-files/img/49.jpg"
+			}
+		},
+		{
+			"name": "Mineko, Wild Avenger",
+			"rarity": "mythic",
+			"mana_cost": "{2}{G}{U}{R}",
+			"type": "Legendary Creature — Human Shaman",
+			"collector_number": "306",
+			"image_uris": {
+				"en": "https://TheMrCuddleFish.github.io/sets/SCLG-files/img/50.jpg"
+			}
+		},
+		{
+			"name": "Cambyses, The Squealing King",
+			"rarity": "mythic",
+			"mana_cost": "{4}{B}{G}",
+			"type": "Legendary Creature — Noble Boar",
+			"collector_number": "273",
+			"image_uris": {
+				"en": "https://TheMrCuddleFish.github.io/sets/SCLG-files/img/51.jpg"
+			}
+		},
+		{
+			"name": "Soul Harvest Acolyte",
+			"rarity": "rare",
+			"mana_cost": "{1}{B}{B}",
+			"type": "Creature — Elf Shaman",
+			"collector_number": "147",
+			"image_uris": {
+				"en": "https://TheMrCuddleFish.github.io/sets/SCLG-files/img/52.jpg"
+			}
+		},
+		{
+			"name": "Death of the Arch-Nemesis",
+			"rarity": "rare",
+			"mana_cost": "{3}{B}{B}",
+			"type": "Legendary Sorcery",
+			"collector_number": "125",
+			"image_uris": {
+				"en": "https://TheMrCuddleFish.github.io/sets/SCLG-files/img/53.jpg"
+			}
+		},
+		{
+			"name": "Big Top Necromancer",
+			"rarity": "rare",
+			"mana_cost": "{3}{B}{B}",
+			"type": "Creature — Human Wizard",
+			"collector_number": "111",
+			"image_uris": {
+				"en": "https://TheMrCuddleFish.github.io/sets/SCLG-files/img/54.jpg"
+			}
+		},
+		{
+			"name": "Bloodbirch Mindreaver",
+			"rarity": "rare",
+			"mana_cost": "{4}{B}",
+			"type": "Creature — Treefolk Horror",
+			"collector_number": "112",
+			"image_uris": {
+				"en": "https://TheMrCuddleFish.github.io/sets/SCLG-files/img/55.jpg"
+			}
+		},
+		{
+			"name": "Lord Verharren, Bloodlord Baron",
+			"rarity": "rare",
+			"mana_cost": "{4}{B}{B}",
+			"type": "Legendary Creature — Vampire Noble",
+			"collector_number": "136",
+			"image_uris": {
+				"en": "https://TheMrCuddleFish.github.io/sets/SCLG-files/img/56.jpg"
+			}
+		},
+		{
+			"name": "Ascended of House Verharren",
+			"rarity": "rare",
+			"mana_cost": "{1}{B}{B}",
+			"type": "Creature — Vampire Horror",
+			"collector_number": "110",
+			"image_uris": {
+				"en": "https://TheMrCuddleFish.github.io/sets/SCLG-files/img/57.jpg"
+			}
+		},
+		{
+			"name": "Bloodtithe Battlemage",
+			"rarity": "rare",
+			"mana_cost": "{4}{B}{B}",
+			"type": "Creature — Vampire Shaman",
+			"collector_number": "113",
+			"image_uris": {
+				"en": "https://TheMrCuddleFish.github.io/sets/SCLG-files/img/58.jpg"
+			}
+		},
+		{
+			"name": "Tyrant's Suspicions",
+			"rarity": "rare",
+			"mana_cost": "{2}{B}{B}",
+			"type": "Enchantment",
+			"collector_number": "154",
+			"image_uris": {
+				"en": "https://TheMrCuddleFish.github.io/sets/SCLG-files/img/59.jpg"
+			}
+		},
+		{
+			"name": "Kindlerock, the Iron Tree",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Legendary Land",
+			"collector_number": "386",
+			"image_uris": {
+				"en": "https://TheMrCuddleFish.github.io/sets/SCLG-files/img/60.jpg"
+			}
+		},
+		{
+			"name": "War Factory",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "391",
+			"image_uris": {
+				"en": "https://TheMrCuddleFish.github.io/sets/SCLG-files/img/61.jpg"
+			}
+		},
+		{
+			"name": "Igstantia, the Seat of Truth",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Legendary Land",
+			"collector_number": "385",
+			"image_uris": {
+				"en": "https://TheMrCuddleFish.github.io/sets/SCLG-files/img/62.jpg"
+			}
+		},
+		{
+			"name": "Azzat, the Underforge Citadel",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Legendary Land",
+			"collector_number": "380",
+			"image_uris": {
+				"en": "https://TheMrCuddleFish.github.io/sets/SCLG-files/img/63.jpg"
+			}
+		},
+		{
+			"name": "Gellegoth, Spires of Decay",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Legendary Land",
+			"collector_number": "384",
+			"image_uris": {
+				"en": "https://TheMrCuddleFish.github.io/sets/SCLG-files/img/64.jpg"
+			}
+		},
+		{
+			"name": "Argentia, the Skyrise Citadel",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Legendary Land",
+			"collector_number": "379",
+			"image_uris": {
+				"en": "https://TheMrCuddleFish.github.io/sets/SCLG-files/img/65.jpg"
+			}
+		},
+		{
+			"name": "Aluna, of Ghostly Lanterns",
+			"rarity": "rare",
+			"mana_cost": "{1}{W}{U}",
+			"type": "Legendary Creature — Human Cleric",
+			"collector_number": "270",
+			"image_uris": {
+				"en": "https://TheMrCuddleFish.github.io/sets/SCLG-files/img/66.jpg"
+			}
+		},
+		{
+			"name": "Michi, the Wanderer",
+			"rarity": "rare",
+			"mana_cost": "{G}{W}",
+			"type": "Legendary Creature — Demigod",
+			"collector_number": "305",
+			"image_uris": {
+				"en": "https://TheMrCuddleFish.github.io/sets/SCLG-files/img/67.jpg"
+			}
+		},
+		{
+			"name": "Lena of Many Futures",
+			"rarity": "rare",
+			"mana_cost": "{G}{U}",
+			"type": "Legendary Creature — Human Wizard",
+			"collector_number": "299",
+			"image_uris": {
+				"en": "https://TheMrCuddleFish.github.io/sets/SCLG-files/img/68.jpg"
+			}
+		},
+		{
+			"name": "Adolsa, the Great Protector",
+			"rarity": "rare",
+			"mana_cost": "{1}{R}{G}{W}",
+			"type": "Legendary Artifact Creature — Golem",
+			"collector_number": "265",
+			"image_uris": {
+				"en": "https://TheMrCuddleFish.github.io/sets/SCLG-files/img/69.jpg"
+			}
+		},
+		{
+			"name": "Shaizo, of the Deepflame",
+			"rarity": "rare",
+			"mana_cost": "{1}{R}{W}{B}",
+			"type": "Legendary Creature — Tiefling Warlock",
+			"collector_number": "312",
+			"image_uris": {
+				"en": "https://TheMrCuddleFish.github.io/sets/SCLG-files/img/70.jpg"
+			}
+		},
+		{
+			"name": "Grendel, the Flamesmith",
+			"rarity": "rare",
+			"mana_cost": "{R}{W}",
+			"type": "Legendary Creature — Human Warrior",
+			"collector_number": "281",
+			"image_uris": {
+				"en": "https://TheMrCuddleFish.github.io/sets/SCLG-files/img/71.jpg"
+			}
+		},
+		{
+			"name": "Qiang Liang, Soul Collector",
+			"rarity": "rare",
+			"mana_cost": "{3}{B}{R}",
+			"type": "Legendary Artifact Creature — Demon",
+			"collector_number": "310",
+			"image_uris": {
+				"en": "https://TheMrCuddleFish.github.io/sets/SCLG-files/img/72.jpg"
+			}
+		},
+		{
+			"name": "Zheltial, Force of Nature",
+			"rarity": "rare",
+			"mana_cost": "{7}{U}{R}",
+			"type": "Legendary Creature — Dragon",
+			"collector_number": "322",
+			"image_uris": {
+				"en": "https://TheMrCuddleFish.github.io/sets/SCLG-files/img/73.jpg"
+			}
+		},
+		{
+			"name": "Antheia, Master of Fangs",
+			"rarity": "rare",
+			"mana_cost": "{3}{U}{B}",
+			"type": "Legendary Creature — Human Noble",
+			"collector_number": "271",
+			"image_uris": {
+				"en": "https://TheMrCuddleFish.github.io/sets/SCLG-files/img/74.jpg"
+			}
+		},
+		{
+			"name": "Leeta, Raven Spymaster",
+			"rarity": "rare",
+			"mana_cost": "{3}{W}{B}",
+			"type": "Legendary Creature — Human Noble",
+			"collector_number": "298",
+			"image_uris": {
+				"en": "https://TheMrCuddleFish.github.io/sets/SCLG-files/img/75.jpg"
+			}
+		},
+		{
+			"name": "Littara, Host of Dreams",
+			"rarity": "rare",
+			"mana_cost": "{3}{G}{W}{U}",
+			"type": "Legendary Creature — Merfolk Noble",
+			"collector_number": "300",
+			"image_uris": {
+				"en": "https://TheMrCuddleFish.github.io/sets/SCLG-files/img/76.jpg"
+			}
+		},
+		{
+			"name": "Hylas, the Eternal Guardian",
+			"rarity": "rare",
+			"mana_cost": "{3}{W}{B}{G}",
+			"type": "Legendary Creature — Avatar",
+			"collector_number": "286",
+			"image_uris": {
+				"en": "https://TheMrCuddleFish.github.io/sets/SCLG-files/img/77.jpg"
+			}
+		},
+		{
+			"name": "Bonestrider",
+			"rarity": "uncommon",
+			"mana_cost": "{B}",
+			"type": "Creature — Human Shaman",
+			"collector_number": "114",
+			"image_uris": {
+				"en": "https://TheMrCuddleFish.github.io/sets/SCLG-files/img/78.jpg"
+			}
+		},
+		{
+			"name": "Venefica, Hellsquad Commando",
+			"rarity": "uncommon",
+			"mana_cost": "{B}",
+			"type": "Legendary Creature — Alien Mercenary",
+			"collector_number": "158",
+			"image_uris": {
+				"en": "https://TheMrCuddleFish.github.io/sets/SCLG-files/img/79.jpg"
+			}
+		},
+		{
+			"name": "Cursed Vanquisher",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{B}",
+			"type": "Creature — Bird Knight",
+			"collector_number": "121",
+			"image_uris": {
+				"en": "https://TheMrCuddleFish.github.io/sets/SCLG-files/img/80.jpg"
+			}
+		},
+		{
+			"name": "Calix, the Dreadknight",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{B}",
+			"type": "Legendary Creature — Skeleton Knight",
+			"collector_number": "116",
+			"image_uris": {
+				"en": "https://TheMrCuddleFish.github.io/sets/SCLG-files/img/81.jpg"
+			}
+		},
+		{
+			"name": "Spade-Legion Witch",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{B}{B}",
+			"type": "Creature — Puppet Zombie Warlock",
+			"collector_number": "148",
+			"image_uris": {
+				"en": "https://TheMrCuddleFish.github.io/sets/SCLG-files/img/82.jpg"
+			}
+		},
+		{
+			"name": "Noxious Dragon",
+			"rarity": "uncommon",
+			"mana_cost": "{4}{B}{B}",
+			"type": "Creature — Dragon",
+			"collector_number": "140",
+			"image_uris": {
+				"en": "https://TheMrCuddleFish.github.io/sets/SCLG-files/img/83.jpg"
+			}
+		},
+		{
+			"name": "Rusted Return",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{B}{B}",
+			"type": "Sorcery",
+			"collector_number": "145",
+			"image_uris": {
+				"en": "https://TheMrCuddleFish.github.io/sets/SCLG-files/img/84.jpg"
+			}
+		},
+		{
+			"name": "Abyssal Plague",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{B}{B}",
+			"type": "Sorcery",
+			"collector_number": "108",
+			"image_uris": {
+				"en": "https://TheMrCuddleFish.github.io/sets/SCLG-files/img/85.jpg"
+			}
+		},
+		{
+			"name": "Justice, Ruin Walker",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{B}{R}",
+			"type": "Legendary Creature — Avatar Wizard",
+			"collector_number": "291",
+			"image_uris": {
+				"en": "https://TheMrCuddleFish.github.io/sets/SCLG-files/img/86.jpg"
+			}
+		},
+		{
+			"name": "Graffa, Big Game Hunter",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{R}{G}",
+			"type": "Legendary Creature — Demon Warrior",
+			"collector_number": "279",
+			"image_uris": {
+				"en": "https://TheMrCuddleFish.github.io/sets/SCLG-files/img/87.jpg"
+			}
+		},
+		{
+			"name": "Alberic, Thief Guildmaster",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{W}{B}",
+			"type": "Legendary Creature — Cat Rogue",
+			"collector_number": "267",
+			"image_uris": {
+				"en": "https://TheMrCuddleFish.github.io/sets/SCLG-files/img/88.jpg"
+			}
+		},
+		{
+			"name": "Zellis, the Grave-Broker",
+			"rarity": "uncommon",
+			"mana_cost": "{B}{G}",
+			"type": "Legendary Artifact Creature — Skeleton",
+			"collector_number": "321",
+			"image_uris": {
+				"en": "https://TheMrCuddleFish.github.io/sets/SCLG-files/img/89.jpg"
+			}
+		},
+		{
+			"name": "Heggstec, the Technologist",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{W}{U}",
+			"type": "Legendary Artifact Creature — Artificer",
+			"collector_number": "283",
+			"image_uris": {
+				"en": "https://TheMrCuddleFish.github.io/sets/SCLG-files/img/90.jpg"
+			}
+		},
+		{
+			"name": "Aleris, Bride of the Arena",
+			"rarity": "uncommon",
+			"mana_cost": "{5}{G}{W}",
+			"type": "Legendary Creature — Angel",
+			"collector_number": "269",
+			"image_uris": {
+				"en": "https://TheMrCuddleFish.github.io/sets/SCLG-files/img/91.jpg"
+			}
+		},
+		{
+			"name": "Alliance Spider Tank",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{W}",
+			"type": "Artifact — Vehicle",
+			"collector_number": "1",
+			"image_uris": {
+				"en": "https://TheMrCuddleFish.github.io/sets/SCLG-files/img/92.jpg"
+			}
+		},
+		{
+			"name": "Alyssa, the Sharpshooter",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{W}",
+			"type": "Legendary Creature — Human Ranger",
+			"collector_number": "2",
+			"image_uris": {
+				"en": "https://TheMrCuddleFish.github.io/sets/SCLG-files/img/93.jpg"
+			}
+		},
+		{
+			"name": "Balustrade Companion",
+			"rarity": "common",
+			"mana_cost": "{2}{W}",
+			"type": "Artifact Creature — Advisor Contruct",
+			"collector_number": "4",
+			"image_uris": {
+				"en": "https://TheMrCuddleFish.github.io/sets/SCLG-files/img/94.jpg"
+			}
+		},
+		{
+			"name": "Bonding Chorus",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{W}",
+			"type": "Enchantment — Aura",
+			"collector_number": "5",
+			"image_uris": {
+				"en": "https://TheMrCuddleFish.github.io/sets/SCLG-files/img/95.jpg"
+			}
+		},
+		{
+			"name": "Brightwing Blessing",
+			"rarity": "common",
+			"mana_cost": "{1}{W}",
+			"type": "Enchantment — Aura",
+			"collector_number": "6",
+			"image_uris": {
+				"en": "https://TheMrCuddleFish.github.io/sets/SCLG-files/img/96.jpg"
+			}
+		},
+		{
+			"name": "Caelira, Dauntless Knight",
+			"rarity": "rare",
+			"mana_cost": "{1}{W}",
+			"type": "Legendary Creature — Human Knight",
+			"collector_number": "7",
+			"image_uris": {
+				"en": "https://TheMrCuddleFish.github.io/sets/SCLG-files/img/97.jpg"
+			}
+		},
+		{
+			"name": "Chained Enforcer",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{W}{W}",
+			"type": "Artifact Creature — Construct",
+			"collector_number": "9",
+			"image_uris": {
+				"en": "https://TheMrCuddleFish.github.io/sets/SCLG-files/img/98.jpg"
+			}
+		},
+		{
+			"name": "Demolishing Blow",
+			"rarity": "common",
+			"mana_cost": "{2}{W}",
+			"type": "Instant",
+			"collector_number": "10",
+			"image_uris": {
+				"en": "https://TheMrCuddleFish.github.io/sets/SCLG-files/img/99.jpg"
+			}
+		},
+		{
+			"name": "Dreams of Peace and Respite",
+			"rarity": "mythic",
+			"mana_cost": "{4}{W}{W}",
+			"type": "Sorcery",
+			"collector_number": "11",
+			"image_uris": {
+				"en": "https://TheMrCuddleFish.github.io/sets/SCLG-files/img/100.jpg"
+			}
+		},
+		{
+			"name": "Dreamsteppe Whale",
+			"rarity": "common",
+			"mana_cost": "{4}{W}",
+			"type": "Enchantment Creature — Elemental Whale",
+			"collector_number": "12",
+			"image_uris": {
+				"en": "https://TheMrCuddleFish.github.io/sets/SCLG-files/img/101.jpg"
+			}
+		},
+		{
+			"name": "The Drifter",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{W}",
+			"type": "Legendary Creature — Human Warrior",
+			"collector_number": "13",
+			"image_uris": {
+				"en": "https://TheMrCuddleFish.github.io/sets/SCLG-files/img/102.jpg"
+			}
+		},
+		{
+			"name": "Duty Calls",
+			"rarity": "common",
+			"mana_cost": "{3}{W}",
+			"type": "Sorcery",
+			"collector_number": "14",
+			"image_uris": {
+				"en": "https://TheMrCuddleFish.github.io/sets/SCLG-files/img/103.jpg"
+			}
+		},
+		{
+			"name": "Elgis, Dawnstrider",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{W}",
+			"type": "Legendary Creature — Human Archer",
+			"collector_number": "15",
+			"image_uris": {
+				"en": "https://TheMrCuddleFish.github.io/sets/SCLG-files/img/104.jpg"
+			}
+		},
+		{
+			"name": "Fated Coronation",
+			"rarity": "common",
+			"mana_cost": "{1}{W}",
+			"type": "Enchantment — Aura",
+			"collector_number": "16",
+			"image_uris": {
+				"en": "https://TheMrCuddleFish.github.io/sets/SCLG-files/img/105.jpg"
+			}
+		},
+		{
+			"name": "Fifth Season's Blossom",
+			"rarity": "rare",
+			"mana_cost": "{2}{W}",
+			"type": "Enchantment",
+			"collector_number": "17",
+			"image_uris": {
+				"en": "https://TheMrCuddleFish.github.io/sets/SCLG-files/img/106.jpg"
+			}
+		},
+		{
+			"name": "Frosted Barbarian",
+			"rarity": "common",
+			"mana_cost": "{2}{W}",
+			"type": "Artifact Creature — Warrior Food",
+			"collector_number": "18",
+			"image_uris": {
+				"en": "https://TheMrCuddleFish.github.io/sets/SCLG-files/img/107.jpg"
+			}
+		},
+		{
+			"name": "Gafan's Iron Colossus",
+			"rarity": "uncommon",
+			"mana_cost": "{6}{W}{W}",
+			"type": "Legendary Artifact Creature — Golem",
+			"collector_number": "19",
+			"image_uris": {
+				"en": "https://TheMrCuddleFish.github.io/sets/SCLG-files/img/108.jpg"
+			}
+		},
+		{
+			"name": "The Great Golden Spirits",
+			"rarity": "mythic",
+			"mana_cost": "{1}{W}{W}",
+			"type": "Legendary Enchantment Creature — Spirit",
+			"collector_number": "20",
+			"image_uris": {
+				"en": "https://TheMrCuddleFish.github.io/sets/SCLG-files/img/109.jpg"
+			}
+		},
+		{
+			"name": "Greater Binding",
+			"rarity": "common",
+			"mana_cost": "{W}",
+			"type": "Enchantment — Aura",
+			"collector_number": "21",
+			"image_uris": {
+				"en": "https://TheMrCuddleFish.github.io/sets/SCLG-files/img/110.jpg"
+			}
+		},
+		{
+			"name": "Spiritual Companion",
+			"rarity": "common",
+			"mana_cost": "{W}",
+			"type": "Creature — Cat Spirit",
+			"collector_number": "45",
+			"image_uris": {
+				"en": "https://TheMrCuddleFish.github.io/sets/SCLG-files/img/111.jpg"
+			}
+		},
+		{
+			"name": "Guildguard Feline",
+			"rarity": "common",
+			"mana_cost": "{1}{W}",
+			"type": "Creature — Cat Soldier",
+			"collector_number": "23",
+			"image_uris": {
+				"en": "https://TheMrCuddleFish.github.io/sets/SCLG-files/img/112.jpg"
+			}
+		},
+		{
+			"name": "Hightower Overseers",
+			"rarity": "common",
+			"mana_cost": "{1}{W}",
+			"type": "Creature — Human Advisor",
+			"collector_number": "25",
+			"image_uris": {
+				"en": "https://TheMrCuddleFish.github.io/sets/SCLG-files/img/113.jpg"
+			}
+		},
+		{
+			"name": "Angel of Feathered Felines",
+			"rarity": "common",
+			"mana_cost": "{4}{W}",
+			"type": "Creature — Angel",
+			"collector_number": "3",
+			"image_uris": {
+				"en": "https://TheMrCuddleFish.github.io/sets/SCLG-files/img/114.jpg"
+			}
+		},
+		{
+			"name": "Hokrana of Solar Weaves",
+			"rarity": "uncommon",
+			"mana_cost": "{4}{W}",
+			"type": "Legendary Creature — Avatar",
+			"collector_number": "26",
+			"image_uris": {
+				"en": "https://TheMrCuddleFish.github.io/sets/SCLG-files/img/115.jpg"
+			}
+		},
+		{
+			"name": "Horizon of Possibility",
+			"rarity": "common",
+			"mana_cost": "{2}{W}",
+			"type": "Enchantment — Saga",
+			"collector_number": "27",
+			"image_uris": {
+				"en": "https://TheMrCuddleFish.github.io/sets/SCLG-files/img/116.jpg"
+			}
+		},
+		{
+			"name": "Kalari Shieldmate",
+			"rarity": "common",
+			"mana_cost": "{3}{W}",
+			"type": "Creature — Elephant Warrior",
+			"collector_number": "28",
+			"image_uris": {
+				"en": "https://TheMrCuddleFish.github.io/sets/SCLG-files/img/117.jpg"
+			}
+		},
+		{
+			"name": "Kessel, Monster Hunter",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{W}",
+			"type": "Legendary Creature — Human Cleric",
+			"collector_number": "29",
+			"image_uris": {
+				"en": "https://TheMrCuddleFish.github.io/sets/SCLG-files/img/118.jpg"
+			}
+		},
+		{
+			"name": "Kingmaker Harbinger",
+			"rarity": "mythic",
+			"mana_cost": "{3}{W}{W}",
+			"type": "Creature — Angel",
+			"collector_number": "30",
+			"image_uris": {
+				"en": "https://TheMrCuddleFish.github.io/sets/SCLG-files/img/119.jpg"
+			}
+		},
+		{
+			"name": "Magesty's Vangaurd",
+			"rarity": "common",
+			"mana_cost": "{3}{W}",
+			"type": "Artifact Creature — Soldier",
+			"collector_number": "31",
+			"image_uris": {
+				"en": "https://TheMrCuddleFish.github.io/sets/SCLG-files/img/120.jpg"
+			}
+		},
+		{
+			"name": "Magisters Koi Pond",
+			"rarity": "rare",
+			"mana_cost": "{3}{W}",
+			"type": "Enchantment",
+			"collector_number": "32",
+			"image_uris": {
+				"en": "https://TheMrCuddleFish.github.io/sets/SCLG-files/img/121.jpg"
+			}
+		},
+		{
+			"name": "Migratory Flight",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{W}",
+			"type": "Sorcery",
+			"collector_number": "34",
+			"image_uris": {
+				"en": "https://TheMrCuddleFish.github.io/sets/SCLG-files/img/122.jpg"
+			}
+		},
+		{
+			"name": "Out to Lunch",
+			"rarity": "common",
+			"mana_cost": "{2}{W}",
+			"type": "Enchantment — Aura",
+			"collector_number": "35",
+			"image_uris": {
+				"en": "https://TheMrCuddleFish.github.io/sets/SCLG-files/img/123.jpg"
+			}
+		},
+		{
+			"name": "Queen's Legionaires",
+			"rarity": "common",
+			"mana_cost": "{1}{W}",
+			"type": "Artifact Creature — Soldier",
+			"collector_number": "36",
+			"image_uris": {
+				"en": "https://TheMrCuddleFish.github.io/sets/SCLG-files/img/124.jpg"
+			}
+		},
+		{
+			"name": "Return to Peace",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{W}",
+			"type": "Sorcery",
+			"collector_number": "37",
+			"image_uris": {
+				"en": "https://TheMrCuddleFish.github.io/sets/SCLG-files/img/125.jpg"
+			}
+		},
+		{
+			"name": "Rise from the Ashes",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{W}{W}",
+			"type": "Sorcery",
+			"collector_number": "38",
+			"image_uris": {
+				"en": "https://TheMrCuddleFish.github.io/sets/SCLG-files/img/126.jpg"
+			}
+		},
+		{
+			"name": "Silverskin Commando",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{W}",
+			"type": "Creature — Human Warrior",
+			"collector_number": "39",
+			"image_uris": {
+				"en": "https://TheMrCuddleFish.github.io/sets/SCLG-files/img/127.jpg"
+			}
+		},
+		{
+			"name": "Skybreaker Evangel",
+			"rarity": "common",
+			"mana_cost": "{3}{W}",
+			"type": "Creature — Angel",
+			"collector_number": "40",
+			"image_uris": {
+				"en": "https://TheMrCuddleFish.github.io/sets/SCLG-files/img/128.jpg"
+			}
+		},
+		{
+			"name": "Hightower Mechanic",
+			"rarity": "common",
+			"mana_cost": "{4}{W}{W}",
+			"type": "Creature — Human Artificer",
+			"collector_number": "24",
+			"image_uris": {
+				"en": "https://TheMrCuddleFish.github.io/sets/SCLG-files/img/129.jpg"
+			}
+		},
+		{
+			"name": "Sleeping Soundly",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{W}",
+			"type": "Enchantment — Aura",
+			"collector_number": "41",
+			"image_uris": {
+				"en": "https://TheMrCuddleFish.github.io/sets/SCLG-files/img/130.jpg"
+			}
+		},
+		{
+			"name": "Somber Remembrance",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{W}{W}",
+			"type": "Sorcery",
+			"collector_number": "42",
+			"image_uris": {
+				"en": "https://TheMrCuddleFish.github.io/sets/SCLG-files/img/131.jpg"
+			}
+		},
+		{
+			"name": "Spirit Realm Retribution",
+			"rarity": "common",
+			"mana_cost": "{4}{W}",
+			"type": "Sorcery",
+			"collector_number": "43",
+			"image_uris": {
+				"en": "https://TheMrCuddleFish.github.io/sets/SCLG-files/img/132.jpg"
+			}
+		},
+		{
+			"name": "Spirit-Seeker Witch",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{W}{W}",
+			"type": "Creature — Human Warlock",
+			"collector_number": "44",
+			"image_uris": {
+				"en": "https://TheMrCuddleFish.github.io/sets/SCLG-files/img/133.jpg"
+			}
+		},
+		{
+			"name": "Strigidus, Griffin Warlord",
+			"rarity": "mythic",
+			"mana_cost": "{5}{W}{W}",
+			"type": "Legendary Creature — Griffin",
+			"collector_number": "46",
+			"image_uris": {
+				"en": "https://TheMrCuddleFish.github.io/sets/SCLG-files/img/134.jpg"
+			}
+		},
+		{
+			"name": "Strix Scout",
+			"rarity": "common",
+			"mana_cost": "{2}{W}",
+			"type": "Creature — Human Scout",
+			"collector_number": "47",
+			"image_uris": {
+				"en": "https://TheMrCuddleFish.github.io/sets/SCLG-files/img/135.jpg"
+			}
+		},
+		{
+			"name": "Summon the Sun God",
+			"rarity": "rare",
+			"mana_cost": "{2}{W}{W}",
+			"type": "Instant",
+			"collector_number": "48",
+			"image_uris": {
+				"en": "https://TheMrCuddleFish.github.io/sets/SCLG-files/img/136.jpg"
+			}
+		},
+		{
+			"name": "Swaggering Sovereign",
+			"rarity": "rare",
+			"mana_cost": "{3}{W}",
+			"type": "Creature — Bird Noble",
+			"collector_number": "49",
+			"image_uris": {
+				"en": "https://TheMrCuddleFish.github.io/sets/SCLG-files/img/137.jpg"
+			}
+		},
+		{
+			"name": "Vacant Existence",
+			"rarity": "rare",
+			"mana_cost": "{4}{W}{W}",
+			"type": "Instant",
+			"collector_number": "51",
+			"image_uris": {
+				"en": "https://TheMrCuddleFish.github.io/sets/SCLG-files/img/138.jpg"
+			}
+		},
+		{
+			"name": "Valiant Defense",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{W}{W}",
+			"type": "Instant",
+			"collector_number": "52",
+			"image_uris": {
+				"en": "https://TheMrCuddleFish.github.io/sets/SCLG-files/img/139.jpg"
+			}
+		},
+		{
+			"name": "Wild Pathfinder",
+			"rarity": "common",
+			"mana_cost": "{2}{W}",
+			"type": "Creature — Human Warrior",
+			"collector_number": "53",
+			"image_uris": {
+				"en": "https://TheMrCuddleFish.github.io/sets/SCLG-files/img/140.jpg"
+			}
+		},
+		{
+			"name": "Attack from the Skies",
+			"rarity": "mythic",
+			"mana_cost": "{5}{U}",
+			"type": "Sorcery",
+			"collector_number": "56",
+			"image_uris": {
+				"en": "https://TheMrCuddleFish.github.io/sets/SCLG-files/img/141.jpg"
+			}
+		},
+		{
+			"name": "Borthor, The Geyser King",
+			"rarity": "uncommon",
+			"mana_cost": "{5}{U}",
+			"type": "Legendary Creature — Giant Noble",
+			"collector_number": "57",
+			"image_uris": {
+				"en": "https://TheMrCuddleFish.github.io/sets/SCLG-files/img/142.jpg"
+			}
+		},
+		{
+			"name": "Coastal Chorus",
+			"rarity": "common",
+			"mana_cost": "{2}{U}{U}",
+			"type": "Sorcery",
+			"collector_number": "59",
+			"image_uris": {
+				"en": "https://TheMrCuddleFish.github.io/sets/SCLG-files/img/143.jpg"
+			}
+		},
+		{
+			"name": "Coastal Pinnipoids",
+			"rarity": "common",
+			"mana_cost": "{U}",
+			"type": "Creature — Seal Beast",
+			"collector_number": "60",
+			"image_uris": {
+				"en": "https://TheMrCuddleFish.github.io/sets/SCLG-files/img/144.jpg"
+			}
+		},
+		{
+			"name": "Corvid Storm Shaman",
+			"rarity": "uncommon",
+			"mana_cost": "{U}",
+			"type": "Creature — Bird Shaman",
+			"collector_number": "63",
+			"image_uris": {
+				"en": "https://TheMrCuddleFish.github.io/sets/SCLG-files/img/145.jpg"
+			}
+		},
+		{
+			"name": "Deeprealm Summoning",
+			"rarity": "rare",
+			"mana_cost": "{6}{U}",
+			"type": "Instant",
+			"collector_number": "64",
+			"image_uris": {
+				"en": "https://TheMrCuddleFish.github.io/sets/SCLG-files/img/146.jpg"
+			}
+		},
+		{
+			"name": "Shadowclaw Hunter",
+			"rarity": "common",
+			"mana_cost": "{4}{U}",
+			"type": "Creature — Cat Demon",
+			"collector_number": "99",
+			"image_uris": {
+				"en": "https://TheMrCuddleFish.github.io/sets/SCLG-files/img/147.jpg"
+			}
+		},
+		{
+			"name": "Deepwell Courier",
+			"rarity": "common",
+			"mana_cost": "{1}{U}",
+			"type": "Creature — Snake Rogue",
+			"collector_number": "66",
+			"image_uris": {
+				"en": "https://TheMrCuddleFish.github.io/sets/SCLG-files/img/148.jpg"
+			}
+		},
+		{
+			"name": "Dreamborn Escalation",
+			"rarity": "rare",
+			"mana_cost": "{U}",
+			"type": "Instant",
+			"collector_number": "68",
+			"image_uris": {
+				"en": "https://TheMrCuddleFish.github.io/sets/SCLG-files/img/149.jpg"
+			}
+		},
+		{
+			"name": "Dreams of Power and Control",
+			"rarity": "mythic",
+			"mana_cost": "{6}{U}{U}",
+			"type": "Sorcery",
+			"collector_number": "69",
+			"image_uris": {
+				"en": "https://TheMrCuddleFish.github.io/sets/SCLG-files/img/150.jpg"
+			}
+		},
+		{
+			"name": "Eclipse's Hearld",
+			"rarity": "rare",
+			"mana_cost": "{1}{U}{U}",
+			"type": "Creature — Elemental Soldier",
+			"collector_number": "70",
+			"image_uris": {
+				"en": "https://TheMrCuddleFish.github.io/sets/SCLG-files/img/151.jpg"
+			}
+		},
+		{
+			"name": "Evidence of the Apex",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{U}{U}",
+			"type": "Enchantment",
+			"collector_number": "73",
+			"image_uris": {
+				"en": "https://TheMrCuddleFish.github.io/sets/SCLG-files/img/152.jpg"
+			}
+		},
+		{
+			"name": "Exalted Engineer",
+			"rarity": "rare",
+			"mana_cost": "{2}{U}{U}",
+			"type": "Creature — Dwarf Artificer",
+			"collector_number": "74",
+			"image_uris": {
+				"en": "https://TheMrCuddleFish.github.io/sets/SCLG-files/img/153.jpg"
+			}
+		},
+		{
+			"name": "Follow the Rabbit",
+			"rarity": "common",
+			"mana_cost": "{4}{U}{U}",
+			"type": "Sorcery",
+			"collector_number": "76",
+			"image_uris": {
+				"en": "https://TheMrCuddleFish.github.io/sets/SCLG-files/img/154.jpg"
+			}
+		},
+		{
+			"name": "Giant Mecha-Crab",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{U}",
+			"type": "Artifact Creature — Crab",
+			"collector_number": "78",
+			"image_uris": {
+				"en": "https://TheMrCuddleFish.github.io/sets/SCLG-files/img/155.jpg"
+			}
+		},
+		{
+			"name": "Greatdeep Behemoth",
+			"rarity": "common",
+			"mana_cost": "{5}{U}{U}",
+			"type": "Creature",
+			"collector_number": "79",
+			"image_uris": {
+				"en": "https://TheMrCuddleFish.github.io/sets/SCLG-files/img/156.jpg"
+			}
+		},
+		{
+			"name": "Hightower Escort",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{U}",
+			"type": "Artifact Creature — Thopter Construct",
+			"collector_number": "80",
+			"image_uris": {
+				"en": "https://TheMrCuddleFish.github.io/sets/SCLG-files/img/157.jpg"
+			}
+		},
+		{
+			"name": "Idyllic Skyfisher",
+			"rarity": "common",
+			"mana_cost": "{1}{U}",
+			"type": "Creature — Human Citizen",
+			"collector_number": "82",
+			"image_uris": {
+				"en": "https://TheMrCuddleFish.github.io/sets/SCLG-files/img/158.jpg"
+			}
+		},
+		{
+			"name": "In the Kracken's Clutches",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{U}{U}",
+			"type": "Enchantment — Aura",
+			"collector_number": "83",
+			"image_uris": {
+				"en": "https://TheMrCuddleFish.github.io/sets/SCLG-files/img/159.jpg"
+			}
+		},
+		{
+			"name": "Lira, Tides's Magesty",
+			"rarity": "uncommon",
+			"mana_cost": "{5}{U}",
+			"type": "Legendary Creature — Merfolk Noble",
+			"collector_number": "84",
+			"image_uris": {
+				"en": "https://TheMrCuddleFish.github.io/sets/SCLG-files/img/160.jpg"
+			}
+		},
+		{
+			"name": "Machine Learning",
+			"rarity": "common",
+			"mana_cost": "{1}{U}",
+			"type": "Sorcery",
+			"collector_number": "86",
+			"image_uris": {
+				"en": "https://TheMrCuddleFish.github.io/sets/SCLG-files/img/161.jpg"
+			}
+		},
+		{
+			"name": "Mistbubble Jellyfish",
+			"rarity": "uncommon",
+			"mana_cost": "{5}{U}",
+			"type": "Enchantment Creature — Jellyfish",
+			"collector_number": "87",
+			"image_uris": {
+				"en": "https://TheMrCuddleFish.github.io/sets/SCLG-files/img/162.jpg"
+			}
+		},
+		{
+			"name": "Mystical Recollection",
+			"rarity": "common",
+			"mana_cost": "{1}{U}{U}",
+			"type": "Sorcery",
+			"collector_number": "89",
+			"image_uris": {
+				"en": "https://TheMrCuddleFish.github.io/sets/SCLG-files/img/163.jpg"
+			}
+		},
+		{
+			"name": "Palace Skyfins",
+			"rarity": "common",
+			"mana_cost": "{3}{U}{U}",
+			"type": "Enchantment Creature — Fish",
+			"collector_number": "91",
+			"image_uris": {
+				"en": "https://TheMrCuddleFish.github.io/sets/SCLG-files/img/164.jpg"
+			}
+		},
+		{
+			"name": "Phantasma, Hellsquad Spy",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{U}",
+			"type": "Legendary Creature — Alien Mercenary",
+			"collector_number": "93",
+			"image_uris": {
+				"en": "https://TheMrCuddleFish.github.io/sets/SCLG-files/img/165.jpg"
+			}
+		},
+		{
+			"name": "Return to Æther",
+			"rarity": "common",
+			"mana_cost": "{3}{U}",
+			"type": "Instant",
+			"collector_number": "95",
+			"image_uris": {
+				"en": "https://TheMrCuddleFish.github.io/sets/SCLG-files/img/166.jpg"
+			}
+		},
+		{
+			"name": "Scuttling Scavenger",
+			"rarity": "uncommon",
+			"mana_cost": "{4}{U}",
+			"type": "Artifact Creature — Crab",
+			"collector_number": "96",
+			"image_uris": {
+				"en": "https://TheMrCuddleFish.github.io/sets/SCLG-files/img/167.jpg"
+			}
+		},
+		{
+			"name": "Seeking the Old Ones",
+			"rarity": "common",
+			"mana_cost": "{3}{U}",
+			"type": "Enchantment — Saga",
+			"collector_number": "98",
+			"image_uris": {
+				"en": "https://TheMrCuddleFish.github.io/sets/SCLG-files/img/168.jpg"
+			}
+		},
+		{
+			"name": "Skycloud Frigates",
+			"rarity": "uncommon",
+			"mana_cost": "{4}{U}",
+			"type": "Enchantment Creature — Elemental",
+			"collector_number": "100",
+			"image_uris": {
+				"en": "https://TheMrCuddleFish.github.io/sets/SCLG-files/img/169.jpg"
+			}
+		},
+		{
+			"name": "Sudden Capsize",
+			"rarity": "common",
+			"mana_cost": "{2}{U}",
+			"type": "Instant",
+			"collector_number": "101",
+			"image_uris": {
+				"en": "https://TheMrCuddleFish.github.io/sets/SCLG-files/img/170.jpg"
+			}
+		},
+		{
+			"name": "Tripod Stinging Scout",
+			"rarity": "common",
+			"mana_cost": "{2}{U}",
+			"type": "Artifact Creature — Alien Scout",
+			"collector_number": "102",
+			"image_uris": {
+				"en": "https://TheMrCuddleFish.github.io/sets/SCLG-files/img/171.jpg"
+			}
+		},
+		{
+			"name": "Vow of Wings",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{U}",
+			"type": "Enchantment — Aura",
+			"collector_number": "103",
+			"image_uris": {
+				"en": "https://TheMrCuddleFish.github.io/sets/SCLG-files/img/172.jpg"
+			}
+		},
+		{
+			"name": "Wang Ling, Grand Commandant",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{U}",
+			"type": "Legendary Creature — Human Warrior",
+			"collector_number": "104",
+			"image_uris": {
+				"en": "https://TheMrCuddleFish.github.io/sets/SCLG-files/img/173.jpg"
+			}
+		},
+		{
+			"name": "Withstand the Storm",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{U}{U}",
+			"type": "Instant",
+			"collector_number": "106",
+			"image_uris": {
+				"en": "https://TheMrCuddleFish.github.io/sets/SCLG-files/img/174.jpg"
+			}
+		},
+		{
+			"name": "Ancestral Animus",
+			"rarity": "mythic",
+			"mana_cost": "{3}{R}{R}",
+			"type": "Sorcery",
+			"collector_number": "160",
+			"image_uris": {
+				"en": "https://TheMrCuddleFish.github.io/sets/SCLG-files/img/175.jpg"
+			}
+		},
+		{
+			"name": "Bar Breaker",
+			"rarity": "common",
+			"mana_cost": "{3}{R}",
+			"type": "Creature — Ogre Prisoner",
+			"collector_number": "162",
+			"image_uris": {
+				"en": "https://TheMrCuddleFish.github.io/sets/SCLG-files/img/176.jpg"
+			}
+		},
+		{
+			"name": "Bloodthirsty Throne",
+			"rarity": "uncommon",
+			"mana_cost": "{5}{R}",
+			"type": "Artifact",
+			"collector_number": "164",
+			"image_uris": {
+				"en": "https://TheMrCuddleFish.github.io/sets/SCLG-files/img/177.jpg"
+			}
+		},
+		{
+			"name": "Bombard Elephants",
+			"rarity": "common",
+			"mana_cost": "{5}{R}",
+			"type": "Creature — Elephant",
+			"collector_number": "165",
+			"image_uris": {
+				"en": "https://TheMrCuddleFish.github.io/sets/SCLG-files/img/178.jpg"
+			}
+		},
+		{
+			"name": "Brazen Assault",
+			"rarity": "common",
+			"mana_cost": "{2}{R}",
+			"type": "Sorcery",
+			"collector_number": "166",
+			"image_uris": {
+				"en": "https://TheMrCuddleFish.github.io/sets/SCLG-files/img/179.jpg"
+			}
+		},
+		{
+			"name": "Brazen Forgeling",
+			"rarity": "common",
+			"mana_cost": "{R}",
+			"type": "Artifact Creature — Gremlin",
+			"collector_number": "167",
+			"image_uris": {
+				"en": "https://TheMrCuddleFish.github.io/sets/SCLG-files/img/180.jpg"
+			}
+		},
+		{
+			"name": "Coalition Flameblade",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{R}{R}",
+			"type": "Artifact — Equipment",
+			"collector_number": "169",
+			"image_uris": {
+				"en": "https://TheMrCuddleFish.github.io/sets/SCLG-files/img/181.jpg"
+			}
+		},
+		{
+			"name": "Devastating Fury",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{R}",
+			"type": "Enchantment — Aura",
+			"collector_number": "171",
+			"image_uris": {
+				"en": "https://TheMrCuddleFish.github.io/sets/SCLG-files/img/182.jpg"
+			}
+		},
+		{
+			"name": "Effenfield, Wild Whim Sorcerer",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{R}",
+			"type": "Legendary Creature — Cat Wizard",
+			"collector_number": "172",
+			"image_uris": {
+				"en": "https://TheMrCuddleFish.github.io/sets/SCLG-files/img/183.jpg"
+			}
+		},
+		{
+			"name": "Elder-God's Glare",
+			"rarity": "common",
+			"mana_cost": "{2}{R}",
+			"type": "Instant",
+			"collector_number": "173",
+			"image_uris": {
+				"en": "https://TheMrCuddleFish.github.io/sets/SCLG-files/img/184.jpg"
+			}
+		},
+		{
+			"name": "Gold-Lion Champion",
+			"rarity": "common",
+			"mana_cost": "{1}{R}",
+			"type": "Creature — Human Warrior",
+			"collector_number": "177",
+			"image_uris": {
+				"en": "https://TheMrCuddleFish.github.io/sets/SCLG-files/img/185.jpg"
+			}
+		},
+		{
+			"name": "Hellbreaker Warrior",
+			"rarity": "common",
+			"mana_cost": "{3}{R}",
+			"type": "Creature — Elf Warrior",
+			"collector_number": "179",
+			"image_uris": {
+				"en": "https://TheMrCuddleFish.github.io/sets/SCLG-files/img/186.jpg"
+			}
+		},
+		{
+			"name": "Hightower Besieged",
+			"rarity": "rare",
+			"mana_cost": "{3}{R}{R}",
+			"type": "Enchantment",
+			"collector_number": "180",
+			"image_uris": {
+				"en": "https://TheMrCuddleFish.github.io/sets/SCLG-files/img/187.jpg"
+			}
+		},
+		{
+			"name": "Molten-Core Minotaur",
+			"rarity": "common",
+			"mana_cost": "{5}{R}",
+			"type": "Artifact Creature — Minotaur",
+			"collector_number": "187",
+			"image_uris": {
+				"en": "https://TheMrCuddleFish.github.io/sets/SCLG-files/img/188.jpg"
+			}
+		},
+		{
+			"name": "Ignition Helldrake",
+			"rarity": "uncommon",
+			"mana_cost": "{4}{R}{R}",
+			"type": "Artifact Creature — Dragon Construct",
+			"collector_number": "182",
+			"image_uris": {
+				"en": "https://TheMrCuddleFish.github.io/sets/SCLG-files/img/189.jpg"
+			}
+		},
+		{
+			"name": "Kalaveraz, Hellsquad Grenadier",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{R}",
+			"type": "Legendary Creature — Alien Mercenary",
+			"collector_number": "183",
+			"image_uris": {
+				"en": "https://TheMrCuddleFish.github.io/sets/SCLG-files/img/190.jpg"
+			}
+		},
+		{
+			"name": "Khorne World-Eater",
+			"rarity": "common",
+			"mana_cost": "{3}{R}",
+			"type": "Creature — Warrior",
+			"collector_number": "185",
+			"image_uris": {
+				"en": "https://TheMrCuddleFish.github.io/sets/SCLG-files/img/191.jpg"
+			}
+		},
+		{
+			"name": "Magister's Appraiser",
+			"rarity": "rare",
+			"mana_cost": "{1}{R}{R}",
+			"type": "Creature — Human Wizard",
+			"collector_number": "186",
+			"image_uris": {
+				"en": "https://TheMrCuddleFish.github.io/sets/SCLG-files/img/192.jpg"
+			}
+		},
+		{
+			"name": "Nails of Aggression",
+			"rarity": "common",
+			"mana_cost": "{R}",
+			"type": "Enchantment — Aura",
+			"collector_number": "188",
+			"image_uris": {
+				"en": "https://TheMrCuddleFish.github.io/sets/SCLG-files/img/193.jpg"
+			}
+		},
+		{
+			"name": "Ornery Pterosaurus",
+			"rarity": "common",
+			"mana_cost": "{2}{R}",
+			"type": "Creature — Dinosaur",
+			"collector_number": "189",
+			"image_uris": {
+				"en": "https://TheMrCuddleFish.github.io/sets/SCLG-files/img/194.jpg"
+			}
+		},
+		{
+			"name": "Ozymandias, Reckless Tyrant",
+			"rarity": "mythic",
+			"mana_cost": "{2}{R}{R}",
+			"type": "Legendary Creature — Giant Noble",
+			"collector_number": "190",
+			"image_uris": {
+				"en": "https://TheMrCuddleFish.github.io/sets/SCLG-files/img/195.jpg"
+			}
+		},
+		{
+			"name": "Patrolling Junkwagon",
+			"rarity": "uncommon",
+			"mana_cost": "{4}{R}",
+			"type": "Artifact — Vehicle",
+			"collector_number": "191",
+			"image_uris": {
+				"en": "https://TheMrCuddleFish.github.io/sets/SCLG-files/img/196.jpg"
+			}
+		},
+		{
+			"name": "Rampant Manufacturing",
+			"rarity": "mythic",
+			"mana_cost": "{1}{R}{R}",
+			"type": "Enchantment",
+			"collector_number": "192",
+			"image_uris": {
+				"en": "https://TheMrCuddleFish.github.io/sets/SCLG-files/img/197.jpg"
+			}
+		},
+		{
+			"name": "Raucous Ransoming",
+			"rarity": "rare",
+			"mana_cost": "{5}{R}{R}",
+			"type": "Sorcery",
+			"collector_number": "193",
+			"image_uris": {
+				"en": "https://TheMrCuddleFish.github.io/sets/SCLG-files/img/198.jpg"
+			}
+		},
+		{
+			"name": "Ready For War",
+			"rarity": "common",
+			"mana_cost": "{R}",
+			"type": "Instant",
+			"collector_number": "194",
+			"image_uris": {
+				"en": "https://TheMrCuddleFish.github.io/sets/SCLG-files/img/199.jpg"
+			}
+		},
+		{
+			"name": "Red Claw Longstrider",
+			"rarity": "common",
+			"mana_cost": "{1}{R}",
+			"type": "Artifact — Vehicle",
+			"collector_number": "195",
+			"image_uris": {
+				"en": "https://TheMrCuddleFish.github.io/sets/SCLG-files/img/200.jpg"
+			}
+		},
+		{
+			"name": "Red Claw Phalanx",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{R}",
+			"type": "Artifact Creature — Crab Equipment",
+			"collector_number": "196",
+			"image_uris": {
+				"en": "https://TheMrCuddleFish.github.io/sets/SCLG-files/img/201.jpg"
+			}
+		},
+		{
+			"name": "Rending Heart's Desire",
+			"rarity": "rare",
+			"mana_cost": "{2}{R}",
+			"type": "Sorcery",
+			"collector_number": "197",
+			"image_uris": {
+				"en": "https://TheMrCuddleFish.github.io/sets/SCLG-files/img/202.jpg"
+			}
+		},
+		{
+			"name": "Riot Captain",
+			"rarity": "rare",
+			"mana_cost": "{2}{R}{R}",
+			"type": "Creature — Ogre Soldier",
+			"collector_number": "198",
+			"image_uris": {
+				"en": "https://TheMrCuddleFish.github.io/sets/SCLG-files/img/203.jpg"
+			}
+		},
+		{
+			"name": "Riot Pit Savage",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{R}{R}",
+			"type": "Creature — Troll Beserker",
+			"collector_number": "199",
+			"image_uris": {
+				"en": "https://TheMrCuddleFish.github.io/sets/SCLG-files/img/204.jpg"
+			}
+		},
+		{
+			"name": "Scarlet-Ore Scavenger",
+			"rarity": "common",
+			"mana_cost": "{3}{R}{R}",
+			"type": "Artifact Creature — Jellyfish Horror",
+			"collector_number": "200",
+			"image_uris": {
+				"en": "https://TheMrCuddleFish.github.io/sets/SCLG-files/img/205.jpg"
+			}
+		},
+		{
+			"name": "Scrapfield Goons",
+			"rarity": "common",
+			"mana_cost": "{2}{R}",
+			"type": "Creature — Human Knight",
+			"collector_number": "201",
+			"image_uris": {
+				"en": "https://TheMrCuddleFish.github.io/sets/SCLG-files/img/206.jpg"
+			}
+		},
+		{
+			"name": "Shattering Betrayal",
+			"rarity": "common",
+			"mana_cost": "{3}{R}",
+			"type": "Sorcery",
+			"collector_number": "202",
+			"image_uris": {
+				"en": "https://TheMrCuddleFish.github.io/sets/SCLG-files/img/207.jpg"
+			}
+		},
+		{
+			"name": "Thundermaw Challenger",
+			"rarity": "rare",
+			"mana_cost": "{4}{R}{R}",
+			"type": "Creature — Dragon",
+			"collector_number": "204",
+			"image_uris": {
+				"en": "https://TheMrCuddleFish.github.io/sets/SCLG-files/img/208.jpg"
+			}
+		},
+		{
+			"name": "Tobey, the Rage Brewmaster",
+			"rarity": "uncommon",
+			"mana_cost": "{6}{R}",
+			"type": "Legendary Creature — Minotaur Shaman",
+			"collector_number": "205",
+			"image_uris": {
+				"en": "https://TheMrCuddleFish.github.io/sets/SCLG-files/img/209.jpg"
+			}
+		},
+		{
+			"name": "Toggin, Goblin Blacksmith",
+			"rarity": "rare",
+			"mana_cost": "{1}{R}",
+			"type": "Legendary Creature — Goblin Warrior",
+			"collector_number": "206",
+			"image_uris": {
+				"en": "https://TheMrCuddleFish.github.io/sets/SCLG-files/img/210.jpg"
+			}
+		},
+		{
+			"name": "Tumble Down",
+			"rarity": "common",
+			"mana_cost": "{3}{R}",
+			"type": "Sorcery",
+			"collector_number": "207",
+			"image_uris": {
+				"en": "https://TheMrCuddleFish.github.io/sets/SCLG-files/img/211.jpg"
+			}
+		},
+		{
+			"name": "Uudal, Aspect of Chaos",
+			"rarity": "mythic",
+			"mana_cost": "{1}{R}{R}",
+			"type": "Legendary Planeswalker — Uudal",
+			"collector_number": "209",
+			"image_uris": {
+				"en": "https://TheMrCuddleFish.github.io/sets/SCLG-files/img/212.jpg"
+			}
+		},
+		{
+			"name": "Vow of Fury",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{R}",
+			"type": "Enchantment — Aura",
+			"collector_number": "211",
+			"image_uris": {
+				"en": "https://TheMrCuddleFish.github.io/sets/SCLG-files/img/213.jpg"
+			}
+		},
+		{
+			"name": "Wallsmasher Champion",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{R}",
+			"type": "Creature — Orc Warrior",
+			"collector_number": "212",
+			"image_uris": {
+				"en": "https://TheMrCuddleFish.github.io/sets/SCLG-files/img/214.jpg"
+			}
+		},
+		{
+			"name": "Wild Ride",
+			"rarity": "rare",
+			"mana_cost": "{3}{R}",
+			"type": "Instant",
+			"collector_number": "213",
+			"image_uris": {
+				"en": "https://TheMrCuddleFish.github.io/sets/SCLG-files/img/215.jpg"
+			}
+		},
+		{
+			"name": "Alliance Skybreaker",
+			"rarity": "common",
+			"mana_cost": "{3}{G}{G}",
+			"type": "Artifact — Vehicle",
+			"collector_number": "214",
+			"image_uris": {
+				"en": "https://TheMrCuddleFish.github.io/sets/SCLG-files/img/216.jpg"
+			}
+		},
+		{
+			"name": "Beastmaster Adept",
+			"rarity": "rare",
+			"mana_cost": "{2}{G}",
+			"type": "Creature — Human Druid",
+			"collector_number": "215",
+			"image_uris": {
+				"en": "https://TheMrCuddleFish.github.io/sets/SCLG-files/img/217.jpg"
+			}
+		},
+		{
+			"name": "Beastmaster Elite",
+			"rarity": "rare",
+			"mana_cost": "{4}{G}{G}",
+			"type": "Creature — Human Druid",
+			"collector_number": "216",
+			"image_uris": {
+				"en": "https://TheMrCuddleFish.github.io/sets/SCLG-files/img/218.jpg"
+			}
+		},
+		{
+			"name": "Bed of Roses",
+			"rarity": "common",
+			"mana_cost": "{4}{G}",
+			"type": "Instant",
+			"collector_number": "217",
+			"image_uris": {
+				"en": "https://TheMrCuddleFish.github.io/sets/SCLG-files/img/219.jpg"
+			}
+		},
+		{
+			"name": "Bloom Wanderers",
+			"rarity": "common",
+			"mana_cost": "{4}{G}",
+			"type": "Creature — Fungus Beast",
+			"collector_number": "218",
+			"image_uris": {
+				"en": "https://TheMrCuddleFish.github.io/sets/SCLG-files/img/220.jpg"
+			}
+		},
+		{
+			"name": "Brightgarden Dryad",
+			"rarity": "common",
+			"mana_cost": "{1}{G}",
+			"type": "Creature — Dryad",
+			"collector_number": "219",
+			"image_uris": {
+				"en": "https://TheMrCuddleFish.github.io/sets/SCLG-files/img/221.jpg"
+			}
+		},
+		{
+			"name": "Charging Misfits",
+			"rarity": "common",
+			"mana_cost": "{4}{G}{G}",
+			"type": "Creature — Ape Soldier",
+			"collector_number": "220",
+			"image_uris": {
+				"en": "https://TheMrCuddleFish.github.io/sets/SCLG-files/img/222.jpg"
+			}
+		},
+		{
+			"name": "Cherria, Leader of the Pride",
+			"rarity": "uncommon",
+			"mana_cost": "{4}{G}",
+			"type": "Legendary Creature — Human Druid",
+			"collector_number": "221",
+			"image_uris": {
+				"en": "https://TheMrCuddleFish.github.io/sets/SCLG-files/img/223.jpg"
+			}
+		},
+		{
+			"name": "Close Combat",
+			"rarity": "common",
+			"mana_cost": "{G}",
+			"type": "Instant",
+			"collector_number": "222",
+			"image_uris": {
+				"en": "https://TheMrCuddleFish.github.io/sets/SCLG-files/img/224.jpg"
+			}
+		},
+		{
+			"name": "Coasting Dreamkite",
+			"rarity": "uncommon",
+			"mana_cost": "{4}{G}{G}",
+			"type": "Enchantment Creature — Dragon",
+			"collector_number": "223",
+			"image_uris": {
+				"en": "https://TheMrCuddleFish.github.io/sets/SCLG-files/img/225.jpg"
+			}
+		},
+		{
+			"name": "Cobble Crusher",
+			"rarity": "common",
+			"mana_cost": "{4}{G}",
+			"type": "Creature — Giant Plant",
+			"collector_number": "224",
+			"image_uris": {
+				"en": "https://TheMrCuddleFish.github.io/sets/SCLG-files/img/226.jpg"
+			}
+		},
+		{
+			"name": "Crash the Competition",
+			"rarity": "common",
+			"mana_cost": "{4}{G}",
+			"type": "Sorcery",
+			"collector_number": "225",
+			"image_uris": {
+				"en": "https://TheMrCuddleFish.github.io/sets/SCLG-files/img/227.jpg"
+			}
+		},
+		{
+			"name": "Deadeye Sniper",
+			"rarity": "common",
+			"mana_cost": "{1}{G}",
+			"type": "Creature — Human Ranger",
+			"collector_number": "226",
+			"image_uris": {
+				"en": "https://TheMrCuddleFish.github.io/sets/SCLG-files/img/228.jpg"
+			}
+		},
+		{
+			"name": "Dreamhost's Embrace",
+			"rarity": "uncommon",
+			"mana_cost": "{5}{G}",
+			"type": "Sorcery",
+			"collector_number": "227",
+			"image_uris": {
+				"en": "https://TheMrCuddleFish.github.io/sets/SCLG-files/img/229.jpg"
+			}
+		},
+		{
+			"name": "Dreamloft Steamplow",
+			"rarity": "common",
+			"mana_cost": "{5}{G}",
+			"type": "Creature — Elemental",
+			"collector_number": "228",
+			"image_uris": {
+				"en": "https://TheMrCuddleFish.github.io/sets/SCLG-files/img/230.jpg"
+			}
+		},
+		{
+			"name": "Dreams of Wonder and Prosperity",
+			"rarity": "mythic",
+			"mana_cost": "",
+			"type": "Sorcery",
+			"collector_number": "229",
+			"image_uris": {
+				"en": "https://TheMrCuddleFish.github.io/sets/SCLG-files/img/231.jpg"
+			}
+		},
+		{
+			"name": "Drop the Hammer",
+			"rarity": "rare",
+			"mana_cost": "{3}{G}{G}",
+			"type": "Sorcery",
+			"collector_number": "230",
+			"image_uris": {
+				"en": "https://TheMrCuddleFish.github.io/sets/SCLG-files/img/232.jpg"
+			}
+		},
+		{
+			"name": "Earthen Undermine",
+			"rarity": "common",
+			"mana_cost": "{2}{G}",
+			"type": "Sorcery",
+			"collector_number": "231",
+			"image_uris": {
+				"en": "https://TheMrCuddleFish.github.io/sets/SCLG-files/img/233.jpg"
+			}
+		},
+		{
+			"name": "Fortification Team",
+			"rarity": "common",
+			"mana_cost": "{3}{G}",
+			"type": "Creature — Human Soldier",
+			"collector_number": "234",
+			"image_uris": {
+				"en": "https://TheMrCuddleFish.github.io/sets/SCLG-files/img/234.jpg"
+			}
+		},
+		{
+			"name": "Garden Goblin",
+			"rarity": "common",
+			"mana_cost": "{G}",
+			"type": "Creature — Goblin Druid",
+			"collector_number": "236",
+			"image_uris": {
+				"en": "https://TheMrCuddleFish.github.io/sets/SCLG-files/img/235.jpg"
+			}
+		},
+		{
+			"name": "Garden Guardian",
+			"rarity": "common",
+			"mana_cost": "{2}{G}",
+			"type": "Artifact Creature — Druid Construct",
+			"collector_number": "237",
+			"image_uris": {
+				"en": "https://TheMrCuddleFish.github.io/sets/SCLG-files/img/236.jpg"
+			}
+		},
+		{
+			"name": "Gift of Amnesty",
+			"rarity": "common",
+			"mana_cost": "{3}{G}",
+			"type": "Sorcery",
+			"collector_number": "238",
+			"image_uris": {
+				"en": "https://TheMrCuddleFish.github.io/sets/SCLG-files/img/237.jpg"
+			}
+		},
+		{
+			"name": "Ginasha, the Seedcursed",
+			"rarity": "mythic",
+			"mana_cost": "{1}{G}{G}",
+			"type": "Legendary Enchantment Creature — God",
+			"collector_number": "239",
+			"image_uris": {
+				"en": "https://TheMrCuddleFish.github.io/sets/SCLG-files/img/238.jpg"
+			}
+		},
+		{
+			"name": "Glen, Wise Sentry",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{G}",
+			"type": "Legendary Creature — Human Scout",
+			"collector_number": "240",
+			"image_uris": {
+				"en": "https://TheMrCuddleFish.github.io/sets/SCLG-files/img/239.jpg"
+			}
+		},
+		{
+			"name": "Groda, the Living Wood",
+			"rarity": "rare",
+			"mana_cost": "{5}{G}",
+			"type": "Legendary Creature — Plant",
+			"collector_number": "241",
+			"image_uris": {
+				"en": "https://TheMrCuddleFish.github.io/sets/SCLG-files/img/240.jpg"
+			}
+		},
+		{
+			"name": "Halden, Druid of Hope",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{G}{G}",
+			"type": "Legendary Creature — Angel Druid",
+			"collector_number": "242",
+			"image_uris": {
+				"en": "https://TheMrCuddleFish.github.io/sets/SCLG-files/img/241.jpg"
+			}
+		},
+		{
+			"name": "Lord of the Mistbogs",
+			"rarity": "rare",
+			"mana_cost": "{3}{G}",
+			"type": "Creature — Spirit Noble",
+			"collector_number": "243",
+			"image_uris": {
+				"en": "https://TheMrCuddleFish.github.io/sets/SCLG-files/img/242.jpg"
+			}
+		},
+		{
+			"name": "Mandapoid Hivewarden",
+			"rarity": "uncommon",
+			"mana_cost": "{6}{G}",
+			"type": "Creature — Insect",
+			"collector_number": "244",
+			"image_uris": {
+				"en": "https://TheMrCuddleFish.github.io/sets/SCLG-files/img/243.jpg"
+			}
+		},
+		{
+			"name": "Melethon, Undergrowth Warden",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{G}",
+			"type": "Legendary Creature — Zombie Knight",
+			"collector_number": "245",
+			"image_uris": {
+				"en": "https://TheMrCuddleFish.github.io/sets/SCLG-files/img/244.jpg"
+			}
+		},
+		{
+			"name": "Molo, the Devourer",
+			"rarity": "uncommon",
+			"mana_cost": "{4}{G}{G}",
+			"type": "Legendary Creature — Ooze",
+			"collector_number": "246",
+			"image_uris": {
+				"en": "https://TheMrCuddleFish.github.io/sets/SCLG-files/img/245.jpg"
+			}
+		},
+		{
+			"name": "Morbid Cultivator",
+			"rarity": "rare",
+			"mana_cost": "{1}{G}",
+			"type": "Creature — Human Druid",
+			"collector_number": "247",
+			"image_uris": {
+				"en": "https://TheMrCuddleFish.github.io/sets/SCLG-files/img/246.jpg"
+			}
+		},
+		{
+			"name": "Morgan, the Dreamsage",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{G}",
+			"type": "Legendary Creature — Wizard",
+			"collector_number": "248",
+			"image_uris": {
+				"en": "https://TheMrCuddleFish.github.io/sets/SCLG-files/img/247.jpg"
+			}
+		},
+		{
+			"name": "Omega Stratasaurus",
+			"rarity": "mythic",
+			"mana_cost": "{8}{G}{G}",
+			"type": "Creature — Dinosaur",
+			"collector_number": "249",
+			"image_uris": {
+				"en": "https://TheMrCuddleFish.github.io/sets/SCLG-files/img/248.jpg"
+			}
+		},
+		{
+			"name": "Outland Packhunter",
+			"rarity": "common",
+			"mana_cost": "{1}{G}",
+			"type": "Creature — Human Ranger",
+			"collector_number": "250",
+			"image_uris": {
+				"en": "https://TheMrCuddleFish.github.io/sets/SCLG-files/img/249.jpg"
+			}
+		},
+		{
+			"name": "Pillars of Strength",
+			"rarity": "uncommon",
+			"mana_cost": "{G}",
+			"type": "Enchantment",
+			"collector_number": "251",
+			"image_uris": {
+				"en": "https://TheMrCuddleFish.github.io/sets/SCLG-files/img/250.jpg"
+			}
+		},
+		{
+			"name": "Pridestar Flak-Platform",
+			"rarity": "common",
+			"mana_cost": "{3}{G}",
+			"type": "Artifact — Vehicle",
+			"collector_number": "252",
+			"image_uris": {
+				"en": "https://TheMrCuddleFish.github.io/sets/SCLG-files/img/251.jpg"
+			}
+		},
+		{
+			"name": "Primal Flutist",
+			"rarity": "rare",
+			"mana_cost": "{2}{G}",
+			"type": "Creature — Satyr Druid",
+			"collector_number": "253",
+			"image_uris": {
+				"en": "https://TheMrCuddleFish.github.io/sets/SCLG-files/img/252.jpg"
+			}
+		},
+		{
+			"name": "Rotwood Gloomfang",
+			"rarity": "uncommon",
+			"mana_cost": "{4}{G}",
+			"type": "Creature — Spider",
+			"collector_number": "255",
+			"image_uris": {
+				"en": "https://TheMrCuddleFish.github.io/sets/SCLG-files/img/253.jpg"
+			}
+		},
+		{
+			"name": "Rusted Ironwalker",
+			"rarity": "common",
+			"mana_cost": "{4}{G}",
+			"type": "Artifact — Vehicle",
+			"collector_number": "256",
+			"image_uris": {
+				"en": "https://TheMrCuddleFish.github.io/sets/SCLG-files/img/254.jpg"
+			}
+		},
+		{
+			"name": "Seeking Shelter",
+			"rarity": "common",
+			"mana_cost": "{2}{G}",
+			"type": "Sorcery",
+			"collector_number": "257",
+			"image_uris": {
+				"en": "https://TheMrCuddleFish.github.io/sets/SCLG-files/img/255.jpg"
+			}
+		},
+		{
+			"name": "Skyreacher Warcaller",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{G}{G}",
+			"type": "Creature — Elf Druid",
+			"collector_number": "258",
+			"image_uris": {
+				"en": "https://TheMrCuddleFish.github.io/sets/SCLG-files/img/256.jpg"
+			}
+		},
+		{
+			"name": "Spiritguard Treefolk",
+			"rarity": "common",
+			"mana_cost": "{3}{G}",
+			"type": "Creature — Treefolk",
+			"collector_number": "259",
+			"image_uris": {
+				"en": "https://TheMrCuddleFish.github.io/sets/SCLG-files/img/257.jpg"
+			}
+		},
+		{
+			"name": "Thrash the City",
+			"rarity": "uncommon",
+			"mana_cost": "{4}{G}",
+			"type": "Sorcery",
+			"collector_number": "261",
+			"image_uris": {
+				"en": "https://TheMrCuddleFish.github.io/sets/SCLG-files/img/258.jpg"
+			}
+		},
+		{
+			"name": "Topple What Stands",
+			"rarity": "common",
+			"mana_cost": "{2}{G}",
+			"type": "Sorcery",
+			"collector_number": "262",
+			"image_uris": {
+				"en": "https://TheMrCuddleFish.github.io/sets/SCLG-files/img/259.jpg"
+			}
+		},
+		{
+			"name": "Undergrowth Behemoth",
+			"rarity": "rare",
+			"mana_cost": "{4}{G}{G}",
+			"type": "Creature — Plant Beast",
+			"collector_number": "264",
+			"image_uris": {
+				"en": "https://TheMrCuddleFish.github.io/sets/SCLG-files/img/260.jpg"
+			}
+		},
+		{
+			"name": "Illugen, the Perfected Form",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{G}{U}",
+			"type": "Legendary Creature — Mutant",
+			"collector_number": "289",
+			"image_uris": {
+				"en": "https://TheMrCuddleFish.github.io/sets/SCLG-files/img/261.jpg"
+			}
+		},
+		{
+			"name": "Keanon, Arena Celebrity",
+			"rarity": "uncommon",
+			"mana_cost": "{R}{W}",
+			"type": "Legendary Creature — Human Warrior",
+			"collector_number": "293",
+			"image_uris": {
+				"en": "https://TheMrCuddleFish.github.io/sets/SCLG-files/img/262.jpg"
+			}
+		},
+		{
+			"name": "Abyssal Orrery",
+			"rarity": "common",
+			"mana_cost": "{3}",
+			"type": "Artifact",
+			"collector_number": "324",
+			"image_uris": {
+				"en": "https://TheMrCuddleFish.github.io/sets/SCLG-files/img/263.jpg"
+			}
+		},
+		{
+			"name": "Academy Nexus",
+			"rarity": "common",
+			"mana_cost": "{3}",
+			"type": "Artifact",
+			"collector_number": "325",
+			"image_uris": {
+				"en": "https://TheMrCuddleFish.github.io/sets/SCLG-files/img/264.jpg"
+			}
+		},
+		{
+			"name": "Arcane Signet",
+			"rarity": "uncommon",
+			"mana_cost": "{2}",
+			"type": "Artifact",
+			"collector_number": "326",
+			"image_uris": {
+				"en": "https://TheMrCuddleFish.github.io/sets/SCLG-files/img/265.jpg"
+			}
+		},
+		{
+			"name": "Ark of Invasion",
+			"rarity": "rare",
+			"mana_cost": "{5}",
+			"type": "Artifact",
+			"collector_number": "327",
+			"image_uris": {
+				"en": "https://TheMrCuddleFish.github.io/sets/SCLG-files/img/266.jpg"
+			}
+		},
+		{
+			"name": "Basalt Vault",
+			"rarity": "common",
+			"mana_cost": "{3}",
+			"type": "Artifact",
+			"collector_number": "329",
+			"image_uris": {
+				"en": "https://TheMrCuddleFish.github.io/sets/SCLG-files/img/267.jpg"
+			}
+		},
+		{
+			"name": "Blades of Glory",
+			"rarity": "common",
+			"mana_cost": "{3}",
+			"type": "Artifact — Equipment",
+			"collector_number": "330",
+			"image_uris": {
+				"en": "https://TheMrCuddleFish.github.io/sets/SCLG-files/img/268.jpg"
+			}
+		},
+		{
+			"name": "Blessed Grindstone",
+			"rarity": "uncommon",
+			"mana_cost": "{2}",
+			"type": "Artifact",
+			"collector_number": "331",
+			"image_uris": {
+				"en": "https://TheMrCuddleFish.github.io/sets/SCLG-files/img/269.jpg"
+			}
+		},
+		{
+			"name": "Charcoal Monument",
+			"rarity": "common",
+			"mana_cost": "{2}",
+			"type": "Artifact",
+			"collector_number": "332",
+			"image_uris": {
+				"en": "https://TheMrCuddleFish.github.io/sets/SCLG-files/img/270.jpg"
+			}
+		},
+		{
+			"name": "Colossus Workshop",
+			"rarity": "uncommon",
+			"mana_cost": "{6}",
+			"type": "Artifact",
+			"collector_number": "333",
+			"image_uris": {
+				"en": "https://TheMrCuddleFish.github.io/sets/SCLG-files/img/271.jpg"
+			}
+		},
+		{
+			"name": "Desolated Tombguard",
+			"rarity": "common",
+			"mana_cost": "{5}",
+			"type": "Artifact Creature — Insect Construct",
+			"collector_number": "334",
+			"image_uris": {
+				"en": "https://TheMrCuddleFish.github.io/sets/SCLG-files/img/272.jpg"
+			}
+		},
+		{
+			"name": "Destroyer Tripod",
+			"rarity": "uncommon",
+			"mana_cost": "{6}",
+			"type": "Artifact Creature — Alien",
+			"collector_number": "335",
+			"image_uris": {
+				"en": "https://TheMrCuddleFish.github.io/sets/SCLG-files/img/273.jpg"
+			}
+		},
+		{
+			"name": "Dragonscale Plate",
+			"rarity": "mythic",
+			"mana_cost": "{3}",
+			"type": "Artifact — Equipment",
+			"collector_number": "336",
+			"image_uris": {
+				"en": "https://TheMrCuddleFish.github.io/sets/SCLG-files/img/274.jpg"
+			}
+		},
+		{
+			"name": "Dreadlord's Sarcophgaus",
+			"rarity": "rare",
+			"mana_cost": "{3}",
+			"type": "Artifact",
+			"collector_number": "337",
+			"image_uris": {
+				"en": "https://TheMrCuddleFish.github.io/sets/SCLG-files/img/275.jpg"
+			}
+		},
+		{
+			"name": "Embroided Dagger",
+			"rarity": "common",
+			"mana_cost": "{1}",
+			"type": "Artifact — Equipment",
+			"collector_number": "338",
+			"image_uris": {
+				"en": "https://TheMrCuddleFish.github.io/sets/SCLG-files/img/276.jpg"
+			}
+		},
+		{
+			"name": "Extermination Engine",
+			"rarity": "rare",
+			"mana_cost": "{4}",
+			"type": "Artifact",
+			"collector_number": "339",
+			"image_uris": {
+				"en": "https://TheMrCuddleFish.github.io/sets/SCLG-files/img/277.jpg"
+			}
+		},
+		{
+			"name": "Filigree Fowl",
+			"rarity": "common",
+			"mana_cost": "{3}",
+			"type": "Artifact Creature — Bird Construct",
+			"collector_number": "340",
+			"image_uris": {
+				"en": "https://TheMrCuddleFish.github.io/sets/SCLG-files/img/278.jpg"
+			}
+		},
+		{
+			"name": "Fire Monument",
+			"rarity": "common",
+			"mana_cost": "{2}",
+			"type": "Artifact",
+			"collector_number": "341",
+			"image_uris": {
+				"en": "https://TheMrCuddleFish.github.io/sets/SCLG-files/img/279.jpg"
+			}
+		},
+		{
+			"name": "Firelord's Mask",
+			"rarity": "uncommon",
+			"mana_cost": "{4}",
+			"type": "Artifact — Equipment",
+			"collector_number": "342",
+			"image_uris": {
+				"en": "https://TheMrCuddleFish.github.io/sets/SCLG-files/img/280.jpg"
+			}
+		},
+		{
+			"name": "Gladiator's Greatblade",
+			"rarity": "common",
+			"mana_cost": "{2}",
+			"type": "Artifact — Equipment",
+			"collector_number": "343",
+			"image_uris": {
+				"en": "https://TheMrCuddleFish.github.io/sets/SCLG-files/img/281.jpg"
+			}
+		},
+		{
+			"name": "Glaive Warden",
+			"rarity": "common",
+			"mana_cost": "{2}",
+			"type": "Artifact Creature — Construct Soldier",
+			"collector_number": "344",
+			"image_uris": {
+				"en": "https://TheMrCuddleFish.github.io/sets/SCLG-files/img/282.jpg"
+			}
+		},
+		{
+			"name": "Hall of the Great Kings",
+			"rarity": "uncommon",
+			"mana_cost": "{6}",
+			"type": "Artifact",
+			"collector_number": "346",
+			"image_uris": {
+				"en": "https://TheMrCuddleFish.github.io/sets/SCLG-files/img/283.jpg"
+			}
+		},
+		{
+			"name": "Heavy Assault Tank",
+			"rarity": "uncommon",
+			"mana_cost": "{7}",
+			"type": "Artifact — Vehicle",
+			"collector_number": "347",
+			"image_uris": {
+				"en": "https://TheMrCuddleFish.github.io/sets/SCLG-files/img/284.jpg"
+			}
+		},
+		{
+			"name": "Hell Company Commander",
+			"rarity": "mythic",
+			"mana_cost": "{6}",
+			"type": "Artifact Creature — Mutant Mercenary",
+			"collector_number": "348",
+			"image_uris": {
+				"en": "https://TheMrCuddleFish.github.io/sets/SCLG-files/img/285.jpg"
+			}
+		},
+		{
+			"name": "Hydra Security Turret",
+			"rarity": "uncommon",
+			"mana_cost": "{5}",
+			"type": "Artifact Creature — Wall",
+			"collector_number": "350",
+			"image_uris": {
+				"en": "https://TheMrCuddleFish.github.io/sets/SCLG-files/img/286.jpg"
+			}
+		},
+		{
+			"name": "Isolation Cube",
+			"rarity": "uncommon",
+			"mana_cost": "{4}",
+			"type": "Artifact",
+			"collector_number": "352",
+			"image_uris": {
+				"en": "https://TheMrCuddleFish.github.io/sets/SCLG-files/img/287.jpg"
+			}
+		},
+		{
+			"name": "Junker's Jetpack",
+			"rarity": "uncommon",
+			"mana_cost": "{3}",
+			"type": "Artifact — Equipment",
+			"collector_number": "353",
+			"image_uris": {
+				"en": "https://TheMrCuddleFish.github.io/sets/SCLG-files/img/288.jpg"
+			}
+		},
+		{
+			"name": "Junkyard Shambler",
+			"rarity": "common",
+			"mana_cost": "{3}",
+			"type": "Artifact Creature — Horror",
+			"collector_number": "354",
+			"image_uris": {
+				"en": "https://TheMrCuddleFish.github.io/sets/SCLG-files/img/289.jpg"
+			}
+		},
+		{
+			"name": "Keldris, the Warlord",
+			"rarity": "common",
+			"mana_cost": "{5}",
+			"type": "Legendary Artifact Creature — Mercenary",
+			"collector_number": "355",
+			"image_uris": {
+				"en": "https://TheMrCuddleFish.github.io/sets/SCLG-files/img/290.jpg"
+			}
+		},
+		{
+			"name": "The Light of Eternity",
+			"rarity": "mythic",
+			"mana_cost": "{5}",
+			"type": "Legendary Artifact",
+			"collector_number": "356",
+			"image_uris": {
+				"en": "https://TheMrCuddleFish.github.io/sets/SCLG-files/img/291.jpg"
+			}
+		},
+		{
+			"name": "Maelstrom Colossus",
+			"rarity": "common",
+			"mana_cost": "{8}",
+			"type": "Artifact Creature — Golem",
+			"collector_number": "357",
+			"image_uris": {
+				"en": "https://TheMrCuddleFish.github.io/sets/SCLG-files/img/292.jpg"
+			}
+		},
+		{
+			"name": "Magnus Engine",
+			"rarity": "mythic",
+			"mana_cost": "{5}",
+			"type": "Legendary Artifact",
+			"collector_number": "358",
+			"image_uris": {
+				"en": "https://TheMrCuddleFish.github.io/sets/SCLG-files/img/293.jpg"
+			}
+		},
+		{
+			"name": "Marble Monument",
+			"rarity": "common",
+			"mana_cost": "{2}",
+			"type": "Artifact",
+			"collector_number": "359",
+			"image_uris": {
+				"en": "https://TheMrCuddleFish.github.io/sets/SCLG-files/img/294.jpg"
+			}
+		},
+		{
+			"name": "Masterwork Censor",
+			"rarity": "rare",
+			"mana_cost": "{5}",
+			"type": "Artifact Creature — Construct",
+			"collector_number": "360",
+			"image_uris": {
+				"en": "https://TheMrCuddleFish.github.io/sets/SCLG-files/img/295.jpg"
+			}
+		},
+		{
+			"name": "Memoir's of Heroism",
+			"rarity": "rare",
+			"mana_cost": "{5}",
+			"type": "Artifact",
+			"collector_number": "361",
+			"image_uris": {
+				"en": "https://TheMrCuddleFish.github.io/sets/SCLG-files/img/296.jpg"
+			}
+		},
+		{
+			"name": "Mission Room",
+			"rarity": "common",
+			"mana_cost": "{3}",
+			"type": "Artifact",
+			"collector_number": "362",
+			"image_uris": {
+				"en": "https://TheMrCuddleFish.github.io/sets/SCLG-files/img/297.jpg"
+			}
+		},
+		{
+			"name": "Moss Monument",
+			"rarity": "common",
+			"mana_cost": "{2}",
+			"type": "Artifact",
+			"collector_number": "363",
+			"image_uris": {
+				"en": "https://TheMrCuddleFish.github.io/sets/SCLG-files/img/298.jpg"
+			}
+		},
+		{
+			"name": "Planetary Power Drill",
+			"rarity": "common",
+			"mana_cost": "{1}",
+			"type": "Artifact",
+			"collector_number": "364",
+			"image_uris": {
+				"en": "https://TheMrCuddleFish.github.io/sets/SCLG-files/img/299.jpg"
+			}
+		},
+		{
+			"name": "Porridge Warrior",
+			"rarity": "common",
+			"mana_cost": "{3}",
+			"type": "Artifact Creature — Golem Food",
+			"collector_number": "365",
+			"image_uris": {
+				"en": "https://TheMrCuddleFish.github.io/sets/SCLG-files/img/300.jpg"
+			}
+		},
+		{
+			"name": "Privateer's Corvette",
+			"rarity": "common",
+			"mana_cost": "{3}",
+			"type": "Artifact — Vehicle",
+			"collector_number": "366",
+			"image_uris": {
+				"en": "https://TheMrCuddleFish.github.io/sets/SCLG-files/img/301.jpg"
+			}
+		},
+		{
+			"name": "Prophetic Cube",
+			"rarity": "common",
+			"mana_cost": "{2}",
+			"type": "Artifact — Treasure",
+			"collector_number": "367",
+			"image_uris": {
+				"en": "https://TheMrCuddleFish.github.io/sets/SCLG-files/img/302.jpg"
+			}
+		},
+		{
+			"name": "Quad-Arm Linksuit",
+			"rarity": "uncommon",
+			"mana_cost": "{3}",
+			"type": "Artifact — Equipment",
+			"collector_number": "368",
+			"image_uris": {
+				"en": "https://TheMrCuddleFish.github.io/sets/SCLG-files/img/303.jpg"
+			}
+		},
+		{
+			"name": "Ready Railcannon",
+			"rarity": "uncommon",
+			"mana_cost": "{2}",
+			"type": "Artifact — Equipment",
+			"collector_number": "369",
+			"image_uris": {
+				"en": "https://TheMrCuddleFish.github.io/sets/SCLG-files/img/304.jpg"
+			}
+		},
+		{
+			"name": "Rusted Turbine",
+			"rarity": "uncommon",
+			"mana_cost": "{7}",
+			"type": "Artifact",
+			"collector_number": "370",
+			"image_uris": {
+				"en": "https://TheMrCuddleFish.github.io/sets/SCLG-files/img/305.jpg"
+			}
+		},
+		{
+			"name": "Sandstone Relic",
+			"rarity": "common",
+			"mana_cost": "{3}",
+			"type": "Artifact",
+			"collector_number": "372",
+			"image_uris": {
+				"en": "https://TheMrCuddleFish.github.io/sets/SCLG-files/img/306.jpg"
+			}
+		},
+		{
+			"name": "The Singing Stone",
+			"rarity": "uncommon",
+			"mana_cost": "{2}",
+			"type": "Artifact — Equipment",
+			"collector_number": "374",
+			"image_uris": {
+				"en": "https://TheMrCuddleFish.github.io/sets/SCLG-files/img/307.jpg"
+			}
+		},
+		{
+			"name": "Sky Monument",
+			"rarity": "common",
+			"mana_cost": "{2}",
+			"type": "Artifact",
+			"collector_number": "375",
+			"image_uris": {
+				"en": "https://TheMrCuddleFish.github.io/sets/SCLG-files/img/308.jpg"
+			}
+		},
+		{
+			"name": "Sledge-Hand Exo-Arms",
+			"rarity": "common",
+			"mana_cost": "{3}",
+			"type": "Artifact — Equipment",
+			"collector_number": "377",
+			"image_uris": {
+				"en": "https://TheMrCuddleFish.github.io/sets/SCLG-files/img/309.jpg"
+			}
+		},
+		{
+			"name": "Armillary Sphere",
+			"rarity": "common",
+			"mana_cost": "{2}",
+			"type": "Artifact",
+			"collector_number": "328",
+			"image_uris": {
+				"en": "https://TheMrCuddleFish.github.io/sets/SCLG-files/img/310.jpg"
+			}
+		},
+		{
+			"name": "Command Tower",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "381",
+			"image_uris": {
+				"en": "https://TheMrCuddleFish.github.io/sets/SCLG-files/img/311.jpg"
+			}
+		},
+		{
+			"name": "Commanders Pinnacle",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "382",
+			"image_uris": {
+				"en": "https://TheMrCuddleFish.github.io/sets/SCLG-files/img/312.jpg"
+			}
+		},
+		{
+			"name": "Commander's Wardentree",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "383",
+			"image_uris": {
+				"en": "https://TheMrCuddleFish.github.io/sets/SCLG-files/img/313.jpg"
+			}
+		},
+		{
+			"name": "Pathway Portal",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "387",
+			"image_uris": {
+				"en": "https://TheMrCuddleFish.github.io/sets/SCLG-files/img/314.jpg"
+			}
+		},
+		{
+			"name": "Pillar of Gold",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "388",
+			"image_uris": {
+				"en": "https://TheMrCuddleFish.github.io/sets/SCLG-files/img/315.jpg"
+			}
+		},
+		{
+			"name": "Rusted Cathedral",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "389",
+			"image_uris": {
+				"en": "https://TheMrCuddleFish.github.io/sets/SCLG-files/img/316.jpg"
+			}
+		},
+		{
+			"name": "Swamp",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Basic Land — Swamp",
+			"collector_number": "394",
+			"image_uris": {
+				"en": "https://TheMrCuddleFish.github.io/sets/SCLG-files/img/317.jpg"
+			}
+		},
+		{
+			"name": "Camille, Union Premir",
+			"rarity": "rare",
+			"mana_cost": "{3}{W}{W}",
+			"type": "Legendary Creature — Angel",
+			"collector_number": "8",
+			"image_uris": {
+				"en": "https://TheMrCuddleFish.github.io/sets/SCLG-files/img/318.jpg"
+			}
+		},
+		{
+			"name": "Mark of the White Wolf",
+			"rarity": "uncommon",
+			"mana_cost": "{4}{W}",
+			"type": "Enchantment — Aura",
+			"collector_number": "33",
+			"image_uris": {
+				"en": "https://TheMrCuddleFish.github.io/sets/SCLG-files/img/319.jpg"
+			}
+		},
+		{
+			"name": "Guiding Hero's Light",
+			"rarity": "rare",
+			"mana_cost": "{W}",
+			"type": "Enchantment",
+			"collector_number": "22",
+			"image_uris": {
+				"en": "https://TheMrCuddleFish.github.io/sets/SCLG-files/img/320.jpg"
+			}
+		},
+		{
+			"name": "Ultimate Decree",
+			"rarity": "rare",
+			"mana_cost": "{4}{W}{W}",
+			"type": "Sorcery",
+			"collector_number": "50",
+			"image_uris": {
+				"en": "https://TheMrCuddleFish.github.io/sets/SCLG-files/img/321.jpg"
+			}
+		},
+		{
+			"name": "Finding Yourself",
+			"rarity": "common",
+			"mana_cost": "{G}",
+			"type": "Sorcery",
+			"collector_number": "233",
+			"image_uris": {
+				"en": "https://TheMrCuddleFish.github.io/sets/SCLG-files/img/322.jpg"
+			}
+		},
+		{
+			"name": "Ignition Beam",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{R}",
+			"type": "Sorcery",
+			"collector_number": "181",
+			"image_uris": {
+				"en": "https://TheMrCuddleFish.github.io/sets/SCLG-files/img/323.jpg"
+			}
+		},
+		{
+			"name": "Visceral Punch",
+			"rarity": "common",
+			"mana_cost": "{1}{R}",
+			"type": "Instant",
+			"collector_number": "210",
+			"image_uris": {
+				"en": "https://TheMrCuddleFish.github.io/sets/SCLG-files/img/324.jpg"
+			}
+		},
+		{
+			"name": "Depths of Knowledge",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{U}",
+			"type": "Instant",
+			"collector_number": "67",
+			"image_uris": {
+				"en": "https://TheMrCuddleFish.github.io/sets/SCLG-files/img/325.jpg"
+			}
+		},
+		{
+			"name": "Atellis, Hero Myrmidon",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{U}",
+			"type": "Legendary Creature — Human Solider",
+			"collector_number": "55",
+			"image_uris": {
+				"en": "https://TheMrCuddleFish.github.io/sets/SCLG-files/img/326.jpg"
+			}
+		},
+		{
+			"name": "Commune with Ancestors",
+			"rarity": "common",
+			"mana_cost": "{U}",
+			"type": "Sorcery",
+			"collector_number": "62",
+			"image_uris": {
+				"en": "https://TheMrCuddleFish.github.io/sets/SCLG-files/img/327.jpg"
+			}
+		},
+		{
+			"name": "Damning Boon",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{B}",
+			"type": "Enchantment — Aura",
+			"collector_number": "122",
+			"image_uris": {
+				"en": "https://TheMrCuddleFish.github.io/sets/SCLG-files/img/328.jpg"
+			}
+		},
+		{
+			"name": "Elder-God's Command",
+			"rarity": "rare",
+			"mana_cost": "{3}{B}{B}{B}",
+			"type": "Sorcery",
+			"collector_number": "131",
+			"image_uris": {
+				"en": "https://TheMrCuddleFish.github.io/sets/SCLG-files/img/329.jpg"
+			}
+		},
+		{
+			"name": "Flesh-Wheel Lasher",
+			"rarity": "common",
+			"mana_cost": "{3}{R}",
+			"type": "Enchantment Creature — Horror",
+			"collector_number": "175",
+			"image_uris": {
+				"en": "https://TheMrCuddleFish.github.io/sets/SCLG-files/img/330.jpg"
+			}
+		},
+		{
+			"name": "Trellix, The Last Song",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{B}{B}",
+			"type": "Legendary Creature — Horror Bard",
+			"collector_number": "151",
+			"image_uris": {
+				"en": "https://TheMrCuddleFish.github.io/sets/SCLG-files/img/331.jpg"
+			}
+		},
+		{
+			"name": "Twisted Mangler",
+			"rarity": "common",
+			"mana_cost": "{2}{R}",
+			"type": "Enchantment Creature — Mutant",
+			"collector_number": "208",
+			"image_uris": {
+				"en": "https://TheMrCuddleFish.github.io/sets/SCLG-files/img/332.jpg"
+			}
+		},
+		{
+			"name": "Underworld Lanterns",
+			"rarity": "uncommon",
+			"mana_cost": "{4}{B}",
+			"type": "Creature — Spirit",
+			"collector_number": "155",
+			"image_uris": {
+				"en": "https://TheMrCuddleFish.github.io/sets/SCLG-files/img/333.jpg"
+			}
+		},
+		{
+			"name": "Path of Fleeting Wisdom",
+			"rarity": "rare",
+			"mana_cost": "{1}{U}",
+			"type": "Enchantment",
+			"collector_number": "92",
+			"image_uris": {
+				"en": "https://TheMrCuddleFish.github.io/sets/SCLG-files/img/334.jpg"
+			}
+		},
+		{
+			"name": "Abyssal Pathkeeper",
+			"rarity": "common",
+			"mana_cost": "{3}{B}{B}",
+			"type": "Creature — Horror",
+			"collector_number": "107",
+			"image_uris": {
+				"en": "https://TheMrCuddleFish.github.io/sets/SCLG-files/img/335.jpg"
+			}
+		},
+		{
+			"name": "Face the Impossible",
+			"rarity": "common",
+			"mana_cost": "{1}{U}{U}",
+			"type": "Instant",
+			"collector_number": "75",
+			"image_uris": {
+				"en": "https://TheMrCuddleFish.github.io/sets/SCLG-files/img/336.jpg"
+			}
+		},
+		{
+			"name": "Wildborn Rebuttle",
+			"rarity": "common",
+			"mana_cost": "{U}",
+			"type": "Instant",
+			"collector_number": "105",
+			"image_uris": {
+				"en": "https://TheMrCuddleFish.github.io/sets/SCLG-files/img/337.jpg"
+			}
+		},
+		{
+			"name": "Pond-Augur Adept",
+			"rarity": "common",
+			"mana_cost": "{2}{U}",
+			"type": "Creature — Frog Wizard",
+			"collector_number": "94",
+			"image_uris": {
+				"en": "https://TheMrCuddleFish.github.io/sets/SCLG-files/img/338.jpg"
+			}
+		},
+		{
+			"name": "Rusted Bone-Collector",
+			"rarity": "common",
+			"mana_cost": "{3}{B}",
+			"type": "Artifact Creature — Construct Horror",
+			"collector_number": "143",
+			"image_uris": {
+				"en": "https://TheMrCuddleFish.github.io/sets/SCLG-files/img/339.jpg"
+			}
+		},
+		{
+			"name": "Crippling Paranoia",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{B}{B}",
+			"type": "Enchantment",
+			"collector_number": "119",
+			"image_uris": {
+				"en": "https://TheMrCuddleFish.github.io/sets/SCLG-files/img/340.jpg"
+			}
+		},
+		{
+			"name": "Death-Herald Trumpeter",
+			"rarity": "uncommon",
+			"mana_cost": "{4}{R}",
+			"type": "Enchantment Creature — Horror",
+			"collector_number": "170",
+			"image_uris": {
+				"en": "https://TheMrCuddleFish.github.io/sets/SCLG-files/img/341.jpg"
+			}
+		},
+		{
+			"name": "Deepwell Vanguard",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{B}",
+			"type": "Creature — Skeleton Soldier",
+			"collector_number": "127",
+			"image_uris": {
+				"en": "https://TheMrCuddleFish.github.io/sets/SCLG-files/img/342.jpg"
+			}
+		},
+		{
+			"name": "Eska, Mystic Archmage",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{U}{U}",
+			"type": "Legendary Creature — Elf Wizard",
+			"collector_number": "72",
+			"image_uris": {
+				"en": "https://TheMrCuddleFish.github.io/sets/SCLG-files/img/343.jpg"
+			}
+		},
+		{
+			"name": "Kali, Royal Playwright",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{R}",
+			"type": "Legendary Creature — Avatar Wizard",
+			"collector_number": "184",
+			"image_uris": {
+				"en": "https://TheMrCuddleFish.github.io/sets/SCLG-files/img/344.jpg"
+			}
+		},
+		{
+			"name": "Seafarer Mystic",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{U}",
+			"type": "Creature — Human Wizard",
+			"collector_number": "97",
+			"image_uris": {
+				"en": "https://TheMrCuddleFish.github.io/sets/SCLG-files/img/345.jpg"
+			}
+		},
+		{
+			"name": "The Discordant Flesh",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{B}",
+			"type": "Legendary Enchantment Creature — Horror",
+			"collector_number": "128",
+			"image_uris": {
+				"en": "https://TheMrCuddleFish.github.io/sets/SCLG-files/img/346.jpg"
+			}
+		},
+		{
+			"name": "The Headless Samurai",
+			"rarity": "uncommon",
+			"mana_cost": "{R}",
+			"type": "Legendary Creature — Samurai Horror",
+			"collector_number": "178",
+			"image_uris": {
+				"en": "https://TheMrCuddleFish.github.io/sets/SCLG-files/img/347.jpg"
+			}
+		},
+		{
+			"name": "Utter Obliteration",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{B}{B}",
+			"type": "Sorcery",
+			"collector_number": "157",
+			"image_uris": {
+				"en": "https://TheMrCuddleFish.github.io/sets/SCLG-files/img/348.jpg"
+			}
+		},
+		{
+			"name": "Adonis, the Serpent Seraph",
+			"rarity": "rare",
+			"mana_cost": "{5}{U}{U}",
+			"type": "Legendary Creature — Angel Serpent",
+			"collector_number": "54",
+			"image_uris": {
+				"en": "https://TheMrCuddleFish.github.io/sets/SCLG-files/img/349.jpg"
+			}
+		},
+		{
+			"name": "Hestia, Astral Warrior",
+			"rarity": "rare",
+			"mana_cost": "{1}{U}{R}{W}",
+			"type": "Legendary Creature — Demigod",
+			"collector_number": "284",
+			"image_uris": {
+				"en": "https://TheMrCuddleFish.github.io/sets/SCLG-files/img/350.jpg"
+			}
+		},
+		{
+			"name": "Medea, Hellbonder",
+			"rarity": "rare",
+			"mana_cost": "{3}{U}{B}{R}",
+			"type": "Legendary Creature — Human Mercenary",
+			"collector_number": "304",
+			"image_uris": {
+				"en": "https://TheMrCuddleFish.github.io/sets/SCLG-files/img/351.jpg"
+			}
+		},
+		{
+			"name": "Avenger Warcaptain",
+			"rarity": "mythic",
+			"mana_cost": "{4}{R}{R}",
+			"type": "Creature — Angel",
+			"collector_number": "161",
+			"image_uris": {
+				"en": "https://TheMrCuddleFish.github.io/sets/SCLG-files/img/352.jpg"
+			}
+		},
+		{
+			"name": "Elder-God's Rebuke",
+			"rarity": "mythic",
+			"mana_cost": "{X}{U}",
+			"type": "Instant",
+			"collector_number": "71",
+			"image_uris": {
+				"en": "https://TheMrCuddleFish.github.io/sets/SCLG-files/img/353.jpg"
+			}
+		},
+		{
+			"name": "Muldra, The Warped Mind",
+			"rarity": "mythic",
+			"mana_cost": "{2}{U}{U}",
+			"type": "Legendary Enchantment Creature — Elemental",
+			"collector_number": "88",
+			"image_uris": {
+				"en": "https://TheMrCuddleFish.github.io/sets/SCLG-files/img/354.jpg"
+			}
+		},
+		{
+			"name": "Carress of Oblivion",
+			"rarity": "common",
+			"mana_cost": "{B}",
+			"type": "Instant",
+			"collector_number": "117",
+			"image_uris": {
+				"en": "https://TheMrCuddleFish.github.io/sets/SCLG-files/img/355.jpg"
+			}
+		},
+		{
+			"name": "Ancient Library",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "378",
+			"image_uris": {
+				"en": "https://TheMrCuddleFish.github.io/sets/SCLG-files/img/356.jpg"
+			}
+		},
+		{
+			"name": "Cobalt-Memory Mage",
+			"rarity": "common",
+			"mana_cost": "{3}{U}",
+			"type": "Creature — Human Wizard",
+			"collector_number": "61",
+			"image_uris": {
+				"en": "https://TheMrCuddleFish.github.io/sets/SCLG-files/img/357.jpg"
+			}
+		},
+		{
+			"name": "Deepwater Goliath",
+			"rarity": "common",
+			"mana_cost": "{6}{U}{U}",
+			"type": "Creature — Giant",
+			"collector_number": "65",
+			"image_uris": {
+				"en": "https://TheMrCuddleFish.github.io/sets/SCLG-files/img/358.jpg"
+			}
+		},
+		{
+			"name": "Exploring the Unknown",
+			"rarity": "common",
+			"mana_cost": "{R}",
+			"type": "Enchantment — Saga",
+			"collector_number": "174",
+			"image_uris": {
+				"en": "https://TheMrCuddleFish.github.io/sets/SCLG-files/img/359.jpg"
+			}
+		},
+		{
+			"name": "Grimacing Courtesan",
+			"rarity": "common",
+			"mana_cost": "{2}{B}",
+			"type": "Creature — Human Rogue",
+			"collector_number": "132",
+			"image_uris": {
+				"en": "https://TheMrCuddleFish.github.io/sets/SCLG-files/img/360.jpg"
+			}
+		},
+		{
+			"name": "Hightower Zeppelin",
+			"rarity": "common",
+			"mana_cost": "{6}",
+			"type": "Artifact Creature — Vehicle",
+			"collector_number": "349",
+			"image_uris": {
+				"en": "https://TheMrCuddleFish.github.io/sets/SCLG-files/img/361.jpg"
+			}
+		},
+		{
+			"name": "Idyllic Air Lift",
+			"rarity": "common",
+			"mana_cost": "{U}",
+			"type": "Enchantment — Aura",
+			"collector_number": "81",
+			"image_uris": {
+				"en": "https://TheMrCuddleFish.github.io/sets/SCLG-files/img/362.jpg"
+			}
+		},
+		{
+			"name": "Star of Origins",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "390",
+			"image_uris": {
+				"en": "https://TheMrCuddleFish.github.io/sets/SCLG-files/img/363.jpg"
+			}
+		},
+		{
+			"name": "Blazing Mutation",
+			"rarity": "uncommon",
+			"mana_cost": "{4}{R}",
+			"type": "Enchantment — Aura",
+			"collector_number": "163",
+			"image_uris": {
+				"en": "https://TheMrCuddleFish.github.io/sets/SCLG-files/img/364.jpg"
+			}
+		},
+		{
+			"name": "Bound by Hellflame",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{B}",
+			"type": "Enchantment — Aura",
+			"collector_number": "115",
+			"image_uris": {
+				"en": "https://TheMrCuddleFish.github.io/sets/SCLG-files/img/365.jpg"
+			}
+		},
+		{
+			"name": "Burn the Archives",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{R}",
+			"type": "Enchantment",
+			"collector_number": "168",
+			"image_uris": {
+				"en": "https://TheMrCuddleFish.github.io/sets/SCLG-files/img/366.jpg"
+			}
+		},
+		{
+			"name": "Eternal Witness",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{G}{G}",
+			"type": "Creature — Human Shaman",
+			"collector_number": "232",
+			"image_uris": {
+				"en": "https://TheMrCuddleFish.github.io/sets/SCLG-files/img/367.jpg"
+			}
+		},
+		{
+			"name": "Gaea's Pardon",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{G}",
+			"type": "Enchantment — Aura",
+			"collector_number": "235",
+			"image_uris": {
+				"en": "https://TheMrCuddleFish.github.io/sets/SCLG-files/img/368.jpg"
+			}
+		},
+		{
+			"name": "Imperial Battlecruiser",
+			"rarity": "uncommon",
+			"mana_cost": "{7}",
+			"type": "Artifact — Vehicle",
+			"collector_number": "351",
+			"image_uris": {
+				"en": "https://TheMrCuddleFish.github.io/sets/SCLG-files/img/369.jpg"
+			}
+		},
+		{
+			"name": "Saber-Tooth Relic Guard",
+			"rarity": "uncommon",
+			"mana_cost": "{5}",
+			"type": "Artifact Creature — Cat Construct",
+			"collector_number": "371",
+			"image_uris": {
+				"en": "https://TheMrCuddleFish.github.io/sets/SCLG-files/img/370.jpg"
+			}
+		},
+		{
+			"name": "God-Cavern Predator",
+			"rarity": "uncommon",
+			"mana_cost": "{3}",
+			"type": "Artifact",
+			"collector_number": "345",
+			"image_uris": {
+				"en": "https://TheMrCuddleFish.github.io/sets/SCLG-files/img/371.jpg"
+			}
+		},
+		{
+			"name": "Lyra, Winter Ranger",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{U}{B}",
+			"type": "Legendary Creature — Elf Ranger",
+			"collector_number": "302",
+			"image_uris": {
+				"en": "https://TheMrCuddleFish.github.io/sets/SCLG-files/img/372.jpg"
+			}
+		},
+		{
+			"name": "Mordred, Sightless Guide",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{B}",
+			"type": "Legendary Creature — Human Warlock",
+			"collector_number": "139",
+			"image_uris": {
+				"en": "https://TheMrCuddleFish.github.io/sets/SCLG-files/img/373.jpg"
+			}
+		},
+		{
+			"name": "Prodigious Produce",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{G}",
+			"type": "Enchantment — Aura",
+			"collector_number": "254",
+			"image_uris": {
+				"en": "https://TheMrCuddleFish.github.io/sets/SCLG-files/img/374.jpg"
+			}
+		},
+		{
+			"name": "Skystriker Guardian",
+			"rarity": "uncommon",
+			"mana_cost": "{4}",
+			"type": "Artifact — Vehicle",
+			"collector_number": "376",
+			"image_uris": {
+				"en": "https://TheMrCuddleFish.github.io/sets/SCLG-files/img/375.jpg"
+			}
+		},
+		{
+			"name": "The Great Watcher",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{U}{R}",
+			"type": "Legendary Enchantment Creature — Bird",
+			"collector_number": "280",
+			"image_uris": {
+				"en": "https://TheMrCuddleFish.github.io/sets/SCLG-files/img/376.jpg"
+			}
+		},
+		{
+			"name": "Theyyam, Royal Executioner",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{R}",
+			"type": "Legendary Enchantment Creature — Avatar",
+			"collector_number": "203",
+			"image_uris": {
+				"en": "https://TheMrCuddleFish.github.io/sets/SCLG-files/img/377.jpg"
+			}
+		},
+		{
+			"name": "Trail of Missing Keys",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{G}",
+			"type": "Enchantment",
+			"collector_number": "263",
+			"image_uris": {
+				"en": "https://TheMrCuddleFish.github.io/sets/SCLG-files/img/378.jpg"
+			}
+		},
+		{
+			"name": "Tyra, Deepwoods Hunter",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{B}",
+			"type": "Legendary Creature — Human Knight",
+			"collector_number": "153",
+			"image_uris": {
+				"en": "https://TheMrCuddleFish.github.io/sets/SCLG-files/img/379.jpg"
+			}
+		},
+		{
+			"name": "Veska, Bounty Hunter",
+			"rarity": "uncommon",
+			"mana_cost": "{4}{B}{B}",
+			"type": "Legendary Creature — Human Assassin",
+			"collector_number": "159",
+			"image_uris": {
+				"en": "https://TheMrCuddleFish.github.io/sets/SCLG-files/img/380.jpg"
+			}
+		},
+		{
+			"name": "Furnace-Cursed Djinn",
+			"rarity": "rare",
+			"mana_cost": "{3}{R}",
+			"type": "Creature — Djinn",
+			"collector_number": "176",
+			"image_uris": {
+				"en": "https://TheMrCuddleFish.github.io/sets/SCLG-files/img/381.jpg"
+			}
+		},
+		{
+			"name": "Genesis Voyager",
+			"rarity": "rare",
+			"mana_cost": "{U}",
+			"type": "Creature — Human Scout",
+			"collector_number": "77",
+			"image_uris": {
+				"en": "https://TheMrCuddleFish.github.io/sets/SCLG-files/img/382.jpg"
+			}
+		},
+		{
+			"name": "Kastor, Merciless Dreadknight",
+			"rarity": "rare",
+			"mana_cost": "{1}{B}{G}",
+			"type": "Legendary Creature — Lich Knight",
+			"collector_number": "292",
+			"image_uris": {
+				"en": "https://TheMrCuddleFish.github.io/sets/SCLG-files/img/383.jpg"
+			}
+		},
+		{
+			"name": "Koghul, Champion of the Arena",
+			"rarity": "rare",
+			"mana_cost": "{1}{B}{R}{G}",
+			"type": "Legendary Creature — Demon Warrior",
+			"collector_number": "295",
+			"image_uris": {
+				"en": "https://TheMrCuddleFish.github.io/sets/SCLG-files/img/384.jpg"
+			}
+		},
+		{
+			"name": "Lavessa, Wisdom's Guardian",
+			"rarity": "rare",
+			"mana_cost": "{3}{W}{U}{B}",
+			"type": "Legendary Creature — Demon Cleric",
+			"collector_number": "297",
+			"image_uris": {
+				"en": "https://TheMrCuddleFish.github.io/sets/SCLG-files/img/385.jpg"
+			}
+		},
+		{
+			"name": "Lorekeeper Djinn",
+			"rarity": "rare",
+			"mana_cost": "{2}{U}{U}",
+			"type": "Creature — Djinn Monk",
+			"collector_number": "85",
+			"image_uris": {
+				"en": "https://TheMrCuddleFish.github.io/sets/SCLG-files/img/386.jpg"
+			}
+		},
+		{
+			"name": "Open the Vortex",
+			"rarity": "rare",
+			"mana_cost": "{X}{U}{U}",
+			"type": "Sorcery",
+			"collector_number": "90",
+			"image_uris": {
+				"en": "https://TheMrCuddleFish.github.io/sets/SCLG-files/img/387.jpg"
+			}
+		},
+		{
+			"name": "Rydex, Timeless Warrior",
+			"rarity": "rare",
+			"mana_cost": "{2}{R}{G}",
+			"type": "Legendary Artifact Creature — Golem",
+			"collector_number": "311",
+			"image_uris": {
+				"en": "https://TheMrCuddleFish.github.io/sets/SCLG-files/img/388.jpg"
+			}
+		},
+		{
+			"name": "Sweet Lullaby",
+			"rarity": "rare",
+			"mana_cost": "{1}{G}{G}",
+			"type": "Enchantment",
+			"collector_number": "260",
+			"image_uris": {
+				"en": "https://TheMrCuddleFish.github.io/sets/SCLG-files/img/389.jpg"
+			}
+		},
+		{
+			"name": "Xanathod, Primordial Avenger",
+			"rarity": "rare",
+			"mana_cost": "{G}{U}{R}",
+			"type": "Legendary Creature — Fungus Elemental",
+			"collector_number": "318",
+			"image_uris": {
+				"en": "https://TheMrCuddleFish.github.io/sets/SCLG-files/img/390.jpg"
+			}
+		},
+		{
+			"name": "Zara, Necromancer Admiral",
+			"rarity": "rare",
+			"mana_cost": "{1}{B}{G}{U}",
+			"type": "Legendary Creature — Tiefling Wizard Pirate",
+			"collector_number": "320",
+			"image_uris": {
+				"en": "https://TheMrCuddleFish.github.io/sets/SCLG-files/img/391.jpg"
+			}
+		},
+		{
+			"name": "Maya, War-Mind Engineer",
+			"rarity": "mythic",
+			"mana_cost": "{W}{U}{B}",
+			"type": "Legendary Creature — Human Pilot",
+			"collector_number": "303",
+			"image_uris": {
+				"en": "https://TheMrCuddleFish.github.io/sets/SCLG-files/img/392.jpg"
+			}
+		},
+		{
+			"name": "Morgoth, Seeker of Silmarils",
+			"rarity": "mythic",
+			"mana_cost": "{4}{U}{B}{R}",
+			"type": "Legendary Planeswalker — Morgoth",
+			"collector_number": "307",
+			"image_uris": {
+				"en": "https://TheMrCuddleFish.github.io/sets/SCLG-files/img/393.jpg"
+			}
+		},
+		{
+			"name": "The Irel Brute",
+			"rarity": "mythic",
+			"mana_cost": "{4}{R}{G}",
+			"type": "Legendary Artifact Creature — Construct",
+			"collector_number": "290",
+			"image_uris": {
+				"en": "https://TheMrCuddleFish.github.io/sets/SCLG-files/img/394.jpg"
+			}
+		},
+		{
+			"name": "Breach the Waves",
+			"rarity": "common",
+			"mana_cost": "{1}{U}",
+			"type": "Instant",
+			"collector_number": "58",
+			"image_uris": {
+				"en": "https://TheMrCuddleFish.github.io/sets/SCLG-files/img/395.jpg"
+			}
+		}
+	]
+
+[rare(1)]
+	1 Ellar, Astroatlas
+	1 Draagus, Lord of Silverhand
+	1 Twisted Tutor
+	1 Dreams of Death and Decay
+	1 Tina, the Longriver Angler
+	1 Spondrak, the Blighted Knight
+	1 Apedemak, God of War
+	1 Esmeralda of the Red Thorn
+	1 Olgis, the Iron General
+	1 Lord Swiftraven of House Ardetta
+	1 Alderis, Ascendant Machine
+	1 High Priest Mokayuna
+	1 Elena, Living Martyr
+	1 Eva and Echo, Twin Prodigies
+	1 Nito, Necropolis Dreadlord
+	1 Ikon, Soul of Carnage
+	1 The Shell Of Orilynn
+	1 Domnathus, Willbreaker
+	1 Sir Tucker Stark
+	1 Emilia, The Penitent Saint
+	1 Iffavella, Celestial Guide
+	1 Tazeil, Architect of Invasion
+	1 Skevval, Marching Death
+	1 Adon, Essence of Expression
+	1 Zaculeu, the Architect
+	1 Lady Rose of House Annette
+	1 Kela, Queen of the Acorns
+	1 Grudis, the Catacomb Chief
+	1 Mineko, Wild Avenger
+	1 Cambyses, The Squealing King
+	2 Soul Harvest Acolyte
+	2 Death of the Arch-Nemesis
+	2 Big Top Necromancer
+	2 Bloodbirch Mindreaver
+	2 Lord Verharren, Bloodlord Baron
+	2 Ascended of House Verharren
+	2 Bloodtithe Battlemage
+	2 Tyrant's Suspicions
+	2 Kindlerock, the Iron Tree
+	2 War Factory
+	2 Igstantia, the Seat of Truth
+	2 Azzat, the Underforge Citadel
+	2 Gellegoth, Spires of Decay
+	2 Argentia, the Skyrise Citadel
+	2 Aluna, of Ghostly Lanterns
+	2 Michi, the Wanderer
+	2 Lena of Many Futures
+	2 Adolsa, the Great Protector
+	2 Shaizo, of the Deepflame
+	2 Grendel, the Flamesmith
+	2 Qiang Liang, Soul Collector
+	2 Zheltial, Force of Nature
+	2 Antheia, Master of Fangs
+	2 Leeta, Raven Spymaster
+	2 Littara, Host of Dreams
+	2 Hylas, the Eternal Guardian
+	2 Caelira, Dauntless Knight
+	1 Dreams of Peace and Respite
+	2 Fifth Season's Blossom
+	1 The Great Golden Spirits
+	1 Kingmaker Harbinger
+	2 Magisters Koi Pond
+	1 Strigidus, Griffin Warlord
+	2 Summon the Sun God
+	2 Swaggering Sovereign
+	2 Vacant Existence
+	1 Attack from the Skies
+	2 Deeprealm Summoning
+	2 Dreamborn Escalation
+	1 Dreams of Power and Control
+	2 Eclipse's Hearld
+	2 Exalted Engineer
+	1 Ancestral Animus
+	2 Hightower Besieged
+	2 Magister's Appraiser
+	1 Ozymandias, Reckless Tyrant
+	1 Rampant Manufacturing
+	2 Raucous Ransoming
+	2 Rending Heart's Desire
+	2 Riot Captain
+	2 Thundermaw Challenger
+	2 Toggin, Goblin Blacksmith
+	1 Uudal, Aspect of Chaos
+	2 Wild Ride
+	2 Beastmaster Adept
+	2 Beastmaster Elite
+	1 Dreams of Wonder and Prosperity
+	2 Drop the Hammer
+	1 Ginasha, the Seedcursed
+	2 Groda, the Living Wood
+	2 Lord of the Mistbogs
+	2 Morbid Cultivator
+	1 Omega Stratasaurus
+	2 Primal Flutist
+	2 Undergrowth Behemoth
+	2 Ark of Invasion
+	1 Dragonscale Plate
+	2 Dreadlord's Sarcophgaus
+	2 Extermination Engine
+	1 Hell Company Commander
+	1 The Light of Eternity
+	1 Magnus Engine
+	2 Masterwork Censor
+	2 Memoir's of Heroism
+	2 Commanders Pinnacle
+	2 Pathway Portal
+	2 Camille, Union Premir
+	2 Guiding Hero's Light
+	2 Ultimate Decree
+	2 Elder-God's Command
+	2 Path of Fleeting Wisdom
+	2 Adonis, the Serpent Seraph
+	2 Hestia, Astral Warrior
+	2 Medea, Hellbonder
+	1 Avenger Warcaptain
+	1 Elder-God's Rebuke
+	1 Muldra, The Warped Mind
+	2 Furnace-Cursed Djinn
+	2 Genesis Voyager
+	2 Kastor, Merciless Dreadknight
+	2 Koghul, Champion of the Arena
+	2 Lavessa, Wisdom's Guardian
+	2 Lorekeeper Djinn
+	2 Open the Vortex
+	2 Rydex, Timeless Warrior
+	2 Sweet Lullaby
+	2 Xanathod, Primordial Avenger
+	2 Zara, Necromancer Admiral
+	1 Maya, War-Mind Engineer
+	1 Morgoth, Seeker of Silmarils
+	1 The Irel Brute
+[uncommon(3)]
+	4 Bonestrider
+	4 Venefica, Hellsquad Commando
+	4 Cursed Vanquisher
+	4 Calix, the Dreadknight
+	4 Spade-Legion Witch
+	4 Noxious Dragon
+	4 Rusted Return
+	4 Abyssal Plague
+	4 Justice, Ruin Walker
+	4 Graffa, Big Game Hunter
+	4 Alberic, Thief Guildmaster
+	4 Zellis, the Grave-Broker
+	4 Heggstec, the Technologist
+	4 Aleris, Bride of the Arena
+	4 Alliance Spider Tank
+	4 Alyssa, the Sharpshooter
+	4 Bonding Chorus
+	4 Chained Enforcer
+	4 The Drifter
+	4 Elgis, Dawnstrider
+	4 Gafan's Iron Colossus
+	4 Hokrana of Solar Weaves
+	4 Kessel, Monster Hunter
+	4 Migratory Flight
+	4 Return to Peace
+	4 Rise from the Ashes
+	4 Silverskin Commando
+	4 Sleeping Soundly
+	4 Somber Remembrance
+	4 Spirit-Seeker Witch
+	4 Valiant Defense
+	4 Borthor, The Geyser King
+	4 Corvid Storm Shaman
+	4 Evidence of the Apex
+	4 Giant Mecha-Crab
+	4 Hightower Escort
+	4 In the Kracken's Clutches
+	4 Lira, Tides's Magesty
+	4 Mistbubble Jellyfish
+	4 Phantasma, Hellsquad Spy
+	4 Scuttling Scavenger
+	4 Skycloud Frigates
+	4 Vow of Wings
+	4 Wang Ling, Grand Commandant
+	4 Withstand the Storm
+	4 Bloodthirsty Throne
+	4 Coalition Flameblade
+	4 Devastating Fury
+	4 Effenfield, Wild Whim Sorcerer
+	4 Ignition Helldrake
+	4 Kalaveraz, Hellsquad Grenadier
+	4 Patrolling Junkwagon
+	4 Red Claw Phalanx
+	4 Riot Pit Savage
+	4 Tobey, the Rage Brewmaster
+	4 Vow of Fury
+	4 Wallsmasher Champion
+	4 Cherria, Leader of the Pride
+	4 Coasting Dreamkite
+	4 Dreamhost's Embrace
+	4 Glen, Wise Sentry
+	4 Halden, Druid of Hope
+	4 Mandapoid Hivewarden
+	4 Melethon, Undergrowth Warden
+	4 Molo, the Devourer
+	4 Morgan, the Dreamsage
+	4 Pillars of Strength
+	4 Rotwood Gloomfang
+	4 Skyreacher Warcaller
+	4 Thrash the City
+	4 Illugen, the Perfected Form
+	4 Keanon, Arena Celebrity
+	4 Arcane Signet
+	4 Blessed Grindstone
+	4 Colossus Workshop
+	4 Destroyer Tripod
+	4 Firelord's Mask
+	4 Hall of the Great Kings
+	4 Heavy Assault Tank
+	4 Hydra Security Turret
+	4 Isolation Cube
+	4 Junker's Jetpack
+	4 Quad-Arm Linksuit
+	4 Ready Railcannon
+	4 Rusted Turbine
+	4 The Singing Stone
+	4 Rusted Cathedral
+	4 Mark of the White Wolf
+	4 Ignition Beam
+	4 Depths of Knowledge
+	4 Atellis, Hero Myrmidon
+	4 Damning Boon
+	4 Trellix, The Last Song
+	4 Underworld Lanterns
+	4 Crippling Paranoia
+	4 Death-Herald Trumpeter
+	4 Deepwell Vanguard
+	4 Eska, Mystic Archmage
+	4 Kali, Royal Playwright
+	4 Seafarer Mystic
+	4 The Discordant Flesh
+	4 The Headless Samurai
+	4 Utter Obliteration
+	4 Blazing Mutation
+	4 Bound by Hellflame
+	4 Burn the Archives
+	4 Eternal Witness
+	4 Gaea's Pardon
+	4 Imperial Battlecruiser
+	4 Saber-Tooth Relic Guard
+	4 God-Cavern Predator
+	4 Lyra, Winter Ranger
+	4 Mordred, Sightless Guide
+	4 Prodigious Produce
+	4 Skystriker Guardian
+	4 The Great Watcher
+	4 Theyyam, Royal Executioner
+	4 Trail of Missing Keys
+	4 Tyra, Deepwoods Hunter
+	4 Veska, Bounty Hunter
+[common(7)]
+	8 Legion Deathtroopers
+	8 Death's Familiar
+	8 Moonlight Assassin
+	8 Armoured Ghoul
+	8 Poisontip Assassin
+	8 Rusted Hexwalker
+	8 Mechanized Cadaver
+	8 Skyway Cyber-Hunter
+	8 Hunger-Twisted Mauler
+	8 Crownstealer Vampire
+	8 Legion Heavy Strider
+	8 Path of Vengeance
+	8 Unstoppable Conquest
+	8 Deadly Offering
+	8 Commune with Darkness
+	8 Sudden Death
+	8 Dark Discovery
+	8 Toxic Fumes
+	8 Balustrade Companion
+	8 Brightwing Blessing
+	8 Demolishing Blow
+	8 Dreamsteppe Whale
+	8 Duty Calls
+	8 Fated Coronation
+	8 Frosted Barbarian
+	8 Greater Binding
+	8 Spiritual Companion
+	8 Guildguard Feline
+	8 Hightower Overseers
+	8 Angel of Feathered Felines
+	8 Horizon of Possibility
+	8 Kalari Shieldmate
+	8 Magesty's Vangaurd
+	8 Out to Lunch
+	8 Queen's Legionaires
+	8 Skybreaker Evangel
+	8 Hightower Mechanic
+	8 Spirit Realm Retribution
+	8 Strix Scout
+	8 Wild Pathfinder
+	8 Coastal Chorus
+	8 Coastal Pinnipoids
+	8 Shadowclaw Hunter
+	8 Deepwell Courier
+	8 Follow the Rabbit
+	8 Greatdeep Behemoth
+	8 Idyllic Skyfisher
+	8 Machine Learning
+	8 Mystical Recollection
+	8 Palace Skyfins
+	8 Return to Æther
+	8 Seeking the Old Ones
+	8 Sudden Capsize
+	8 Tripod Stinging Scout
+	8 Bar Breaker
+	8 Bombard Elephants
+	8 Brazen Assault
+	8 Brazen Forgeling
+	8 Elder-God's Glare
+	8 Gold-Lion Champion
+	8 Hellbreaker Warrior
+	8 Molten-Core Minotaur
+	8 Khorne World-Eater
+	8 Nails of Aggression
+	8 Ornery Pterosaurus
+	8 Ready For War
+	8 Red Claw Longstrider
+	8 Scarlet-Ore Scavenger
+	8 Scrapfield Goons
+	8 Shattering Betrayal
+	8 Tumble Down
+	8 Alliance Skybreaker
+	8 Bed of Roses
+	8 Bloom Wanderers
+	8 Brightgarden Dryad
+	8 Charging Misfits
+	8 Close Combat
+	8 Cobble Crusher
+	8 Crash the Competition
+	8 Deadeye Sniper
+	8 Dreamloft Steamplow
+	8 Earthen Undermine
+	8 Fortification Team
+	8 Garden Goblin
+	8 Garden Guardian
+	8 Gift of Amnesty
+	8 Outland Packhunter
+	8 Pridestar Flak-Platform
+	8 Rusted Ironwalker
+	8 Seeking Shelter
+	8 Spiritguard Treefolk
+	8 Topple What Stands
+	8 Abyssal Orrery
+	8 Academy Nexus
+	8 Basalt Vault
+	8 Blades of Glory
+	8 Charcoal Monument
+	8 Desolated Tombguard
+	8 Embroided Dagger
+	8 Filigree Fowl
+	8 Fire Monument
+	8 Gladiator's Greatblade
+	8 Glaive Warden
+	8 Junkyard Shambler
+	8 Keldris, the Warlord
+	8 Maelstrom Colossus
+	8 Marble Monument
+	8 Mission Room
+	8 Moss Monument
+	8 Planetary Power Drill
+	8 Porridge Warrior
+	8 Privateer's Corvette
+	8 Prophetic Cube
+	8 Sandstone Relic
+	8 Sky Monument
+	8 Sledge-Hand Exo-Arms
+	8 Armillary Sphere
+	8 Command Tower
+	8 Commander's Wardentree
+	8 Pillar of Gold
+	8 Finding Yourself
+	8 Visceral Punch
+	8 Commune with Ancestors
+	8 Flesh-Wheel Lasher
+	8 Twisted Mangler
+	8 Abyssal Pathkeeper
+	8 Face the Impossible
+	8 Wildborn Rebuttle
+	8 Pond-Augur Adept
+	8 Rusted Bone-Collector
+	8 Carress of Oblivion
+	8 Ancient Library
+	8 Cobalt-Memory Mage
+	8 Deepwater Goliath
+	8 Exploring the Unknown
+	8 Grimacing Courtesan
+	8 Hightower Zeppelin
+	8 Idyllic Air Lift
+	8 Star of Origins
+	8 Breach the Waves
+[foil(1)]
+	12 Legion Deathtroopers
+	12 Death's Familiar
+	12 Moonlight Assassin
+	12 Armoured Ghoul
+	12 Poisontip Assassin
+	12 Rusted Hexwalker
+	12 Mechanized Cadaver
+	12 Skyway Cyber-Hunter
+	12 Hunger-Twisted Mauler
+	12 Crownstealer Vampire
+	12 Legion Heavy Strider
+	12 Path of Vengeance
+	12 Unstoppable Conquest
+	12 Deadly Offering
+	12 Commune with Darkness
+	12 Sudden Death
+	12 Dark Discovery
+	12 Toxic Fumes
+	1 Ellar, Astroatlas
+	1 Draagus, Lord of Silverhand
+	1 Twisted Tutor
+	1 Dreams of Death and Decay
+	1 Tina, the Longriver Angler
+	1 Spondrak, the Blighted Knight
+	1 Apedemak, God of War
+	1 Esmeralda of the Red Thorn
+	1 Olgis, the Iron General
+	1 Lord Swiftraven of House Ardetta
+	1 Alderis, Ascendant Machine
+	1 High Priest Mokayuna
+	1 Elena, Living Martyr
+	1 Eva and Echo, Twin Prodigies
+	1 Nito, Necropolis Dreadlord
+	1 Ikon, Soul of Carnage
+	1 The Shell Of Orilynn
+	1 Domnathus, Willbreaker
+	1 Sir Tucker Stark
+	1 Emilia, The Penitent Saint
+	1 Iffavella, Celestial Guide
+	1 Tazeil, Architect of Invasion
+	1 Skevval, Marching Death
+	1 Adon, Essence of Expression
+	1 Zaculeu, the Architect
+	1 Lady Rose of House Annette
+	1 Kela, Queen of the Acorns
+	1 Grudis, the Catacomb Chief
+	1 Mineko, Wild Avenger
+	1 Cambyses, The Squealing King
+	2 Soul Harvest Acolyte
+	2 Death of the Arch-Nemesis
+	2 Big Top Necromancer
+	2 Bloodbirch Mindreaver
+	2 Lord Verharren, Bloodlord Baron
+	2 Ascended of House Verharren
+	2 Bloodtithe Battlemage
+	2 Tyrant's Suspicions
+	2 Kindlerock, the Iron Tree
+	2 War Factory
+	2 Igstantia, the Seat of Truth
+	2 Azzat, the Underforge Citadel
+	2 Gellegoth, Spires of Decay
+	2 Argentia, the Skyrise Citadel
+	2 Aluna, of Ghostly Lanterns
+	2 Michi, the Wanderer
+	2 Lena of Many Futures
+	2 Adolsa, the Great Protector
+	2 Shaizo, of the Deepflame
+	2 Grendel, the Flamesmith
+	2 Qiang Liang, Soul Collector
+	2 Zheltial, Force of Nature
+	2 Antheia, Master of Fangs
+	2 Leeta, Raven Spymaster
+	2 Littara, Host of Dreams
+	2 Hylas, the Eternal Guardian
+	6 Bonestrider
+	6 Venefica, Hellsquad Commando
+	6 Cursed Vanquisher
+	6 Calix, the Dreadknight
+	6 Spade-Legion Witch
+	6 Noxious Dragon
+	6 Rusted Return
+	6 Abyssal Plague
+	6 Justice, Ruin Walker
+	6 Graffa, Big Game Hunter
+	6 Alberic, Thief Guildmaster
+	6 Zellis, the Grave-Broker
+	6 Heggstec, the Technologist
+	6 Aleris, Bride of the Arena
+	6 Alliance Spider Tank
+	6 Alyssa, the Sharpshooter
+	12 Balustrade Companion
+	6 Bonding Chorus
+	12 Brightwing Blessing
+	2 Caelira, Dauntless Knight
+	6 Chained Enforcer
+	12 Demolishing Blow
+	1 Dreams of Peace and Respite
+	12 Dreamsteppe Whale
+	6 The Drifter
+	12 Duty Calls
+	6 Elgis, Dawnstrider
+	12 Fated Coronation
+	2 Fifth Season's Blossom
+	12 Frosted Barbarian
+	6 Gafan's Iron Colossus
+	1 The Great Golden Spirits
+	12 Greater Binding
+	12 Spiritual Companion
+	12 Guildguard Feline
+	12 Hightower Overseers
+	12 Angel of Feathered Felines
+	6 Hokrana of Solar Weaves
+	12 Horizon of Possibility
+	12 Kalari Shieldmate
+	6 Kessel, Monster Hunter
+	1 Kingmaker Harbinger
+	12 Magesty's Vangaurd
+	2 Magisters Koi Pond
+	6 Migratory Flight
+	12 Out to Lunch
+	12 Queen's Legionaires
+	6 Return to Peace
+	6 Rise from the Ashes
+	6 Silverskin Commando
+	12 Skybreaker Evangel
+	12 Hightower Mechanic
+	6 Sleeping Soundly
+	6 Somber Remembrance
+	12 Spirit Realm Retribution
+	6 Spirit-Seeker Witch
+	1 Strigidus, Griffin Warlord
+	12 Strix Scout
+	2 Summon the Sun God
+	2 Swaggering Sovereign
+	2 Vacant Existence
+	6 Valiant Defense
+	12 Wild Pathfinder
+	1 Attack from the Skies
+	6 Borthor, The Geyser King
+	12 Coastal Chorus
+	12 Coastal Pinnipoids
+	6 Corvid Storm Shaman
+	2 Deeprealm Summoning
+	12 Shadowclaw Hunter
+	12 Deepwell Courier
+	2 Dreamborn Escalation
+	1 Dreams of Power and Control
+	2 Eclipse's Hearld
+	6 Evidence of the Apex
+	2 Exalted Engineer
+	12 Follow the Rabbit
+	6 Giant Mecha-Crab
+	12 Greatdeep Behemoth
+	6 Hightower Escort
+	12 Idyllic Skyfisher
+	6 In the Kracken's Clutches
+	6 Lira, Tides's Magesty
+	12 Machine Learning
+	6 Mistbubble Jellyfish
+	12 Mystical Recollection
+	12 Palace Skyfins
+	6 Phantasma, Hellsquad Spy
+	12 Return to Æther
+	6 Scuttling Scavenger
+	12 Seeking the Old Ones
+	6 Skycloud Frigates
+	12 Sudden Capsize
+	12 Tripod Stinging Scout
+	6 Vow of Wings
+	6 Wang Ling, Grand Commandant
+	6 Withstand the Storm
+	1 Ancestral Animus
+	12 Bar Breaker
+	6 Bloodthirsty Throne
+	12 Bombard Elephants
+	12 Brazen Assault
+	12 Brazen Forgeling
+	6 Coalition Flameblade
+	6 Devastating Fury
+	6 Effenfield, Wild Whim Sorcerer
+	12 Elder-God's Glare
+	12 Gold-Lion Champion
+	12 Hellbreaker Warrior
+	2 Hightower Besieged
+	12 Molten-Core Minotaur
+	6 Ignition Helldrake
+	6 Kalaveraz, Hellsquad Grenadier
+	12 Khorne World-Eater
+	2 Magister's Appraiser
+	12 Nails of Aggression
+	12 Ornery Pterosaurus
+	1 Ozymandias, Reckless Tyrant
+	6 Patrolling Junkwagon
+	1 Rampant Manufacturing
+	2 Raucous Ransoming
+	12 Ready For War
+	12 Red Claw Longstrider
+	6 Red Claw Phalanx
+	2 Rending Heart's Desire
+	2 Riot Captain
+	6 Riot Pit Savage
+	12 Scarlet-Ore Scavenger
+	12 Scrapfield Goons
+	12 Shattering Betrayal
+	2 Thundermaw Challenger
+	6 Tobey, the Rage Brewmaster
+	2 Toggin, Goblin Blacksmith
+	12 Tumble Down
+	1 Uudal, Aspect of Chaos
+	6 Vow of Fury
+	6 Wallsmasher Champion
+	2 Wild Ride
+	12 Alliance Skybreaker
+	2 Beastmaster Adept
+	2 Beastmaster Elite
+	12 Bed of Roses
+	12 Bloom Wanderers
+	12 Brightgarden Dryad
+	12 Charging Misfits
+	6 Cherria, Leader of the Pride
+	12 Close Combat
+	6 Coasting Dreamkite
+	12 Cobble Crusher
+	12 Crash the Competition
+	12 Deadeye Sniper
+	6 Dreamhost's Embrace
+	12 Dreamloft Steamplow
+	1 Dreams of Wonder and Prosperity
+	2 Drop the Hammer
+	12 Earthen Undermine
+	12 Fortification Team
+	12 Garden Goblin
+	12 Garden Guardian
+	12 Gift of Amnesty
+	1 Ginasha, the Seedcursed
+	6 Glen, Wise Sentry
+	2 Groda, the Living Wood
+	6 Halden, Druid of Hope
+	2 Lord of the Mistbogs
+	6 Mandapoid Hivewarden
+	6 Melethon, Undergrowth Warden
+	6 Molo, the Devourer
+	2 Morbid Cultivator
+	6 Morgan, the Dreamsage
+	1 Omega Stratasaurus
+	12 Outland Packhunter
+	6 Pillars of Strength
+	12 Pridestar Flak-Platform
+	2 Primal Flutist
+	6 Rotwood Gloomfang
+	12 Rusted Ironwalker
+	12 Seeking Shelter
+	6 Skyreacher Warcaller
+	12 Spiritguard Treefolk
+	6 Thrash the City
+	12 Topple What Stands
+	2 Undergrowth Behemoth
+	6 Illugen, the Perfected Form
+	6 Keanon, Arena Celebrity
+	12 Abyssal Orrery
+	12 Academy Nexus
+	6 Arcane Signet
+	2 Ark of Invasion
+	12 Basalt Vault
+	12 Blades of Glory
+	6 Blessed Grindstone
+	12 Charcoal Monument
+	6 Colossus Workshop
+	12 Desolated Tombguard
+	6 Destroyer Tripod
+	1 Dragonscale Plate
+	2 Dreadlord's Sarcophgaus
+	12 Embroided Dagger
+	2 Extermination Engine
+	12 Filigree Fowl
+	12 Fire Monument
+	6 Firelord's Mask
+	12 Gladiator's Greatblade
+	12 Glaive Warden
+	6 Hall of the Great Kings
+	6 Heavy Assault Tank
+	1 Hell Company Commander
+	6 Hydra Security Turret
+	6 Isolation Cube
+	6 Junker's Jetpack
+	12 Junkyard Shambler
+	12 Keldris, the Warlord
+	1 The Light of Eternity
+	12 Maelstrom Colossus
+	1 Magnus Engine
+	12 Marble Monument
+	2 Masterwork Censor
+	2 Memoir's of Heroism
+	12 Mission Room
+	12 Moss Monument
+	12 Planetary Power Drill
+	12 Porridge Warrior
+	12 Privateer's Corvette
+	12 Prophetic Cube
+	6 Quad-Arm Linksuit
+	6 Ready Railcannon
+	6 Rusted Turbine
+	12 Sandstone Relic
+	6 The Singing Stone
+	12 Sky Monument
+	12 Sledge-Hand Exo-Arms
+	12 Armillary Sphere
+	12 Command Tower
+	2 Commanders Pinnacle
+	12 Commander's Wardentree
+	2 Pathway Portal
+	12 Pillar of Gold
+	6 Rusted Cathedral
+	2 Camille, Union Premir
+	6 Mark of the White Wolf
+	2 Guiding Hero's Light
+	2 Ultimate Decree
+	12 Finding Yourself
+	6 Ignition Beam
+	12 Visceral Punch
+	6 Depths of Knowledge
+	6 Atellis, Hero Myrmidon
+	12 Commune with Ancestors
+	6 Damning Boon
+	2 Elder-God's Command
+	12 Flesh-Wheel Lasher
+	6 Trellix, The Last Song
+	12 Twisted Mangler
+	6 Underworld Lanterns
+	2 Path of Fleeting Wisdom
+	12 Abyssal Pathkeeper
+	12 Face the Impossible
+	12 Wildborn Rebuttle
+	12 Pond-Augur Adept
+	12 Rusted Bone-Collector
+	6 Crippling Paranoia
+	6 Death-Herald Trumpeter
+	6 Deepwell Vanguard
+	6 Eska, Mystic Archmage
+	6 Kali, Royal Playwright
+	6 Seafarer Mystic
+	6 The Discordant Flesh
+	6 The Headless Samurai
+	6 Utter Obliteration
+	2 Adonis, the Serpent Seraph
+	2 Hestia, Astral Warrior
+	2 Medea, Hellbonder
+	1 Avenger Warcaptain
+	1 Elder-God's Rebuke
+	1 Muldra, The Warped Mind
+	12 Carress of Oblivion
+	12 Ancient Library
+	12 Cobalt-Memory Mage
+	12 Deepwater Goliath
+	12 Exploring the Unknown
+	12 Grimacing Courtesan
+	12 Hightower Zeppelin
+	12 Idyllic Air Lift
+	12 Star of Origins
+	6 Blazing Mutation
+	6 Bound by Hellflame
+	6 Burn the Archives
+	6 Eternal Witness
+	6 Gaea's Pardon
+	6 Imperial Battlecruiser
+	6 Saber-Tooth Relic Guard
+	6 God-Cavern Predator
+	6 Lyra, Winter Ranger
+	6 Mordred, Sightless Guide
+	6 Prodigious Produce
+	6 Skystriker Guardian
+	6 The Great Watcher
+	6 Theyyam, Royal Executioner
+	6 Trail of Missing Keys
+	6 Tyra, Deepwoods Hunter
+	6 Veska, Bounty Hunter
+	2 Furnace-Cursed Djinn
+	2 Genesis Voyager
+	2 Kastor, Merciless Dreadknight
+	2 Koghul, Champion of the Arena
+	2 Lavessa, Wisdom's Guardian
+	2 Lorekeeper Djinn
+	2 Open the Vortex
+	2 Rydex, Timeless Warrior
+	2 Sweet Lullaby
+	2 Xanathod, Primordial Avenger
+	2 Zara, Necromancer Admiral
+	1 Maya, War-Mind Engineer
+	1 Morgoth, Seeker of Silmarils
+	1 The Irel Brute
+	12 Breach the Waves
+[wildcard(1)]
+	6 Legion Deathtroopers
+	6 Death's Familiar
+	6 Moonlight Assassin
+	6 Armoured Ghoul
+	6 Poisontip Assassin
+	6 Rusted Hexwalker
+	6 Mechanized Cadaver
+	6 Skyway Cyber-Hunter
+	6 Hunger-Twisted Mauler
+	6 Crownstealer Vampire
+	6 Legion Heavy Strider
+	6 Path of Vengeance
+	6 Unstoppable Conquest
+	6 Deadly Offering
+	6 Commune with Darkness
+	6 Sudden Death
+	6 Dark Discovery
+	6 Toxic Fumes
+	4 Ellar, Astroatlas
+	4 Draagus, Lord of Silverhand
+	4 Twisted Tutor
+	4 Dreams of Death and Decay
+	4 Tina, the Longriver Angler
+	4 Spondrak, the Blighted Knight
+	4 Apedemak, God of War
+	4 Esmeralda of the Red Thorn
+	4 Olgis, the Iron General
+	4 Lord Swiftraven of House Ardetta
+	4 Alderis, Ascendant Machine
+	4 High Priest Mokayuna
+	4 Elena, Living Martyr
+	4 Eva and Echo, Twin Prodigies
+	4 Nito, Necropolis Dreadlord
+	4 Ikon, Soul of Carnage
+	4 The Shell Of Orilynn
+	4 Domnathus, Willbreaker
+	4 Sir Tucker Stark
+	4 Emilia, The Penitent Saint
+	4 Iffavella, Celestial Guide
+	4 Tazeil, Architect of Invasion
+	4 Skevval, Marching Death
+	4 Adon, Essence of Expression
+	4 Zaculeu, the Architect
+	4 Lady Rose of House Annette
+	4 Kela, Queen of the Acorns
+	4 Grudis, the Catacomb Chief
+	4 Mineko, Wild Avenger
+	4 Cambyses, The Squealing King
+	7 Soul Harvest Acolyte
+	7 Death of the Arch-Nemesis
+	7 Big Top Necromancer
+	7 Bloodbirch Mindreaver
+	7 Lord Verharren, Bloodlord Baron
+	7 Ascended of House Verharren
+	7 Bloodtithe Battlemage
+	7 Tyrant's Suspicions
+	7 Kindlerock, the Iron Tree
+	7 War Factory
+	7 Igstantia, the Seat of Truth
+	7 Azzat, the Underforge Citadel
+	7 Gellegoth, Spires of Decay
+	7 Argentia, the Skyrise Citadel
+	7 Aluna, of Ghostly Lanterns
+	7 Michi, the Wanderer
+	7 Lena of Many Futures
+	7 Adolsa, the Great Protector
+	7 Shaizo, of the Deepflame
+	7 Grendel, the Flamesmith
+	7 Qiang Liang, Soul Collector
+	7 Zheltial, Force of Nature
+	7 Antheia, Master of Fangs
+	7 Leeta, Raven Spymaster
+	7 Littara, Host of Dreams
+	7 Hylas, the Eternal Guardian
+	15 Bonestrider
+	15 Venefica, Hellsquad Commando
+	15 Cursed Vanquisher
+	15 Calix, the Dreadknight
+	15 Spade-Legion Witch
+	15 Noxious Dragon
+	15 Rusted Return
+	15 Abyssal Plague
+	15 Justice, Ruin Walker
+	15 Graffa, Big Game Hunter
+	15 Alberic, Thief Guildmaster
+	15 Zellis, the Grave-Broker
+	15 Heggstec, the Technologist
+	15 Aleris, Bride of the Arena
+	15 Alliance Spider Tank
+	15 Alyssa, the Sharpshooter
+	6 Balustrade Companion
+	15 Bonding Chorus
+	6 Brightwing Blessing
+	7 Caelira, Dauntless Knight
+	15 Chained Enforcer
+	6 Demolishing Blow
+	4 Dreams of Peace and Respite
+	6 Dreamsteppe Whale
+	15 The Drifter
+	6 Duty Calls
+	15 Elgis, Dawnstrider
+	6 Fated Coronation
+	7 Fifth Season's Blossom
+	6 Frosted Barbarian
+	15 Gafan's Iron Colossus
+	4 The Great Golden Spirits
+	6 Greater Binding
+	6 Spiritual Companion
+	6 Guildguard Feline
+	6 Hightower Overseers
+	6 Angel of Feathered Felines
+	15 Hokrana of Solar Weaves
+	6 Horizon of Possibility
+	6 Kalari Shieldmate
+	15 Kessel, Monster Hunter
+	4 Kingmaker Harbinger
+	6 Magesty's Vangaurd
+	7 Magisters Koi Pond
+	15 Migratory Flight
+	6 Out to Lunch
+	6 Queen's Legionaires
+	15 Return to Peace
+	15 Rise from the Ashes
+	15 Silverskin Commando
+	6 Skybreaker Evangel
+	6 Hightower Mechanic
+	15 Sleeping Soundly
+	15 Somber Remembrance
+	6 Spirit Realm Retribution
+	15 Spirit-Seeker Witch
+	4 Strigidus, Griffin Warlord
+	6 Strix Scout
+	7 Summon the Sun God
+	7 Swaggering Sovereign
+	7 Vacant Existence
+	15 Valiant Defense
+	6 Wild Pathfinder
+	4 Attack from the Skies
+	15 Borthor, The Geyser King
+	6 Coastal Chorus
+	6 Coastal Pinnipoids
+	15 Corvid Storm Shaman
+	7 Deeprealm Summoning
+	6 Shadowclaw Hunter
+	6 Deepwell Courier
+	7 Dreamborn Escalation
+	4 Dreams of Power and Control
+	7 Eclipse's Hearld
+	15 Evidence of the Apex
+	7 Exalted Engineer
+	6 Follow the Rabbit
+	15 Giant Mecha-Crab
+	6 Greatdeep Behemoth
+	15 Hightower Escort
+	6 Idyllic Skyfisher
+	15 In the Kracken's Clutches
+	15 Lira, Tides's Magesty
+	6 Machine Learning
+	15 Mistbubble Jellyfish
+	6 Mystical Recollection
+	6 Palace Skyfins
+	15 Phantasma, Hellsquad Spy
+	6 Return to Æther
+	15 Scuttling Scavenger
+	6 Seeking the Old Ones
+	15 Skycloud Frigates
+	6 Sudden Capsize
+	6 Tripod Stinging Scout
+	15 Vow of Wings
+	15 Wang Ling, Grand Commandant
+	15 Withstand the Storm
+	4 Ancestral Animus
+	6 Bar Breaker
+	15 Bloodthirsty Throne
+	6 Bombard Elephants
+	6 Brazen Assault
+	6 Brazen Forgeling
+	15 Coalition Flameblade
+	15 Devastating Fury
+	15 Effenfield, Wild Whim Sorcerer
+	6 Elder-God's Glare
+	6 Gold-Lion Champion
+	6 Hellbreaker Warrior
+	7 Hightower Besieged
+	6 Molten-Core Minotaur
+	15 Ignition Helldrake
+	15 Kalaveraz, Hellsquad Grenadier
+	6 Khorne World-Eater
+	7 Magister's Appraiser
+	6 Nails of Aggression
+	6 Ornery Pterosaurus
+	4 Ozymandias, Reckless Tyrant
+	15 Patrolling Junkwagon
+	4 Rampant Manufacturing
+	7 Raucous Ransoming
+	6 Ready For War
+	6 Red Claw Longstrider
+	15 Red Claw Phalanx
+	7 Rending Heart's Desire
+	7 Riot Captain
+	15 Riot Pit Savage
+	6 Scarlet-Ore Scavenger
+	6 Scrapfield Goons
+	6 Shattering Betrayal
+	7 Thundermaw Challenger
+	15 Tobey, the Rage Brewmaster
+	7 Toggin, Goblin Blacksmith
+	6 Tumble Down
+	4 Uudal, Aspect of Chaos
+	15 Vow of Fury
+	15 Wallsmasher Champion
+	7 Wild Ride
+	6 Alliance Skybreaker
+	7 Beastmaster Adept
+	7 Beastmaster Elite
+	6 Bed of Roses
+	6 Bloom Wanderers
+	6 Brightgarden Dryad
+	6 Charging Misfits
+	15 Cherria, Leader of the Pride
+	6 Close Combat
+	15 Coasting Dreamkite
+	6 Cobble Crusher
+	6 Crash the Competition
+	6 Deadeye Sniper
+	15 Dreamhost's Embrace
+	6 Dreamloft Steamplow
+	4 Dreams of Wonder and Prosperity
+	7 Drop the Hammer
+	6 Earthen Undermine
+	6 Fortification Team
+	6 Garden Goblin
+	6 Garden Guardian
+	6 Gift of Amnesty
+	4 Ginasha, the Seedcursed
+	15 Glen, Wise Sentry
+	7 Groda, the Living Wood
+	15 Halden, Druid of Hope
+	7 Lord of the Mistbogs
+	15 Mandapoid Hivewarden
+	15 Melethon, Undergrowth Warden
+	15 Molo, the Devourer
+	7 Morbid Cultivator
+	15 Morgan, the Dreamsage
+	4 Omega Stratasaurus
+	6 Outland Packhunter
+	15 Pillars of Strength
+	6 Pridestar Flak-Platform
+	7 Primal Flutist
+	15 Rotwood Gloomfang
+	6 Rusted Ironwalker
+	6 Seeking Shelter
+	15 Skyreacher Warcaller
+	6 Spiritguard Treefolk
+	15 Thrash the City
+	6 Topple What Stands
+	7 Undergrowth Behemoth
+	15 Illugen, the Perfected Form
+	15 Keanon, Arena Celebrity
+	6 Abyssal Orrery
+	6 Academy Nexus
+	15 Arcane Signet
+	7 Ark of Invasion
+	6 Basalt Vault
+	6 Blades of Glory
+	15 Blessed Grindstone
+	6 Charcoal Monument
+	15 Colossus Workshop
+	6 Desolated Tombguard
+	15 Destroyer Tripod
+	4 Dragonscale Plate
+	7 Dreadlord's Sarcophgaus
+	6 Embroided Dagger
+	7 Extermination Engine
+	6 Filigree Fowl
+	6 Fire Monument
+	15 Firelord's Mask
+	6 Gladiator's Greatblade
+	6 Glaive Warden
+	15 Hall of the Great Kings
+	15 Heavy Assault Tank
+	4 Hell Company Commander
+	15 Hydra Security Turret
+	15 Isolation Cube
+	15 Junker's Jetpack
+	6 Junkyard Shambler
+	6 Keldris, the Warlord
+	4 The Light of Eternity
+	6 Maelstrom Colossus
+	4 Magnus Engine
+	6 Marble Monument
+	7 Masterwork Censor
+	7 Memoir's of Heroism
+	6 Mission Room
+	6 Moss Monument
+	6 Planetary Power Drill
+	6 Porridge Warrior
+	6 Privateer's Corvette
+	6 Prophetic Cube
+	15 Quad-Arm Linksuit
+	15 Ready Railcannon
+	15 Rusted Turbine
+	6 Sandstone Relic
+	15 The Singing Stone
+	6 Sky Monument
+	6 Sledge-Hand Exo-Arms
+	6 Armillary Sphere
+	6 Command Tower
+	7 Commanders Pinnacle
+	6 Commander's Wardentree
+	7 Pathway Portal
+	6 Pillar of Gold
+	15 Rusted Cathedral
+	7 Camille, Union Premir
+	15 Mark of the White Wolf
+	7 Guiding Hero's Light
+	7 Ultimate Decree
+	6 Finding Yourself
+	15 Ignition Beam
+	6 Visceral Punch
+	15 Depths of Knowledge
+	15 Atellis, Hero Myrmidon
+	6 Commune with Ancestors
+	15 Damning Boon
+	7 Elder-God's Command
+	6 Flesh-Wheel Lasher
+	15 Trellix, The Last Song
+	6 Twisted Mangler
+	15 Underworld Lanterns
+	7 Path of Fleeting Wisdom
+	6 Abyssal Pathkeeper
+	6 Face the Impossible
+	6 Wildborn Rebuttle
+	6 Pond-Augur Adept
+	6 Rusted Bone-Collector
+	15 Crippling Paranoia
+	15 Death-Herald Trumpeter
+	15 Deepwell Vanguard
+	15 Eska, Mystic Archmage
+	15 Kali, Royal Playwright
+	15 Seafarer Mystic
+	15 The Discordant Flesh
+	15 The Headless Samurai
+	15 Utter Obliteration
+	7 Adonis, the Serpent Seraph
+	7 Hestia, Astral Warrior
+	7 Medea, Hellbonder
+	4 Avenger Warcaptain
+	4 Elder-God's Rebuke
+	4 Muldra, The Warped Mind
+	6 Carress of Oblivion
+	6 Ancient Library
+	6 Cobalt-Memory Mage
+	6 Deepwater Goliath
+	6 Exploring the Unknown
+	6 Grimacing Courtesan
+	6 Hightower Zeppelin
+	6 Idyllic Air Lift
+	6 Star of Origins
+	15 Blazing Mutation
+	15 Bound by Hellflame
+	15 Burn the Archives
+	15 Eternal Witness
+	15 Gaea's Pardon
+	15 Imperial Battlecruiser
+	15 Saber-Tooth Relic Guard
+	15 God-Cavern Predator
+	15 Lyra, Winter Ranger
+	15 Mordred, Sightless Guide
+	15 Prodigious Produce
+	15 Skystriker Guardian
+	15 The Great Watcher
+	15 Theyyam, Royal Executioner
+	15 Trail of Missing Keys
+	15 Tyra, Deepwoods Hunter
+	15 Veska, Bounty Hunter
+	7 Furnace-Cursed Djinn
+	7 Genesis Voyager
+	7 Kastor, Merciless Dreadknight
+	7 Koghul, Champion of the Arena
+	7 Lavessa, Wisdom's Guardian
+	7 Lorekeeper Djinn
+	7 Open the Vortex
+	7 Rydex, Timeless Warrior
+	7 Sweet Lullaby
+	7 Xanathod, Primordial Avenger
+	7 Zara, Necromancer Admiral
+	4 Maya, War-Mind Engineer
+	4 Morgoth, Seeker of Silmarils
+	4 The Irel Brute
+	6 Breach the Waves

@@ -1,7 +1,7 @@
 ﻿{
     "name": "Starfish\u2019s Commander Legends",
     "formats": "",
-    "trimmed": "y",
+    "trimmed": "n",
     "image_type": "jpg",
     "draft_structure": "play booster",
     "unpreviewed": "card back",
@@ -8126,6 +8126,5 @@
             "position": "395",
             "notes": "CU22,Noncreature,2,,Run Away Together\nSplice onto creature 3U\nCycling U\n\nSplice onto creature 3U\n\nfix"
         }
-    ],
-    "version": 1
+    ]
 }
