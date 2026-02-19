@@ -1,0 +1,1959 @@
+﻿[
+    {
+        "card_name": "MW01 Divine Extinguishing",
+        "number": 24,
+        "shape": "normal",
+        "set": "SGS",
+        "position": "184"
+    },
+    {
+        "card_name": "MU01 Tides of Time",
+        "number": 66,
+        "shape": "normal",
+        "set": "SGS",
+        "position": "186"
+    },
+    {
+        "card_name": "MB01 Forging the Iron Throne",
+        "number": 108,
+        "shape": "normal",
+        "set": "SGS",
+        "position": "188"
+    },
+    {
+        "card_name": "MR01 Breaking of the Alliance",
+        "number": 149,
+        "shape": "normal",
+        "set": "SGS",
+        "position": "190"
+    },
+    {
+        "card_name": "MG01 The Cycle Renewed",
+        "number": 190,
+        "shape": "normal",
+        "set": "SGS",
+        "position": "192"
+    },
+    {
+        "card_name": "MW02 Lord of Eternity",
+        "number": 25,
+        "shape": "normal",
+        "set": "SGS",
+        "position": "185"
+    },
+    {
+        "card_name": "MU02 Muse of Eternity",
+        "number": 67,
+        "shape": "normal",
+        "set": "SGS",
+        "position": "187"
+    },
+    {
+        "card_name": "MB02 Esselda, Dragon Queen",
+        "number": 109,
+        "shape": "normal",
+        "set": "SGS",
+        "position": "189"
+    },
+    {
+        "card_name": "MR02 Mother of Dragons",
+        "number": 150,
+        "shape": "normal",
+        "set": "SGS",
+        "position": "191"
+    },
+    {
+        "card_name": "MG02 Birth of the World",
+        "number": 191,
+        "shape": "normal",
+        "set": "SGS",
+        "position": "193"
+    },
+    {
+        "card_name": "MW03 Maxxine, Flameblade Herald",
+        "number": 26,
+        "shape": "normal",
+        "set": "SGS",
+        "position": "245"
+    },
+    {
+        "card_name": "MU03 Force to Bear",
+        "number": 68,
+        "shape": "normal",
+        "set": "SGS",
+        "position": "246"
+    },
+    {
+        "card_name": "RB01 Iron-Fiend Obliterator",
+        "number": 110,
+        "shape": "normal",
+        "set": "SGS",
+        "position": "163"
+    },
+    {
+        "card_name": "RR01 Charmbreaker Hellbrutes",
+        "number": 151,
+        "shape": "normal",
+        "set": "SGS",
+        "position": "170"
+    },
+    {
+        "card_name": "MG03 Strength of Eternity",
+        "number": 192,
+        "shape": "normal",
+        "set": "SGS",
+        "position": "244"
+    },
+    {
+        "card_name": "RW01 King Louen Leoncoeur",
+        "number": 27,
+        "shape": "normal",
+        "set": "SGS",
+        "position": "149"
+    },
+    {
+        "card_name": "MU04 Facestealer's Grift",
+        "number": 69,
+        "shape": "normal",
+        "set": "SGS",
+        "position": "247"
+    },
+    {
+        "card_name": "RB02 Wicker Souleater",
+        "number": 111,
+        "shape": "normal",
+        "set": "SGS",
+        "position": "164"
+    },
+    {
+        "card_name": "RR02 Crimson Skylord",
+        "number": 152,
+        "shape": "normal",
+        "set": "SGS",
+        "position": "171"
+    },
+    {
+        "card_name": "RG01 Birds of Paradise",
+        "number": 193,
+        "shape": "normal",
+        "set": "SGS",
+        "position": "177"
+    },
+    {
+        "card_name": "RW02 Veteran Knight",
+        "number": 28,
+        "shape": "normal",
+        "set": "SGS",
+        "position": "150"
+    },
+    {
+        "card_name": "RU01 Mega Shark",
+        "number": 70,
+        "shape": "normal",
+        "set": "SGS",
+        "position": "156"
+    },
+    {
+        "card_name": "RB03 Dracula, Cursed Bloodlord",
+        "number": 112,
+        "shape": "normal",
+        "set": "SGS",
+        "position": "165"
+    },
+    {
+        "card_name": "RR03 Enlightened Sundancer",
+        "number": 153,
+        "shape": "normal",
+        "set": "SGS",
+        "position": "172"
+    },
+    {
+        "card_name": "RG02 King of the Jungle",
+        "number": 194,
+        "shape": "normal",
+        "set": "SGS",
+        "position": "178"
+    },
+    {
+        "card_name": "RW03 Archangel",
+        "number": 29,
+        "shape": "normal",
+        "set": "SGS",
+        "position": "151"
+    },
+    {
+        "card_name": "RU02 Chained Misthunter",
+        "number": 71,
+        "shape": "normal",
+        "set": "SGS",
+        "position": "157"
+    },
+    {
+        "card_name": "RB04 Charcoal Dragon",
+        "number": 113,
+        "shape": "normal",
+        "set": "SGS",
+        "position": "166"
+    },
+    {
+        "card_name": "RR04 Dragon's Territory",
+        "number": 154,
+        "shape": "normal",
+        "set": "SGS",
+        "position": "173"
+    },
+    {
+        "card_name": "RG03 Ingen Jegger, Lord the Pack",
+        "number": 195,
+        "shape": "normal",
+        "set": "SGS",
+        "position": "179"
+    },
+    {
+        "card_name": "RW04 August Dragon",
+        "number": 30,
+        "shape": "normal",
+        "set": "SGS",
+        "position": "152"
+    },
+    {
+        "card_name": "RU03 Fading Domination",
+        "number": 72,
+        "shape": "normal",
+        "set": "SGS",
+        "position": "158"
+    },
+    {
+        "card_name": "RB05 Broken Resolve",
+        "number": 114,
+        "shape": "normal",
+        "set": "SGS",
+        "position": "167"
+    },
+    {
+        "card_name": "RR05 Barbaric Brawl",
+        "number": 155,
+        "shape": "normal",
+        "set": "SGS",
+        "position": "174"
+    },
+    {
+        "card_name": "RG04 Antlered Dragon-Knight",
+        "number": 196,
+        "shape": "normal",
+        "set": "SGS",
+        "position": "180"
+    },
+    {
+        "card_name": "RW05 Idyllic Tutor",
+        "number": 31,
+        "shape": "normal",
+        "set": "SGS",
+        "position": "153"
+    },
+    {
+        "card_name": "RU04 Dreamwalker",
+        "number": 73,
+        "shape": "normal",
+        "set": "SGS",
+        "position": "238"
+    },
+    {
+        "card_name": "RB06 Necropolis Borders",
+        "number": 115,
+        "shape": "normal",
+        "set": "SGS",
+        "position": "168"
+    },
+    {
+        "card_name": "RR06 Magmatic Calamity",
+        "number": 156,
+        "shape": "normal",
+        "set": "SGS",
+        "position": "175"
+    },
+    {
+        "card_name": "RG05 Gaea's Wrath",
+        "number": 197,
+        "shape": "normal",
+        "set": "SGS",
+        "position": "181"
+    },
+    {
+        "card_name": "RW06 Armour of God",
+        "number": 32,
+        "shape": "normal",
+        "set": "SGS",
+        "position": "154"
+    },
+    {
+        "card_name": "RU04 Otherworldy Portal",
+        "number": 74,
+        "shape": "normal",
+        "set": "SGS",
+        "position": "159"
+    },
+    {
+        "card_name": "RB07 Journey of the Fallen",
+        "number": 116,
+        "shape": "normal",
+        "set": "SGS",
+        "position": "169"
+    },
+    {
+        "card_name": "RR07 Sunforging",
+        "number": 157,
+        "shape": "normal",
+        "set": "SGS",
+        "position": "73"
+    },
+    {
+        "card_name": "RG06 Turn to Stone",
+        "number": 198,
+        "shape": "normal",
+        "set": "SGS",
+        "position": "182"
+    },
+    {
+        "card_name": "RW07 Impossible Defenses",
+        "number": 33,
+        "shape": "normal",
+        "set": "SGS",
+        "position": "155"
+    },
+    {
+        "card_name": "RU05 Wash Out",
+        "number": 75,
+        "shape": "normal",
+        "set": "SGS",
+        "position": "160"
+    },
+    {
+        "card_name": "RB08 Burden of Progress",
+        "number": 117,
+        "shape": "normal",
+        "set": "SGS",
+        "position": "239"
+    },
+    {
+        "card_name": "RR08 Godblade Zealot",
+        "number": 158,
+        "shape": "normal",
+        "set": "SGS",
+        "position": "235"
+    },
+    {
+        "card_name": "RG07 Portal to the Beyond",
+        "number": 199,
+        "shape": "normal",
+        "set": "SGS",
+        "position": "183"
+    },
+    {
+        "card_name": "RW08 Noble Legacy",
+        "number": 34,
+        "shape": "normal",
+        "set": "SGS",
+        "position": "242"
+    },
+    {
+        "card_name": "RU06 Solve the Equation",
+        "number": 76,
+        "shape": "normal",
+        "set": "SGS",
+        "position": "161"
+    },
+    {
+        "card_name": "UB01 Nightwarden Dragonhost",
+        "number": 118,
+        "shape": "normal",
+        "set": "SGS",
+        "position": "116"
+    },
+    {
+        "card_name": "UR01 Combustion Devil",
+        "number": 159,
+        "shape": "normal",
+        "set": "SGS",
+        "position": "127"
+    },
+    {
+        "card_name": "RG08 Greater Restoration",
+        "number": 200,
+        "shape": "normal",
+        "set": "SGS",
+        "position": "237"
+    },
+    {
+        "card_name": "UW01 Fortified Bulwark",
+        "number": 35,
+        "shape": "normal",
+        "set": "SGS",
+        "position": "94"
+    },
+    {
+        "card_name": "RU07 Beseech the Moonlight",
+        "number": 77,
+        "shape": "normal",
+        "set": "SGS",
+        "position": "162"
+    },
+    {
+        "card_name": "UB02 Dragonslayer Knight",
+        "number": 119,
+        "shape": "normal",
+        "set": "SGS",
+        "position": "117"
+    },
+    {
+        "card_name": "UR02 Devilish Lumen Seeker",
+        "number": 160,
+        "shape": "normal",
+        "set": "SGS",
+        "position": "128"
+    },
+    {
+        "card_name": "UG01 Messenger of Paradise",
+        "number": 201,
+        "shape": "normal",
+        "set": "SGS",
+        "position": "138"
+    },
+    {
+        "card_name": "UW02 Mystic Peacemaker",
+        "number": 36,
+        "shape": "normal",
+        "set": "SGS",
+        "position": "95"
+    },
+    {
+        "card_name": "UU01 Newwater Mystic",
+        "number": 78,
+        "shape": "normal",
+        "set": "SGS",
+        "position": "105"
+    },
+    {
+        "card_name": "UB03 Polluted Patrol",
+        "number": 120,
+        "shape": "normal",
+        "set": "SGS",
+        "position": "118"
+    },
+    {
+        "card_name": "UR03 Cave Dragon",
+        "number": 161,
+        "shape": "normal",
+        "set": "SGS",
+        "position": "129"
+    },
+    {
+        "card_name": "UG02 Primal Guardian",
+        "number": 202,
+        "shape": "normal",
+        "set": "SGS",
+        "position": "139"
+    },
+    {
+        "card_name": "UW03 Peaceful Starseeker",
+        "number": 37,
+        "shape": "normal",
+        "set": "SGS",
+        "position": "96"
+    },
+    {
+        "card_name": "UU02 Crystaline Paladin",
+        "number": 79,
+        "shape": "normal",
+        "set": "SGS",
+        "position": "106"
+    },
+    {
+        "card_name": "UB04 Wicker Puppeteer",
+        "number": 121,
+        "shape": "normal",
+        "set": "SGS",
+        "position": "119"
+    },
+    {
+        "card_name": "UR04 Dragonguide Scholar",
+        "number": 162,
+        "shape": "normal",
+        "set": "SGS",
+        "position": "130"
+    },
+    {
+        "card_name": "UG03 Woodland Shaman",
+        "number": 203,
+        "shape": "normal",
+        "set": "SGS",
+        "position": "140"
+    },
+    {
+        "card_name": "UW04 Crystalhorn Dragon",
+        "number": 38,
+        "shape": "normal",
+        "set": "SGS",
+        "position": "97"
+    },
+    {
+        "card_name": "UU03 Wall of Wind",
+        "number": 80,
+        "shape": "normal",
+        "set": "SGS",
+        "position": "107"
+    },
+    {
+        "card_name": "UB05 Whitescale Desecrator",
+        "number": 122,
+        "shape": "normal",
+        "set": "SGS",
+        "position": "120"
+    },
+    {
+        "card_name": "UR05 Elder Star Fiend",
+        "number": 163,
+        "shape": "normal",
+        "set": "SGS",
+        "position": "131"
+    },
+    {
+        "card_name": "UG04 Barbaric Champion",
+        "number": 204,
+        "shape": "normal",
+        "set": "SGS",
+        "position": "141"
+    },
+    {
+        "card_name": "UW05 Sanctified Guardian",
+        "number": 39,
+        "shape": "normal",
+        "set": "SGS",
+        "position": "98"
+    },
+    {
+        "card_name": "UU04 Lightning-Flightguard",
+        "number": 81,
+        "shape": "normal",
+        "set": "SGS",
+        "position": "108"
+    },
+    {
+        "card_name": "UB06 Salt-Marsh Husk",
+        "number": 123,
+        "shape": "normal",
+        "set": "SGS",
+        "position": "121"
+    },
+    {
+        "card_name": "UR06 Lightning Bolt",
+        "number": 164,
+        "shape": "normal",
+        "set": "SGS",
+        "position": "132"
+    },
+    {
+        "card_name": "UG05 Alpha Werewolf",
+        "number": 205,
+        "shape": "normal",
+        "set": "SGS",
+        "position": "142"
+    },
+    {
+        "card_name": "UW06 Diplomat's Resolve",
+        "number": 40,
+        "shape": "normal",
+        "set": "SGS",
+        "position": "99"
+    },
+    {
+        "card_name": "UU05 Moonlight Master",
+        "number": 82,
+        "shape": "normal",
+        "set": "SGS",
+        "position": "109"
+    },
+    {
+        "card_name": "UB07 Midnight's Blessing",
+        "number": 124,
+        "shape": "normal",
+        "set": "SGS",
+        "position": "122"
+    },
+    {
+        "card_name": "UR07 Berserker's Blood",
+        "number": 165,
+        "shape": "normal",
+        "set": "SGS",
+        "position": "133"
+    },
+    {
+        "card_name": "UG06 Wild Tree Husk",
+        "number": 206,
+        "shape": "normal",
+        "set": "SGS",
+        "position": "143"
+    },
+    {
+        "card_name": "UW07 Ancient Recovery",
+        "number": 41,
+        "shape": "normal",
+        "set": "SGS",
+        "position": "100"
+    },
+    {
+        "card_name": "UU06 Mindscour",
+        "number": 83,
+        "shape": "normal",
+        "set": "SGS",
+        "position": "110"
+    },
+    {
+        "card_name": "UB08 Diabolic Tutor",
+        "number": 125,
+        "shape": "normal",
+        "set": "SGS",
+        "position": "123"
+    },
+    {
+        "card_name": "UR08 Volcanic Confrontation",
+        "number": 166,
+        "shape": "normal",
+        "set": "SGS",
+        "position": "134"
+    },
+    {
+        "card_name": "UG07 Natural Restoration",
+        "number": 207,
+        "shape": "normal",
+        "set": "SGS",
+        "position": "144"
+    },
+    {
+        "card_name": "UW08 Otherworldly Miracle",
+        "number": 42,
+        "shape": "normal",
+        "set": "SGS",
+        "position": "101"
+    },
+    {
+        "card_name": "UU07 Seaside Shell Husk",
+        "number": 84,
+        "shape": "normal",
+        "set": "SGS",
+        "position": "111"
+    },
+    {
+        "card_name": "UB09 Gaze of Glaurung",
+        "number": 126,
+        "shape": "normal",
+        "set": "SGS",
+        "position": "124"
+    },
+    {
+        "card_name": "UR09 Guise of Flames",
+        "number": 167,
+        "shape": "normal",
+        "set": "SGS",
+        "position": "176"
+    },
+    {
+        "card_name": "UG08 Jungle Paths",
+        "number": 208,
+        "shape": "normal",
+        "set": "SGS",
+        "position": "145"
+    },
+    {
+        "card_name": "UW09 March Through the Void",
+        "number": 43,
+        "shape": "normal",
+        "set": "SGS",
+        "position": "102"
+    },
+    {
+        "card_name": "UU08 Dissassemble Form",
+        "number": 85,
+        "shape": "normal",
+        "set": "SGS",
+        "position": "112"
+    },
+    {
+        "card_name": "UB10 Blight",
+        "number": 127,
+        "shape": "normal",
+        "set": "SGS",
+        "position": "125"
+    },
+    {
+        "card_name": "UR10 Scouring-Eye Husk",
+        "number": 168,
+        "shape": "normal",
+        "set": "SGS",
+        "position": "136"
+    },
+    {
+        "card_name": "UG09 Rot and Ruin",
+        "number": 209,
+        "shape": "normal",
+        "set": "SGS",
+        "position": "146"
+    },
+    {
+        "card_name": "UW10 Place of Remembrance",
+        "number": 44,
+        "shape": "normal",
+        "set": "SGS",
+        "position": "103"
+    },
+    {
+        "card_name": "UU09 Frozen Over",
+        "number": 86,
+        "shape": "normal",
+        "set": "SGS",
+        "position": "113"
+    },
+    {
+        "card_name": "UB11 Malicious Bond",
+        "number": 128,
+        "shape": "normal",
+        "set": "SGS",
+        "position": "126"
+    },
+    {
+        "card_name": "UR11 Cliffedge Duel",
+        "number": 169,
+        "shape": "normal",
+        "set": "SGS",
+        "position": "137"
+    },
+    {
+        "card_name": "UG10 Contest of Might",
+        "number": 210,
+        "shape": "normal",
+        "set": "SGS",
+        "position": "147"
+    },
+    {
+        "card_name": "UW11 Grace of Forgiveness",
+        "number": 45,
+        "shape": "normal",
+        "set": "SGS",
+        "position": "104"
+    },
+    {
+        "card_name": "UU10 Fading Reality",
+        "number": 87,
+        "shape": "normal",
+        "set": "SGS",
+        "position": "114"
+    },
+    {
+        "card_name": "UB12 Heaping Horror",
+        "number": 129,
+        "shape": "normal",
+        "set": "SGS",
+        "position": "232"
+    },
+    {
+        "card_name": "UR12 Abandonend Portal",
+        "number": 170,
+        "shape": "normal",
+        "set": "SGS",
+        "position": "231"
+    },
+    {
+        "card_name": "UG11 Prismatic View",
+        "number": 211,
+        "shape": "normal",
+        "set": "SGS",
+        "position": "148"
+    },
+    {
+        "card_name": "UW012 Hunting Eagle",
+        "number": 46,
+        "shape": "normal",
+        "set": "SGS",
+        "position": "233"
+    },
+    {
+        "card_name": "UU11 Greater Rift",
+        "number": 88,
+        "shape": "normal",
+        "set": "SGS",
+        "position": "115"
+    },
+    {
+        "card_name": "CB01 Hollow Knight",
+        "number": 89,
+        "shape": "normal",
+        "set": "SGS",
+        "position": "37"
+    },
+    {
+        "card_name": "CR01 Goblin Razer",
+        "number": 130,
+        "shape": "normal",
+        "set": "SGS",
+        "position": "56"
+    },
+    {
+        "card_name": "UG12 Branchloft Gift",
+        "number": 212,
+        "shape": "normal",
+        "set": "SGS",
+        "position": "230"
+    },
+    {
+        "card_name": "CW01 Brzaen Footnight",
+        "number": 5,
+        "shape": "normal",
+        "set": "SGS",
+        "position": "0"
+    },
+    {
+        "card_name": "CU01 Shallowtender Merfolk",
+        "number": 47,
+        "shape": "normal",
+        "set": "SGS",
+        "position": "18"
+    },
+    {
+        "card_name": "CB02 Faceless Stalker",
+        "number": 90,
+        "shape": "normal",
+        "set": "SGS",
+        "position": "38"
+    },
+    {
+        "card_name": "CR02 Deepcavern Dwarves",
+        "number": 131,
+        "shape": "normal",
+        "set": "SGS",
+        "position": "57"
+    },
+    {
+        "card_name": "CG01 Dryad Grovetender",
+        "number": 171,
+        "shape": "normal",
+        "set": "SGS",
+        "position": "75"
+    },
+    {
+        "card_name": "CW02 Battleline Breaker",
+        "number": 6,
+        "shape": "normal",
+        "set": "SGS",
+        "position": "1"
+    },
+    {
+        "card_name": "CU02 Marsh Turtles",
+        "number": 48,
+        "shape": "normal",
+        "set": "SGS",
+        "position": "19"
+    },
+    {
+        "card_name": "CB03 Gothic Bloodbats",
+        "number": 91,
+        "shape": "normal",
+        "set": "SGS",
+        "position": "39"
+    },
+    {
+        "card_name": "CR03 Furnace Dwarves",
+        "number": 132,
+        "shape": "normal",
+        "set": "SGS",
+        "position": "58"
+    },
+    {
+        "card_name": "CG02 Springdancer Elf",
+        "number": 172,
+        "shape": "normal",
+        "set": "SGS",
+        "position": "76"
+    },
+    {
+        "card_name": "CW03 Alabaster Unicorn",
+        "number": 7,
+        "shape": "normal",
+        "set": "SGS",
+        "position": "2"
+    },
+    {
+        "card_name": "CU03 Resistance Spy",
+        "number": 49,
+        "shape": "normal",
+        "set": "SGS",
+        "position": "20"
+    },
+    {
+        "card_name": "CB04 Cemetery Bandit",
+        "number": 92,
+        "shape": "normal",
+        "set": "SGS",
+        "position": "40"
+    },
+    {
+        "card_name": "CR04 Blazing Cavalier",
+        "number": 133,
+        "shape": "normal",
+        "set": "SGS",
+        "position": "59"
+    },
+    {
+        "card_name": "CG03 Greenleaf Hopper",
+        "number": 173,
+        "shape": "normal",
+        "set": "SGS",
+        "position": "77"
+    },
+    {
+        "card_name": "CW04 Monk Idealist",
+        "number": 8,
+        "shape": "normal",
+        "set": "SGS",
+        "position": "3"
+    },
+    {
+        "card_name": "CU04 Mistwalker Adept",
+        "number": 50,
+        "shape": "normal",
+        "set": "SGS",
+        "position": "21"
+    },
+    {
+        "card_name": "CB05 Night-Hunt Nanuqsaurus",
+        "number": 93,
+        "shape": "normal",
+        "set": "SGS",
+        "position": "41"
+    },
+    {
+        "card_name": "CR05 Orchish War Shaman",
+        "number": 134,
+        "shape": "normal",
+        "set": "SGS",
+        "position": "60"
+    },
+    {
+        "card_name": "CG04 King Tiger",
+        "number": 174,
+        "shape": "normal",
+        "set": "SGS",
+        "position": "78"
+    },
+    {
+        "card_name": "CW05 Cavalier Lieutenant",
+        "number": 9,
+        "shape": "normal",
+        "set": "SGS",
+        "position": "4"
+    },
+    {
+        "card_name": "CU05 Apprentice's Cat",
+        "number": 51,
+        "shape": "normal",
+        "set": "SGS",
+        "position": "22"
+    },
+    {
+        "card_name": "CB06 Arachnid Puppeteer",
+        "number": 94,
+        "shape": "normal",
+        "set": "SGS",
+        "position": "42"
+    },
+    {
+        "card_name": "CR06 Devoted Devil",
+        "number": 135,
+        "shape": "normal",
+        "set": "SGS",
+        "position": "61"
+    },
+    {
+        "card_name": "CG05 Deepforest Elf",
+        "number": 175,
+        "shape": "normal",
+        "set": "SGS",
+        "position": "79"
+    },
+    {
+        "card_name": "CW06 Pearled Protector",
+        "number": 10,
+        "shape": "normal",
+        "set": "SGS",
+        "position": "5"
+    },
+    {
+        "card_name": "CU06 Guardian Koi",
+        "number": 52,
+        "shape": "normal",
+        "set": "SGS",
+        "position": "23"
+    },
+    {
+        "card_name": "CB07 Were-Horse",
+        "number": 95,
+        "shape": "normal",
+        "set": "SGS",
+        "position": "43"
+    },
+    {
+        "card_name": "CR07 Skyraker Giant",
+        "number": 136,
+        "shape": "normal",
+        "set": "SGS",
+        "position": "62"
+    },
+    {
+        "card_name": "CG06 Elder Root-Tender",
+        "number": 176,
+        "shape": "normal",
+        "set": "SGS",
+        "position": "80"
+    },
+    {
+        "card_name": "CW07 Spirited Hero",
+        "number": 11,
+        "shape": "normal",
+        "set": "SGS",
+        "position": "6"
+    },
+    {
+        "card_name": "CU07 Man-O-War",
+        "number": 53,
+        "shape": "normal",
+        "set": "SGS",
+        "position": "24"
+    },
+    {
+        "card_name": "CB08 Vitality Poacher",
+        "number": 96,
+        "shape": "normal",
+        "set": "SGS",
+        "position": "44"
+    },
+    {
+        "card_name": "CR08 Orc War Mob",
+        "number": 137,
+        "shape": "normal",
+        "set": "SGS",
+        "position": "63"
+    },
+    {
+        "card_name": "CG07 Canopy Muse",
+        "number": 177,
+        "shape": "normal",
+        "set": "SGS",
+        "position": "81"
+    },
+    {
+        "card_name": "CW08 Wilderness Sage",
+        "number": 12,
+        "shape": "normal",
+        "set": "SGS",
+        "position": "7"
+    },
+    {
+        "card_name": "CU08 Mistholm Riders",
+        "number": 54,
+        "shape": "normal",
+        "set": "SGS",
+        "position": "27"
+    },
+    {
+        "card_name": "CB09 Ghostly Ambusher",
+        "number": 97,
+        "shape": "normal",
+        "set": "SGS",
+        "position": "45"
+    },
+    {
+        "card_name": "CR09 Ornery Craghorn",
+        "number": 138,
+        "shape": "normal",
+        "set": "SGS",
+        "position": "64"
+    },
+    {
+        "card_name": "CG08 Primal Wildhunter",
+        "number": 178,
+        "shape": "normal",
+        "set": "SGS",
+        "position": "82"
+    },
+    {
+        "card_name": "CW09 Venerable Falconer",
+        "number": 13,
+        "shape": "normal",
+        "set": "SGS",
+        "position": "8"
+    },
+    {
+        "card_name": "CU09 Hunting Drake",
+        "number": 55,
+        "shape": "normal",
+        "set": "SGS",
+        "position": "26"
+    },
+    {
+        "card_name": "CB10 Hellrider",
+        "number": 98,
+        "shape": "normal",
+        "set": "SGS",
+        "position": "46"
+    },
+    {
+        "card_name": "CR10 Star-Lure Fiend",
+        "number": 139,
+        "shape": "normal",
+        "set": "SGS",
+        "position": "65"
+    },
+    {
+        "card_name": "CG09 Oakbreaker Wurm",
+        "number": 179,
+        "shape": "normal",
+        "set": "SGS",
+        "position": "83"
+    },
+    {
+        "card_name": "CW10 Skyline Honor Guard",
+        "number": 14,
+        "shape": "normal",
+        "set": "SGS",
+        "position": "9"
+    },
+    {
+        "card_name": "CU10 Coastal Serpent",
+        "number": 56,
+        "shape": "normal",
+        "set": "SGS",
+        "position": "25"
+    },
+    {
+        "card_name": "CB11 Duress",
+        "number": 99,
+        "shape": "normal",
+        "set": "SGS",
+        "position": "47"
+    },
+    {
+        "card_name": "CR11 Firespeaker's Fury",
+        "number": 140,
+        "shape": "normal",
+        "set": "SGS",
+        "position": "66"
+    },
+    {
+        "card_name": "CG10 Mistholm Predator",
+        "number": 180,
+        "shape": "normal",
+        "set": "SGS",
+        "position": "84"
+    },
+    {
+        "card_name": "CW11 Deep Sleep",
+        "number": 15,
+        "shape": "normal",
+        "set": "SGS",
+        "position": "10"
+    },
+    {
+        "card_name": "CU11 Thirst for Meaning",
+        "number": 57,
+        "shape": "normal",
+        "set": "SGS",
+        "position": "28"
+    },
+    {
+        "card_name": "CB12 Macabre Waltz",
+        "number": 100,
+        "shape": "normal",
+        "set": "SGS",
+        "position": "48"
+    },
+    {
+        "card_name": "CR12 Blessing of the Red Lion",
+        "number": 141,
+        "shape": "normal",
+        "set": "SGS",
+        "position": "67"
+    },
+    {
+        "card_name": "CG11 Commune with Nature",
+        "number": 181,
+        "shape": "normal",
+        "set": "SGS",
+        "position": "85"
+    },
+    {
+        "card_name": "CW12 Horizon's Protection",
+        "number": 16,
+        "shape": "normal",
+        "set": "SGS",
+        "position": "11"
+    },
+    {
+        "card_name": "CU12 River Charm",
+        "number": 58,
+        "shape": "normal",
+        "set": "SGS",
+        "position": "29"
+    },
+    {
+        "card_name": "CB13 Queen's Vile Rebuttal",
+        "number": 101,
+        "shape": "normal",
+        "set": "SGS",
+        "position": "49"
+    },
+    {
+        "card_name": "CR13 Sunset Charm",
+        "number": 142,
+        "shape": "normal",
+        "set": "SGS",
+        "position": "68"
+    },
+    {
+        "card_name": "CG12 Isolated Sanctuary",
+        "number": 182,
+        "shape": "normal",
+        "set": "SGS",
+        "position": "86"
+    },
+    {
+        "card_name": "CW13 Pious Plea",
+        "number": 17,
+        "shape": "normal",
+        "set": "SGS",
+        "position": "12"
+    },
+    {
+        "card_name": "CU13 Frozen Solid",
+        "number": 59,
+        "shape": "normal",
+        "set": "SGS",
+        "position": "30"
+    },
+    {
+        "card_name": "CB14 Brutal Culling",
+        "number": 102,
+        "shape": "normal",
+        "set": "SGS",
+        "position": "50"
+    },
+    {
+        "card_name": "CR14 Broken Heart Curse",
+        "number": 143,
+        "shape": "normal",
+        "set": "SGS",
+        "position": "69"
+    },
+    {
+        "card_name": "CG13 Guiding Lights",
+        "number": 183,
+        "shape": "normal",
+        "set": "SGS",
+        "position": "87"
+    },
+    {
+        "card_name": "CW14 Ritual of Rebirth",
+        "number": 18,
+        "shape": "normal",
+        "set": "SGS",
+        "position": "13"
+    },
+    {
+        "card_name": "CU14 Singing Stone Husk",
+        "number": 60,
+        "shape": "normal",
+        "set": "SGS",
+        "position": "31"
+    },
+    {
+        "card_name": "CB15 Dark Ritual",
+        "number": 103,
+        "shape": "normal",
+        "set": "SGS",
+        "position": "51"
+    },
+    {
+        "card_name": "CR15 Blazing Starlight",
+        "number": 144,
+        "shape": "normal",
+        "set": "SGS",
+        "position": "70"
+    },
+    {
+        "card_name": "CG14 Primal Blessing",
+        "number": 184,
+        "shape": "normal",
+        "set": "SGS",
+        "position": "88"
+    },
+    {
+        "card_name": "CW15 Greater Binding",
+        "number": 19,
+        "shape": "normal",
+        "set": "SGS",
+        "position": "253"
+    },
+    {
+        "card_name": "CU15 Drowned Fate",
+        "number": 61,
+        "shape": "normal",
+        "set": "SGS",
+        "position": "32"
+    },
+    {
+        "card_name": "CB16 Eroding Life",
+        "number": 104,
+        "shape": "normal",
+        "set": "SGS",
+        "position": "52"
+    },
+    {
+        "card_name": "CR16 Gates of Torment",
+        "number": 145,
+        "shape": "normal",
+        "set": "SGS",
+        "position": "71"
+    },
+    {
+        "card_name": "CG15 Cedar-Root Husk",
+        "number": 185,
+        "shape": "normal",
+        "set": "SGS",
+        "position": "89"
+    },
+    {
+        "card_name": "CW16 Dawn-Growth Husk",
+        "number": 20,
+        "shape": "normal",
+        "set": "SGS",
+        "position": "14"
+    },
+    {
+        "card_name": "CU16 Gift of Flight",
+        "number": 62,
+        "shape": "normal",
+        "set": "SGS",
+        "position": "33"
+    },
+    {
+        "card_name": "CB17 Contaminated Ground",
+        "number": 105,
+        "shape": "normal",
+        "set": "SGS",
+        "position": "53"
+    },
+    {
+        "card_name": "CR17 Cinder-Growth Husk",
+        "number": 146,
+        "shape": "normal",
+        "set": "SGS",
+        "position": "72"
+    },
+    {
+        "card_name": "CG16 Broken Wings",
+        "number": 186,
+        "shape": "normal",
+        "set": "SGS",
+        "position": "90"
+    },
+    {
+        "card_name": "CW17 Trial of Balance",
+        "number": 21,
+        "shape": "normal",
+        "set": "SGS",
+        "position": "15"
+    },
+    {
+        "card_name": "CU17 Coralhelm Discovery",
+        "number": 63,
+        "shape": "normal",
+        "set": "SGS",
+        "position": "34"
+    },
+    {
+        "card_name": "CB18 Dusk Path Husk",
+        "number": 106,
+        "shape": "normal",
+        "set": "SGS",
+        "position": "54"
+    },
+    {
+        "card_name": "CR18 Scour the Stars",
+        "number": 147,
+        "shape": "normal",
+        "set": "SGS",
+        "position": "135"
+    },
+    {
+        "card_name": "CG17 Explore",
+        "number": 187,
+        "shape": "normal",
+        "set": "SGS",
+        "position": "91"
+    },
+    {
+        "card_name": "CW18 Shields Up",
+        "number": 22,
+        "shape": "normal",
+        "set": "SGS",
+        "position": "16"
+    },
+    {
+        "card_name": "CU18 Mistwalking",
+        "number": 64,
+        "shape": "normal",
+        "set": "SGS",
+        "position": "35"
+    },
+    {
+        "card_name": "CB19 Lich's Ploy",
+        "number": 107,
+        "shape": "normal",
+        "set": "SGS",
+        "position": "55"
+    },
+    {
+        "card_name": "CR19 Spirit of Fire",
+        "number": 148,
+        "shape": "normal",
+        "set": "SGS",
+        "position": "74"
+    },
+    {
+        "card_name": "CG18 Woodland Pursuit",
+        "number": 188,
+        "shape": "normal",
+        "set": "SGS",
+        "position": "92"
+    },
+    {
+        "card_name": "CW19 Elite Archery",
+        "number": 23,
+        "shape": "normal",
+        "set": "SGS",
+        "position": "17"
+    },
+    {
+        "card_name": "CU19 Memory Lapse",
+        "number": 65,
+        "shape": "normal",
+        "set": "SGS",
+        "position": "36"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "CG19 Strongarm",
+        "number": 189,
+        "shape": "normal",
+        "set": "SGS",
+        "position": "93"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    "a->gold",
+    {
+        "card_name": "RM01 Fate Weaving",
+        "number": 216,
+        "shape": "normal",
+        "set": "SGS",
+        "position": "204"
+    },
+    {
+        "card_name": "RM01 Malicious Secrets",
+        "number": 220,
+        "shape": "normal",
+        "set": "SGS",
+        "position": "205"
+    },
+    {
+        "card_name": "RM01 Infernal Eviction",
+        "number": 219,
+        "shape": "normal",
+        "set": "SGS",
+        "position": "206"
+    },
+    {
+        "card_name": "RM01 Emerald Blaze Crusader",
+        "number": 215,
+        "shape": "normal",
+        "set": "SGS",
+        "position": "207"
+    },
+    {
+        "card_name": "RM01 Blazing Aurora",
+        "number": 213,
+        "shape": "normal",
+        "set": "SGS",
+        "position": "208"
+    },
+    {
+        "card_name": "UM01 Muse's Tutor",
+        "number": 231,
+        "shape": "normal",
+        "set": "SGS",
+        "position": "194"
+    },
+    {
+        "card_name": "UM01 Masked Mantle Thief",
+        "number": 229,
+        "shape": "normal",
+        "set": "SGS",
+        "position": "195"
+    },
+    {
+        "card_name": "UM01 Brazen Strength",
+        "number": 225,
+        "shape": "normal",
+        "set": "SGS",
+        "position": "196"
+    },
+    {
+        "card_name": "UM01 Blazing Bloom",
+        "number": 224,
+        "shape": "normal",
+        "set": "SGS",
+        "position": "197"
+    },
+    {
+        "card_name": "UM01 Wild Honor",
+        "number": 233,
+        "shape": "normal",
+        "set": "SGS",
+        "position": "198"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "RM01 Dawnshifting",
+        "number": 214,
+        "shape": "normal",
+        "set": "SGS",
+        "position": "209"
+    },
+    {
+        "card_name": "RM01 Wishfire Djinn",
+        "number": 222,
+        "shape": "normal",
+        "set": "SGS",
+        "position": "210"
+    },
+    {
+        "card_name": "RM01 Struggle For Survival",
+        "number": 221,
+        "shape": "normal",
+        "set": "SGS",
+        "position": "211"
+    },
+    {
+        "card_name": "RM01 Idol of Perfection",
+        "number": 218,
+        "shape": "normal",
+        "set": "SGS",
+        "position": "212"
+    },
+    {
+        "card_name": "RM01 Gellaton, Lord General",
+        "number": 217,
+        "shape": "normal",
+        "set": "SGS",
+        "position": "213"
+    },
+    {
+        "card_name": "UM01 Duskshifting",
+        "number": 226,
+        "shape": "normal",
+        "set": "SGS",
+        "position": "199"
+    },
+    {
+        "card_name": "UM01 Spellslinger Ranger",
+        "number": 232,
+        "shape": "normal",
+        "set": "SGS",
+        "position": "200"
+    },
+    {
+        "card_name": "UM01 Morbid Portrait Artist",
+        "number": 230,
+        "shape": "normal",
+        "set": "SGS",
+        "position": "201"
+    },
+    {
+        "card_name": "UM01 Flame-Cursed Paladin",
+        "number": 227,
+        "shape": "normal",
+        "set": "SGS",
+        "position": "202"
+    },
+    {
+        "card_name": "UM01 Lab-Formed Mutant",
+        "number": 228,
+        "shape": "normal",
+        "set": "SGS",
+        "position": "203"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "RM02 Journey to the Stars",
+        "number": 223,
+        "shape": "normal",
+        "set": "SGS",
+        "position": "241"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    "a->colorless",
+    {
+        "card_name": "RA01 Soul Slayer",
+        "number": 237,
+        "shape": "normal",
+        "set": "SGS",
+        "position": "236"
+    },
+    {
+        "card_name": "RA02 Justice-Bringer",
+        "number": 238,
+        "shape": "normal",
+        "set": "SGS",
+        "position": "240"
+    },
+    {
+        "card_name": "UA02 Stronghold Roots",
+        "number": 3,
+        "shape": "normal",
+        "set": "SGS",
+        "position": "220"
+    },
+    {
+        "card_name": "UA03 Howling Husk",
+        "number": 4,
+        "shape": "normal",
+        "set": "SGS",
+        "position": "221"
+    },
+    {
+        "card_name": "UA01 Smuggler's Coinpurse",
+        "number": 239,
+        "shape": "normal",
+        "set": "SGS",
+        "position": "219"
+    },
+    {
+        "card_name": "UA04 Shinobi Armour",
+        "number": 240,
+        "shape": "normal",
+        "set": "SGS",
+        "position": "222"
+    },
+    {
+        "card_name": "UA05 Vault of Corruption",
+        "number": 241,
+        "shape": "normal",
+        "set": "SGS",
+        "position": "223"
+    },
+    {
+        "card_name": "UA06 Pink Water-Lilies",
+        "number": 242,
+        "shape": "normal",
+        "set": "SGS",
+        "position": "234"
+    },
+    {
+        "card_name": "CA03 Prismatic Glass Husk",
+        "number": 1,
+        "shape": "normal",
+        "set": "SGS",
+        "position": "216"
+    },
+    {
+        "card_name": "CA05 Essence Annihilation",
+        "number": 2,
+        "shape": "normal",
+        "set": "SGS",
+        "position": "218"
+    },
+    {
+        "card_name": "CA01 Sour Field Scarecrow",
+        "number": 234,
+        "shape": "normal",
+        "set": "SGS",
+        "position": "214"
+    },
+    {
+        "card_name": "CA02 Phyrexian Scouts",
+        "number": 235,
+        "shape": "normal",
+        "set": "SGS",
+        "position": "215"
+    },
+    {
+        "card_name": "CA04 Clockwork Dragonfly",
+        "number": 236,
+        "shape": "normal",
+        "set": "SGS",
+        "position": "217"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "UL03 Crystal Lagoon",
+        "number": 247,
+        "shape": "normal",
+        "set": "SGS",
+        "position": "227"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "UL05 Firefly Heart-Woods",
+        "number": 249,
+        "shape": "normal",
+        "set": "SGS",
+        "position": "229"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "UL04 Iridescent Skyscape",
+        "number": 248,
+        "shape": "normal",
+        "set": "SGS",
+        "position": "228"
+    },
+    {
+        "card_name": "UL02 Darkshade Caverns",
+        "number": 246,
+        "shape": "normal",
+        "set": "SGS",
+        "position": "226"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "ML01 Bok Tower",
+        "number": 244,
+        "shape": "normal",
+        "set": "SGS",
+        "position": "243"
+    },
+    {
+        "card_name": "UL01 Forgotten Ruins",
+        "number": 245,
+        "shape": "normal",
+        "set": "SGS",
+        "position": "225"
+    },
+    {
+        "card_name": "CL01 Star of Origins",
+        "number": 243,
+        "shape": "normal",
+        "set": "SGS",
+        "position": "224"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "Plains",
+        "number": 250,
+        "shape": "normal",
+        "set": "SGS",
+        "position": "248"
+    },
+    {
+        "card_name": "Island",
+        "number": 251,
+        "shape": "normal",
+        "set": "SGS",
+        "position": "249"
+    },
+    {
+        "card_name": "Swamp",
+        "number": 252,
+        "shape": "normal",
+        "set": "SGS",
+        "position": "250"
+    },
+    {
+        "card_name": "Mountain",
+        "number": 253,
+        "shape": "normal",
+        "set": "SGS",
+        "position": "251"
+    },
+    {
+        "card_name": "Forest",
+        "number": 254,
+        "shape": "normal",
+        "set": "SGS",
+        "position": "252"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    }
+]

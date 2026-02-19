@@ -1,4 +1,392 @@
-﻿VERSION 1 CHANGELOG
+﻿VERSION 2 CHANGELOG
+====================
+
+Alpine Misthunter added.
+Hunting Pride added.
+Helgarth, Dawnstriker added.
+Kintsugi Warrior-Adept added.
+Wildform Packunter added.
+Arkhan, Lord of Wild Wisdom added.
+Deepgarden Kintsugi added.
+Mowan, King of the Jungle added.
+Makigari, Feline Vigilante added.
+Djinn Clanmaster added.
+
+Alliance Spider Tank removed.
+Duty Calls removed.
+Elgis, Dawnstrider removed.
+Kalari Shieldmate removed.
+Wild Pathfinder removed.
+Borthor, The Geyser King removed.
+Brightgarden Dryad removed.
+Molo, the Devourer removed.
+Atellis, Hero Myrmidon removed.
+Lorekeeper Djinn removed.
+
+Crownstealer Vampire
+rules_text: Flying, lifelink
+Dethrone [i](Whenever this creature attacks the player with the most life or tied for most life, put a +1/+1 counter on it.)[/i] => Flying
+Dethrone [i](Whenever this creature attacks the player with the most life or tied for most life, put a +1/+1 counter on it.)[/i]
+
+Dreams of Death and Decay
+cost: {6}{B}{B} => {4}{B}{B}
+rules_text: Suspend 4 {2}{B}{B} [i](Rather than cast this card from your hand, you may pay {2}{B}{B} and exile it with four time counters on it. At the beginning of your upkeep, remove a time counter. When the last is removed, you may cast it without paying its mana cost.)[/i]
+Each opponent sacrifices each creature and enchantment they control. Exile each opponents graveyard. Exile Dreams of Death and Decay. => Suspend 2 {2}{B}{B} [i](Rather than cast this card from your hand, you may pay {2}{B}{B} and exile it with two time counters on it. At the beginning of your upkeep, remove a time counter. When the last is removed, you may cast it without paying its mana cost.)[/i]
+Destroy all creatures and enchantments. Exile each opponents graveyard. Exile Dreams of Death and Decay.
+
+Tyrant's Suspicions
+rules_text: When this enchantment enters, you become the monarch.
+At the beginning of each opponents end step, if you're the monarch, that player sacrifices a creature or pays 5 life. Otherwise, that player loses 2 life. => When this enchantment enters, you become the monarch.
+At the beginning of each opponents end step, that player sacrifices a creature or pays 5 life if you're the monarch. Otherwise, that player loses 2 life.
+
+Michi, the Wanderer
+rules_text: Whenever you attack with a legendary creature, it explores. The first time this triggers each turn, you may pay {2}. When you do, create a 4/4 legendary green Tiger creature token named Tigris. [i](To explore, reveal the top card of your library. Put that card into your hand if it's a land. Otherwise, put a +1/+1 counter on this creature, then put the card back or put it into your graveyard.)[/i] => Whenever you attack with a legendary creature, it explores. The first time this triggers each turn, you may pay {2}. When you do, create a 4/4 legendary green Cat creature token named Tigris. [i](To explore, reveal the top card of your library. Put that card into your hand if it's a land. Otherwise, put a +1/+1 counter on this creature, then put the card back or put it into your graveyard.)[/i]
+
+Rusted Return
+
+Brightwing Blessing
+rules_text: Enchant creature
+Whenever this enchantment enters, tap target creature an opponent controls.
+Enchanted creature has +1/+1 and flying. => Enchant creature
+When this Aura enters, tap target creature an opponent controls.
+Enchanted creature has +1/+1 and flying.
+
+Caelira, Dauntless Knight
+rules_text: Vigilance
+Sacrifice Caelira, Dauntless Knight: Until the end of turn, prevent all damage that would be dealt to you and creatures you control.
+Partner [i](You can have two commanders if both have partner.)[/i] => Exalted [i](Whenever a creature you control attacks alone, that creature gets +1/+1 until end of turn.)[/i]
+Sacrifice Caelira, Dauntless Knight: Until the end of turn, prevent all damage that would be dealt to creatures you control.
+Partner [i](You can have two commanders if both have partner.)[/i]
+
+Chained Enforcer
+rules_text: Multi-kicker {2} [i](You may pay an additional {2} as you cast this spell.)[/i]
+When this creature enters, for each time it was kicked, create a 2/2 colorless Soldier creature token. Then support 2. [i](Put a +1/+1 counter on each of up to two other target creatures.)[/i]
+Defender => Multi-kicker {2} [i](You may pay an additional {2} as you cast this spell.)[/i]
+When this creature enters, for each time it was kicked, create a 2/2 colorless Soldier creature token.
+Scavenge {2}{W} [i]({2}{W}, Exile this card from your graveyard: Put a number of +1/+1 counters equal to this card's power on target creature. Scavenge only as a sorcery.)[/i]
+pt: 2/4 => 2/5
+
+Dreams of Peace and Respite
+rules_text: Suspend 3 {1}{W}{W} [i](Rather than cast this card from your hand, you may pay {1}{W}{W} and exile it with three time counters on it. At the beginning of your upkeep, remove a time counter. When the last is removed, you may cast it without paying its mana cost.)[/i]
+You gain life equal to the number of creatures on the battlefield. Until your next turn, your life total cannot change. Exile Dreams of Peace and Respite. => Suspend 2 {2}{W}{W} [i](Rather than cast this card from your hand, you may pay {2}{W}{W} and exile it with two time counters on it. At the beginning of your upkeep, remove a time counter. When the last is removed, you may cast it without paying its mana cost.)[/i]
+Until your next turn, creatures you control gain protection from your opponents and your life total cannot change. Exile Dreams of Peace and Respite.
+
+Dreamsteppe Whale
+rules_text: Suspend 3 {1}{W}{W} [i](Rather than cast this card from your hand, you may pay {1}{W}{W} and exile it with three time counters on it. At the beginning of your upkeep, remove a time counter. When the last is removed, you may cast it without paying its mana cost. It has haste.)[/i]
+When this creature enters, other creatures you control gain +1/+1 until the end of turn.
+Flying => Suspend 3 {1}{W}{W} [i](Rather than cast this card from your hand, you may pay {1}{W}{W} and exile it with three time counters on it. At the beginning of your upkeep, remove a time counter. When the last is removed, you may cast it without paying its mana cost. It has haste.)[/i]
+When this creature enters, other creatures you control get +1/+1 until the end of turn.
+Flying
+
+The Drifter
+rules_text: First strike
+Partner [i](You can have two commanders if both have partner.)[/i] => Double strike
+Partner [i](You can have two commanders if both have partner.)[/i]
+pt: 2/3 => 1/3
+
+Fated Coronation
+rules_text: Flash
+Enchant creature you control
+When this Aura enters, enchanted creature gains indestructible until the end of turn.
+Enchanted creature gets +1/+1. If that creature is legendary it gets +2/+2 instead. => Flash
+Enchant creature you control
+Enchanted creature gets +1/+3. If enchanted creature is legendary, it also gains first strike.
+
+Guildguard Feline
+
+Angel of Feathered Felines
+rules_text: When this creature enters, create a 1/1 white Cat creature token with flying.
+Flying
+Cycling {2}{W} [i]({2}{W}, Discard this card: Draw a card.)[/i]
+When you cycle this card, create a 1/1 white Cat creature token with flying. => Flying
+Cycling {2}{W} [i]({2}{W}, Discard this card: Draw a card.)[/i]
+When you cycle this card, create a 1/1 white Cat creature token with flying.
+pt: 3/3 => 4/4
+
+Hokrana of Solar Weaves
+
+Kessel, Monster Hunter
+rules_text: Whenever Kessel, Monster Hunter or another commander enters under your control, exile target creature an opponent controls until Kessel, Monster Hunter leaves the battlefield.
+Partner [i](You can have two commanders if both have partner.)[/i] => Kessel, Monster Hunter and commanders you control have “When this creature enters, exile target creature an opponent controls until this creature leaves the battlefield.”
+Partner [i](You can have two commanders if both have partner.)[/i]
+
+Migratory Flight
+
+Queen's Legionaires
+rules_text: Squad {1}{W} [i](As an additional cost to cast this spell, you may pay {1}{W} any number of times. When this creature enters, create that many tokens that are copies of it.)[/i]
+Scavenge {2}{W} [i]({2}{W}, Exile this card from your graveyard: Put a number of +1/+1 counters equal to this card's power on target creature. Scavenge only as a sorcery.)[/i] => Squad {1}{W} [i](As an additional cost to cast this spell, you may pay {1}{W} any number of times. When this creature enters, create that many tokens that are copies of it.)[/i]
+Exalted [i](Whenever a creature you control attacks alone, that creature gets +1/+1 until end of turn.)[/i]
+pt: 2/2 => 2/1
+
+Return to Peace
+type: Sorcery => Instant
+
+Silverskin Commando
+
+Strigidus, Griffin Warlord
+rules_text: Flying, vigilance, ward {2}
+Other creatures you control get +2/+2 and have vigilance.
+Whenever you attack with three or more creatures, draw a card.
+Partner [i](You can have two commanders if both have partner.)[/i] => Flying, vigilance, ward {2}
+Other creatures you control get +2/+2.
+Whenever you attack with three or more creatures, draw a card.
+Partner [i](You can have two commanders if both have partner.)[/i]
+
+Summon the Sun God
+rules_text: Choose one —
+• Creatures you control gain hexproof and indestructible until the end of turn.
+• Create a 0/0 Legendary Avatar creature token with flying with X +1/+1 counters on it, where X is equal to the number of creatures you control. => Choose one —
+• Prevent all damage that would be dealt to you and permanents you control this turn.
+• Create a 0/0 Legendary Avatar creature token with flying with X +1/+1 counters on it, where X is equal to the number of creatures you control.
+
+Attack from the Skies
+rules_text: For each opponent, return a target creature that player controls to its owners hand and create a 4/4 colorless Alien artifact creature token with flying. 
+Until the end of your next turn, creatures you control have hexproof. => For each opponent, return up to one target creature that player controls to its owners hand and create a 4/4 colorless Alien artifact creature token with flying. 
+Until the end of your next turn, creatures you control have hexproof.
+
+Shadowclaw Hunter
+
+Dreamborn Escalation
+rules_text: Multikicker {1}{U} [i](You may pay an additional {1}{U} any number of times as you cast this spell.)[/i]
+Exile target creature, then return it to the battlefield under its owners control.
+If you kicked this spell once, exile target creature. It's controller draws two cards.
+If you kicked this spell more than once, for each time you kicked it, exile target creature, then create a token that's a copy of the exiled creature. => Multikicker {1}{U} [i](You may pay an additional {1}{U} any number of times as you cast this spell.)[/i]
+If you did not kick this spell, exile target creature, then return it to the battlefield under its owners control.
+If you kicked this spell once, exile target creature. It's controller draws two cards.
+If you kicked this spell more than once, exile target creature, then create a token that's a copy of the exiled creature.
+
+Dreams of Power and Control
+rules_text: Suspend 4 {2}{U}{U} [i](Rather than cast this card from your hand, you may pay {2}{U}{U} and exile it with four time counters on it. At the beginning of your upkeep, remove a time counter. When the last is removed, you may cast it without paying its mana cost.)[/i]
+Draw seven cards. Take an extra turn after this one. Exile Dreams of Power and Control. => Suspend 4 {2}{U}{U} [i](Rather than cast this card from your hand, you may pay {2}{U}{U} and exile it with four time counters on it. At the beginning of your upkeep, remove a time counter. When the last is removed, you may cast it without paying its mana cost.)[/i]
+Draw seven cards. For each opponent, gain control of target permanent that player controls. Exile Dreams of Power and Control.
+
+Giant Mecha-Crab
+rules_text: Whenever this creature attacks or blocks, you may return target artifact card from your graveyard to your hand.
+Scavenge {2}{U} [i]({2}{U}, Exile this card from your graveyard: Put a number of +1/+1 counters equal to this card's power on target creature. Scavenge only as a sorcery.)[/i] => Evolve [i](Whenever a creature you control enters, if that creature has greater power or toughness than this creature, put a +1/+1 counter on this creature.)[/i]
+Whenever this creature evolves, you may return target artifact card from your graveyard to your hand.
+pt: 2/5 => 1/6
+
+Idyllic Skyfisher
+pt: 2/2 => 2/1
+
+Lira, Tides's Magesty
+
+Mistbubble Jellyfish
+pt: 4/4 => 4/5
+
+Seeking the Old Ones
+rules_text: [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I — Create a 2/2 blue Wizard creature token.
+II — Scry 3, draw a card.
+III — Create a 6/6 blue Kraken creature token. => [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I — Scry 3.
+II — For each opponent, return target creature that player controls to their owner's hand. 
+III — Create a 6/6 blue Kraken creature token.
+special_text: [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I — Create a 2/2 blue Wizard creature token.
+II — Scry 3, draw a card.
+III — Create a 6/6 blue Kraken creature token. => [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I — Scry 3.
+II — For each opponent, return target creature that player controls to their owner's hand. 
+III — Create a 6/6 blue Kraken creature token.
+
+Tripod Stinging Scout
+rules_text: Flash
+When this creature enters, target creature an opponent controls gets -2/-0 until the end of turn.
+Scavenge {3}{U} [i]({3}{U}, Exile this card from your graveyard: Put a number of +1/+1 counters equal to this card's power on target creature. Scavenge only as a sorcery.)[/i] => Flash
+When this creature enters, target creature an opponent controls gets -2/-0 until the end of turn.
+Scavenge {2}{U} [i]({2}{U}, Exile this card from your graveyard: Put a number of +1/+1 counters equal to this card's power on target creature. Scavenge only as a sorcery.)[/i]
+
+Ancestral Animus
+cost: {3}{R}{R} => {5}{R}{R}
+
+Brazen Forgeling
+
+Uudal, Aspect of Chaos
+rules_text: [+1]: Discard two cards, draw two cards.
+[+1]: Target creature gets +3/-3 until the end of turn.
+[-5]: Exile the top three cards of each player's library. You may cast spells exiled this way without paying their mana cost.
+Uudal, Aspect of Chaos can be your commander.
+Partner => [+1]: Discard two cards, draw two cards.
+[+1]: Target creature gets +3/-3 until the end of turn.
+[-5]: Exile the top three cards of each player's library. You may cast spells exiled this way without paying their mana costs.
+Uudal, Aspect of Chaos can be your commander.
+Partner
+special_text: [+1]: Discard two cards, draw two cards.
+[+1]: Target creature gets +3/-3 until the end of turn.
+[-5]: Exile the top three cards of each player's library. You may cast spells exiled this way without paying their mana cost.
+Uudal, Aspect of Chaos can be your commander.
+Partner => [+1]: Discard two cards, draw two cards.
+[+1]: Target creature gets +3/-3 until the end of turn.
+[-5]: Exile the top three cards of each player's library. You may cast spells exiled this way without paying their mana costs.
+Uudal, Aspect of Chaos can be your commander.
+Partner
+
+Beastmaster Adept
+pt: 1/1 => 2/2
+
+Coasting Dreamkite
+rules_text: Suspend 2 {2}{G}{G} [i](Rather than cast this card from your hand, you may pay {2}{G}{G} and exile it with two time counters on it. At the beginning of your upkeep, remove a time counter. When the last is removed, you may cast it without paying its mana cost. It has haste.)[/i]
+When this creature enters, you gain 6 life.
+Flying, trample => Suspend 2 {2}{G}{G} [i](Rather than cast this card from your hand, you may pay {2}{G}{G} and exile it with two time counters on it. At the beginning of your upkeep, remove a time counter. When the last is removed, you may cast it without paying its mana cost. It has haste.)[/i]
+When this creature dies, you gain 5 life.
+Flying
+pt: 5/5 => 3/5
+
+Drop the Hammer
+rules_text: Replicate {1} [i](When you cast this spell, copy it for each time you paid its replicate cost. You may choose new targets for the copies.)[/i]
+Destroy target non-creature, non-land permanent.
+Creatures you control get +3/+3 until the end of turn. => Choose one—
+• Destroy up to three target non-creature, non-land permanents.
+• Creatures you control get +3/+3 and gain trample until the end of turn.
+
+Ginasha, the Seedcursed
+rules_text: Indestructible
+Ginasha, the Seedcursed cannot attack unless the defending player has six or more lands.
+Ginasha, the Seedcursed cannot block unless you control six or more lands.
+Each player may play an additional land on each of their turns. => Indestructible, trample
+Ginasha, the Seedcursed cannot attack unless the defending player has six or more lands.
+Ginasha, the Seedcursed cannot block unless you control six or more lands.
+Each player may play an additional land on each of their turns.
+
+Lord of the Mistbogs
+rules_text: Whenever a creature you control dies, you gain 2 life.
+At the beginning of your upkeep, you may pay {2}{G}. When you do, you may return target permanent card from your graveyard to your hand.
+Flying => Whenever a creature you control dies, you gain 2 life.
+At the beginning of your upkeep, you may pay {2}{G}. When you do, you may return target permanent card from your graveyard to your hand.
+
+Morbid Cultivator
+
+Outland Packhunter
+rules_text: {4}{G}{G}: Create two 2/2 green Cat creature tokens. Activate only as a sorcery. => {2}: Target Cat you control gains trample until the end of turn.
+
+Extermination Engine
+rules_text: When this artifact enters, choose one—
+• [i]Obliterate[/i] — At the beginning of your upkeep, destroy each nonland permanent with the greatest mana value. Repeat once.
+• [i] Exterminate [/i]— At the beginning of your upkeep, destroy each nonland permanent with the smallest mana value. Repeat once. => When this artifact enters, choose one—
+• [i]Obliterate[/i] — At the beginning of your upkeep, exile each nonland permanent with the greatest mana value. Repeat once.
+• [i] Exterminate [/i]— At the beginning of your upkeep, exile each nonland permanent with the lowest mana value. Repeat once.
+
+Junker's Jetpack
+rules_text: Equipped creature gets +3/+3 and has flying.
+Whenever equipped creature attacks, you may discard a card. When you do, draw a card.
+Equip {2} => Equipped creature gets +1/+1 for each artifact you control and has flying.
+Whenever equipped creature attacks, you may discard a card. When you do, draw a card.
+Equip {1}
+
+Commander's Wardentree
+rules_text: This land enters tapped.
+{T}: Add one mana of any color in your commander's color identity.
+[i]Exhaust[/i]— {1}, {T}: Target commander you control gains hexproof until the end of turn. [i](Activate each exhaust ability only once.)[/i] => This land enters tapped.
+{T}: Add one mana of any color in your commander's color identity.
+[i]Exhaust[/i]— {2}, {T}: Target commander you control gains hexproof until the end of turn. [i](Activate each exhaust ability only once.)[/i]
+
+Pillar of Gold
+rules_text: This land enters tapped.
+When this land enters, sacrifice it unless you pay {1}.
+{T}: Add two mana of any one color. => This land enters tapped. As it enters, choose a color.
+When this land enters, return a land you control to your hand.
+{T}: Add {C} and one mana of the chosen color.
+
+Camille, Union Premir
+rules_text: Flash; convoke [i](Your creatures can help cast this spell. Each creature you tap while casting this spell pays for {1} or one mana of that creature's color.)[/i]
+When Camille, Union Premir enters the battlefield, creatures you control gain indestructible and hexproof until the end of turn. 
+Flying => Flash; convoke [i](Your creatures can help cast this spell. Each creature you tap while casting this spell pays for {1} or one mana of that creature's color.)[/i]
+When Camille, Union Premir enters the battlefield, you may exile each other creature and artifact you control, then return them to the battlefield at the beginning of the next end step. 
+Flying
+
+Guiding Hero's Light
+rules_text: Exalted [i](Whenever a creature you control attacks alone, that creature gets +1/+1 until end of turn.)[/i]
+Whenever a creature you control attacks alone, it gains indestructible until the end of turn. => Exalted [i](Whenever a creature you control attacks alone, that creature gets +1/+1 until end of turn.)[/i]
+Whenever a creature you control attacks alone, put a +1/+1 counter on it.
+
+Depths of Knowledge
+type: Instant => Sorcery
+
+Commune with Ancestors
+rules_text: Look at the top three cards of your library. You may put a card from among them into your hand and the rest onto the bottom of your library. => Look at the top three cards of your library. You may put a noncreature, nonland from among them into your hand and the rest onto the bottom of your library.
+
+Elder-God's Command
+rules_text: Choose two —
+• Target player loses 6 life, you gain 6 life.
+• Each player sacrifices six creatures.
+• Create a 6/6 black Horror creature token with indestructible. => Choose two —
+• Target player loses 6 life, you gain 6 life.
+• Each player sacrifices six creatures.
+• Create a 6/6 black Horror creature token with indestructible. You lose 6 life.
+
+Wildborn Rebuttle
+cost: {U} => {1}{U}
+
+Eska, Mystic Archmage
+rules_text: Ward {2} [i](Whenever this creature becomes the target of a spell or ability an opponent controls, counter it unless that player pays {2}.)[/i]
+Whenever you cast a noncreature spell, creatures you control gain flying until the end of turn.
+Partner [i](You can have two commanders if both have partner.)[/i] => Ward {2} [i](Whenever this creature becomes the target of a spell or ability an opponent controls, counter it unless that player pays {2}.)[/i]
+Whenever you cast a noncreature spell, target creature you control gains flying until the end of turn.
+Partner [i](You can have two commanders if both have partner.)[/i]
+pt: 3/3 => 2/4
+
+Seafarer Mystic
+rules_text: {U}: Until the end of turn, whenever you cast a noncreature spell, put a +1/+1 counter on a target creature you control. Activate this only once each turn.
+{2}, {T}: Draw a card, discard a card. => Whenever you cast a noncreature spell, you may pay {1}, if you do, support 1. [i](Put a +1/+1 counter on each of up to one other target creature.)[/i]
+{2}, {T}: Draw a card, discard a card.
+pt: 1/1 => 1/3
+
+The Discordant Flesh
+
+The Headless Samurai
+
+Adonis, the Serpent Seraph
+
+Elder-God's Rebuke
+
+God-Cavern Predator
+rules_text: Exalted [i](Whenever a creature you control attacks alone, that creature gets +1/+1 until end of turn.)[/i]
+Tap an untapped creature you control: This artifact becomes a 3/4 Tiger creature in addition to its other types.
+{T}: Add one mana of any color. => Exalted [i](Whenever a creature you control attacks alone, that creature gets +1/+1 until end of turn.)[/i]
+Tap an untapped creature you control: This artifact becomes a 3/4 Cat creature in addition to its other types.
+{T}: Add one mana of any color.
+
+Lyra, Winter Ranger
+
+Skystriker Guardian
+rules_text: Whenever this creature attacks, support 2. [i](Put a +1/+1 counter on each of up to two other target creatures.)[/i]
+This vehicle cannot be blocked by creatures with flying.
+Crew 3 [i](Tap any number of creatures you control with total power 3 or more: This Vehicle becomes an artifact creature until end of turn.)[/i] => Whenever this Vehicle attacks, support 2. [i](Put a +1/+1 counter on each of up to two other target creatures.)[/i]
+This Vehicle cannot be blocked by creatures with flying.
+Crew 3 [i](Tap any number of creatures you control with total power 3 or more: This Vehicle becomes an artifact creature until end of turn.)[/i]
+
+Veska, Bounty Hunter
+
+Lavessa, Wisdom's Guardian
+rules_text: Whenever you attack, draw a card. When you do, you gain life equal to the number of cards in your hand and each opponent loses that much life.
+Vigilance, menace, ward {3} [i](Whenever this creature becomes the target of a spell or ability an opponent controls, counter it unless that player pays {3}.)[/i] => Whenever you attack, draw a card. Then you gain life equal to the number of cards in your hand and each opponent loses that much life.
+Vigilance, menace, ward {3} [i](Whenever this creature becomes the target of a spell or ability an opponent controls, counter it unless that player pays {3}.)[/i]
+
+Open the Vortex
+cost: {X}{U}{U} => {4}{U}{U}
+rules_text: Choose X target creatures, then choose one — 
+• Those creature's owners put them on their choice of the top or bottom of their library.
+• Those creatures cannot be blocked until the end of turn. => Return each creature to their owners' hand. 
+Until the end of your next turn, you have no maximum hand size.
+
+Rydex, Timeless Warrior
+rules_text: Suspend 2 {RG}{1}
+At the beginning of your upkeep, you may exile the top card of your library, if it's a creature or artifact card, you may put two time counters on it, and if it doesn't have suspend it gains suspend. Otherwise you may play it until the end of turn.
+Whenever Rydex dies, you may exile it and put two time counters on it. => Suspend 2 {RG}{1}
+Whenever Rydex or a creature you control with power 4 or greater attacks, exile the top card of your library. Until the end of turn, you may play cards exiled this way.
+Whenever Rydex dies, you may exile it and put two time counters on it.
+
+Sweet Lullaby
+cost: {1}{G}{G} => {2}{G}{G}
+rules_text: Whenever a nontoken creature you control dies, you may exile it and put two time counters on it. If it doesn't have suspend, it gains suspend. [i](At the beginning of your upkeep, remove a time counter. When the last is removed, you may cast it without paying its mana cost. It has haste.)[/i] => Whenever a nontoken creature you control dies, you may exile it and put three time counters on it. If it doesn't have suspend, it gains suspend. [i](At the beginning of your upkeep, remove a time counter. When the last is removed, you may cast it without paying its mana cost. It has haste.)[/i]
+
+Zara, Necromancer Admiral
+
+Breach the Waves
+
+
+VERSION 1 CHANGELOG
 ====================
 
 First version published.
